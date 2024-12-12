@@ -2,7 +2,7 @@
 
 Draft for Fish-PACE Hackweek 2025.
 
-![image](https://github.com/noaa-nwfsc/Hackweek-2024-book/assets/2545978/8f4eda29-eec2-4263-bc1f-600ef5567996)
+![image](https://raw.githubusercontent.com/eeholmes/fish-pace-2025/refs/heads/main/%7B%7B%20cookiecutter.repo_directory%20%7D%7D/assets/images/ocean-color-2019.png?token=GHSAT0AAAAAACRUN67V22D7NCF5LAPT5SVMZ23JFXQ)
 
 
 ## Developers
