@@ -11,18 +11,21 @@ banner:
   year: 2025
   location: TBD
   links:
-  - url: intro.html
-    title: Event Jupyter Book
+#  - url: intro.html
+#    title: Event Jupyter Book
+#    new_window: false
+#    style: btn-primary
+  - url: https://pace.oceansciences.org/home.htm
+    title: PACE website
     new_window: false
     style: btn-primary
-  image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
+  image: https://oceancolor.gsfc.nasa.gov/gallery/feature/images/JPSS1_VIIRS_20231218T190600_southeastern_plumes_sm.png
 # The opening session of the event with UTC offset
 event_countdown: "2025-08-04T08:30:00-07:00"
 about:
-  description: Hackweeks are participant-driven events that strive to create
-    welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science. Fish-PACE Hackweek 2025 
-    will take place in August 2025 (in-person and hybrid).
+  description: New satellite missions for the ocean environment---NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) and the upcoming GEOXO (Geostationary Ocean Color Observatory)---are poised to revolutionize ocean color observation by providing much higher spectral resolution and more frequent, near-real-time data. These advanced missions will significantly enhance our ability to monitor dynamic coastal ecosystems, improving both the accuracy and timeliness of environmental assessments and decision-making. The PACE satellite was launched in February 2024. In the Fish-PACE hackweek, you will learn to work with the new PACE hyperspectral data and tackle applications for fisheries and ocean ecosystem research. 
+
+Fish-PACE Hackweek 2025 will take place in August 2025 (in-person and hybrid).
 team:
   !include team/team.yaml
 schedule:
