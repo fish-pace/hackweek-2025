@@ -11,10 +11,10 @@ banner:
   year: 2025
   location: TBD
   links:
-#  - url: intro.html
-#    title: Event Jupyter Book
-#    new_window: false
-#    style: btn-primary
+  - url: https://ocean-satellite-tools.github.io/fish-pace/
+    title: Event Book
+    new_window: false
+    style: btn-primary
   - url: https://pace.oceansciences.org/home.htm
     title: PACE website
     new_window: false
