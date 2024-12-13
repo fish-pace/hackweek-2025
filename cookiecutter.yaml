@@ -6,10 +6,10 @@ apply:
   title: Applications Opening in April 2025
 banner:
   description: ''
-  start_date: 4 August
-  end_date: 8 August
+  start_date: August
+  end_date: August
   year: 2025
-  location: UMBC, Baltimore, MD
+  location: TBD
   links:
   - url: intro.html
     title: Event Jupyter Book
