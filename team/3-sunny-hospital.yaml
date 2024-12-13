@@ -1,6 +1,6 @@
-- title: Jeremy Werdell
+- title: Sunny Hospital
   avatar: https://science.gsfc.nasa.gov/images/Photos/22097/20720217286__cape_bw_eric_sm.png
-  role: Research Scientist
+  role: PolarWatch Coordinator
   organizations:
     - name: NASA/GSFC/SED
       url: https://science.gsfc.nasa.gov/sci/bio/jeremy.werdell
@@ -11,7 +11,7 @@
     - in situ biogeochemical oceanographic measurements
   social:
     - icon: github
-      link: https://github.com/houghtah
+      link: https://github.com/shospital
   user_groups:
     - Lead Hackweek Organizer
     - Tutorial Lead

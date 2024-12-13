@@ -1,0 +1,16 @@
+- title: Ryan Vandermeulen
+  avatar: https://www.fisheries.noaa.gov/s3//styles/media_250_x_250/s3/2024-10/Vandermeulen_bio_pic.jpg
+  role: Research Scientist
+  organizations:
+    - name: NOAA Fisheries
+      url: https://www.fisheries.noaa.gov/contact/ryan-vandermeulen
+  bio: Ryan's bio
+  expertise:
+    - ocean color
+    - satellite data
+    - Matlab
+  social:
+    - icon: github
+  user_groups:
+    - Lead Hackweek Organizer
+ 
