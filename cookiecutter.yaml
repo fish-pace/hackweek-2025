@@ -24,8 +24,6 @@ banner:
 event_countdown: "2025-08-04T08:30:00-07:00"
 about:
   description: New satellite missions for the ocean environment---NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) and the upcoming GEOXO (Geostationary Ocean Color Observatory)---are poised to revolutionize ocean color observation by providing much higher spectral resolution and more frequent, near-real-time data. These advanced missions will significantly enhance our ability to monitor dynamic coastal ecosystems, improving both the accuracy and timeliness of environmental assessments and decision-making. The PACE satellite was launched in February 2024. In the Fish-PACE hackweek, you will learn to work with the new PACE hyperspectral data and tackle applications for fisheries and ocean ecosystem research. 
-
-Fish-PACE Hackweek 2025 will take place in August 2025 (in-person and hybrid).
 team:
   !include team/team.yaml
 schedule:
