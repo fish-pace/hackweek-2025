@@ -1,6 +1,7 @@
 timezone: UTC -4 (Eastern Daylight Time)
 tabs:
 - title: Day 1
+  date: Monday
   contents:
   - title: Warm-up
     description: Welcome, Introductions, & Housekeeping
@@ -35,6 +36,7 @@ tabs:
     description: Dinner
     time: 17:00 - 18:00
 - title: Day 2
+  date: Tuesday
   contents:
   - title: Breakfast
     time: 7:30 - 8:30
@@ -69,6 +71,7 @@ tabs:
   - title: Dinner
     time: 17:00 - 18:00
 - title: Day 3
+  date: Wednesday
   contents:
   - title: Breakfast
     time: 7:30 - 8:30
@@ -100,7 +103,7 @@ tabs:
     description: null
     time: 15:00 - 17:00
 - title: Day 4
-  date: Wednesday 07 August
+  date: Thursday
   contents:
   - title: Breakfast
     time: 7:30 - 8:30
@@ -132,7 +135,7 @@ tabs:
   - title: Dinner
     time: 17:00 - 18:00
 - title: Day 5
-  date: Thursday 08 August
+  date: Friday
   contents:
   - title: Breakfast
     time: 7:30 - 8:30
