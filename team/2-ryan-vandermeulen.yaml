@@ -1,17 +1,18 @@
 - title: Ryan Vandermeulen
   avatar: https://www.fisheries.noaa.gov/s3//styles/media_250_x_250/s3/2024-10/Vandermeulen_bio_pic.jpg
-  role: Research Scientist
+  role: NMFS Satellite Coordinator
   organizations:
     - name: NOAA Fisheries
       url: https://www.fisheries.noaa.gov/contact/ryan-vandermeulen
-  bio: Ryan's bio
+  bio: Ryan has an obsession with satellite remote sensing and optical oceanography. Ryan acquired his sea legs during his graduate work at the University of Southern Mississippi, moving on to work closely with the Naval Research Lab and various prehistoric reptiles deep in the bayous of Stennis Space Center. NASA’s Ocean Ecology Lab eventually beckoned him to move to Maryland, where for 7 years he delved into an assortment of research projects, and found a knack for making music out of satellite data (no, really). He likes his science, but Ryan also enjoys developing outreach materials that ignite the interest of a broader public audience in the science of our natural world.
   expertise:
     - ocean color
+    - PACE and GeoXO
     - satellite data
     - Matlab
   social:
     - icon: github
-      link: https://github.com/rvandermeulen-noaa
+      link: https://github.com/ryanvandermeulen
   user_groups:
     - Hackweek Organizer
     - Science Lead
