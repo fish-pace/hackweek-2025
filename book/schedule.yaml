@@ -8,33 +8,41 @@ tabs:
     time: 8:30 - 9:00
   - title: Science Lecture
     description: PACE Mission Overview
-    time: 9:00 - 9:45
+    time: 9:00 - 9:30
+  - title: Science Lecture
+    description: Hyperspectral Products for Fisheries Applications
+    time: 9:30 - 10:15
+    leads:
+    - Ryan Vandermeulen
+    - Cara Wilson
   - title: Break
     description: null
-    time: 9:45 - 10:00
+    time: 10:15 - 10:30
   - title: Coding Tutorial 1
-    description: Overview of the hackweek JupyterHub 
-    time: 10:00 - 10:50
+    description: Orientation for the Hackweek JupyterHub 
+    time: 10:30 - 11:00
   - title: Coding Tutorial 2
-    description: Orientation to PACE Data Access
-    time: 11:00 - 11:50
+    description: PACE Data Access
+    time: 11:00 - 12:00
     leads:
     - Eli Holmes
     - TBD
   - title: Lunch
     time: 12:00 - 13:00
-  - title: Lecture
-    description: Best Practices for Collaborative Development
-    time: 13:00 - 13:20
   - title: Project Pitching
     description: null
-    time: 13:20 - 14:45
+    time: 13:00 - 14:15
   - title: Break
     description: null
-    time: 14:45 - 15:00
-  - title: Group Project Refinement
+    time: 14:15 - 14:30
+  - title: Group Project Brainstorming
     description: null
-    time: 15:00 - 17:00
+    time: 14:30 - 16:15
+  - title: Lecture
+    description: Hackweek Collaboration via Git and GitHub
+    time: 16:15 - 17:00
+    leads:
+    - Eli Holmes
   - title: Dinner
     description: Dinner
     time: 17:00 - 18:00
@@ -47,18 +55,14 @@ tabs:
     description: Announcements & Group Check-ins
     time: 8:30 - 9:00
   - title: Science Lecture
-    description: Hyperspectral products for fisheries
+    description: Harmful Algal Blooms and Ocean Color
     time: 9:00 - 9:45
-    leads:
-    - Ryan Vandermeulen
   - title: Break
     description: null
     time: 9:45 - 10:00
   - title: Lecture
-    description: Hackweek collaboration via Git and GitHub
+    description: Chlorophyll, Fish and Fisheries Management
     time: 10:00 - 10:45
-    leads:
-    - Eli Holmes
   - title: Group Project Set-up
     description: Null
     time: 10:45 - 12:00
@@ -87,7 +91,7 @@ tabs:
     description: Announcements & Group Check-ins
     time: 8:30 - 9:00
   - title: Science Lecture
-    description: Harmful Algal Bloom (HAB) detection
+    description: Phytoplankton Community Composition from Ocean Color
     time: 9:00 - 9:45
   - title: Break
     description: null
@@ -98,10 +102,10 @@ tabs:
   - title: Lunch
     time: 12:00 - 13:00
   - title: Coding Tutorial 1
-    description: Phytoplankton community composition (OCSSW)
+    description: Phytoplankton Community Composition (OCSSW)
     time: 13:00 - 13:45
   - title: Coding Tutorial 2
-    description: Comparing multi-source ocean color data
+    description: Comparing Multi-source Ocean Color Data
     time: 14:00 - 14:45
   - title: Break
     description: null
@@ -128,7 +132,7 @@ tabs:
   - title: Lunch
     time: 12:00 - 13:00
   - title: Coding Tutorial 1
-    description: Hypercoast for vizualization
+    description: Hypercoast for Vizualization
     time: 13:00 - 13:45
   - title: Coding Tutorial 2
     description: Machine Learning with Satellite Data
