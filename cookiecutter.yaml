@@ -1,6 +1,6 @@
 repo_directory: html
 name: Fish-PACE Hackweek
-favicon: images/favicon-16x16.png
+favicon: assets/images/favicon-16x16.png
 apply:
   url: ''
   title: Applications Opening in April 2025
