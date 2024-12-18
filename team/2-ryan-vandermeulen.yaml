@@ -13,6 +13,8 @@
   social:
     - icon: github
       link: https://github.com/ryanvandermeulen
+    - icon: orcid
+      link: https://orcid.org/0000-0001-5886-8142
   user_groups:
     - Hackweek Organizer
     - Science Lead
