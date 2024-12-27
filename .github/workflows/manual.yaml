@@ -1,4 +1,4 @@
-name: Build Without Cache and Save Build
+name: Build and Save Build Artifacts
 # You can download the build from actions artifacts
 
 on:
