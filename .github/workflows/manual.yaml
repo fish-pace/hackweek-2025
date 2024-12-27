@@ -1,4 +1,5 @@
-name: Build Without Cache
+name: Build Without Cache and Save Build
+# You can download the build from actions artifacts
 
 on:
   workflow_dispatch:
