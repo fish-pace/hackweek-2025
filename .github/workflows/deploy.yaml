@@ -42,5 +42,5 @@ jobs:
       with:
         jb-cache: false
         publish-to-gh: true
-        jb-save: true
+        jb-save: false
         token:  ${{ secrets.GITHUB_TOKEN }}
