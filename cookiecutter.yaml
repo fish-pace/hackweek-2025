@@ -40,6 +40,12 @@ sponsors:
   - name: CoastWatch
     website: https://coastwatch.noaa.gov/cwn/index.html
     logo_url: assets/images/coastwatch_logo.png
+  - name: NANOOS
+    website: https://www.nanoos.org/
+    logo_url: assets/images/nanoos_logo.png
+  - name: OceanHackWeek
+    website: https://oceanhackweek.org/
+    logo_url: assets/images/ohw_logo.png
 footer:
   social:
   - icon: github
