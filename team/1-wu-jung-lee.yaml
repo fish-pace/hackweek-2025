@@ -1,0 +1,20 @@
+- title: Wu-Jung Lee, PhD
+  avatar: https://leewujung.github.io/authors/admin/avatar_hu78d224dd63dc200a46c13d6ae651e001_519955_250x250_fill_q90_lanczos_center.jpg
+  role: NANOOS-UW PI
+  organizations:
+    - name: University of Washington, Applied Physics Lab
+  bio: Wu-Jung Lee is a Senior Oceanographer at the Applied Physics Laboratory, University of Washington in Seattle, WA, USA. She received her B.S. degrees in Electrical Engineering and Life Science from National Taiwan University and her Ph.D. from the Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Oceanography. Since 2018 she has led and co-led the organization OceanHackWeek, dedicated to building a community centered around data science in oceanography that embraces open science values.
+  expertise:
+    - Git/GitHub
+    - Python
+    - ocean data
+    - acoustics
+    - open source packages
+    - cloud computing and parallel computing
+  social:
+    - icon: github
+      link: https://github.com/leewujung
+    - icon: orcid
+      link: https://orcid.org/0000-0002-4112-2034
+  user_groups:
+    - Hackweek organizer and logistics
