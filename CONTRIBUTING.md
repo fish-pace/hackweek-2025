@@ -70,3 +70,15 @@ When adding a new `.ipynb` file under `book/tutorials` be sure to:
 
 ## Releasing new template versions
 Before using this template for events, make a git tag and GitHub Release. We follow a [calendar versioning scheme](https://calver.org), so tags are a date like `2021.05.05`. Don't forget to update the [Changelog](./CHANGELOG.md)!
+
+## Artifacts
+
+These can fill up the free storage so make sure to turn them off in deploy.yaml.
+
+```
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer PAT with API access" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/repos/eeholmes/fish-pace-2025/actions/artifacts
+```
