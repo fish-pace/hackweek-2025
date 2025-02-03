@@ -78,7 +78,7 @@ These can fill up the free storage so make sure to turn them off in deploy.yaml.
 ```
 curl -L \
   -H "Accept: application/vnd.github+json" \
-  -H "Authorization: Bearer PAT with API access" \
+  -H "Authorization: Bearer <PAT with Read access to actions, administration, codespaces, and metadata>" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/repos/eeholmes/fish-pace-2025/actions/artifacts
 ```
