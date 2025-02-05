@@ -133,7 +133,7 @@ tabs:
   - title: Lunch
     time: 12:00 - 13:00
   - title: Coding Tutorial 1
-    description: Hypercoast for Vizualization
+    description: Hypercoast for Visualization
     time: 13:00 - 13:45
   - title: Coding Tutorial 2
     description: Simple Machine Learning Tasks with Satellite Data
