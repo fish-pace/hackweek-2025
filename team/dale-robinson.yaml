@@ -1,0 +1,18 @@
+- title: Dale Robinson
+  avatar: img/dale.jpeg
+  role: West Coast Coordinator, CoastWatch
+  organizations:
+    - name: CoastWatch
+      url: https://www.fisheries.noaa.gov/contact/dale-robinson
+  bio: 
+  expertise:
+    - satellite data access
+    - ocean color
+  social:
+    - icon: github
+      link: https://github.com/CoastWatch-WestCoast
+  user_groups:
+    - Science Lead
+    - Tutorial Lead
+    - Project Mentor
+ 

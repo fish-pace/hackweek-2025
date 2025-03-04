@@ -1,5 +1,6 @@
 .DS_Store
 *.Rproj
+.Rhistory
 
 # Jupyter Book things
 .bash_history

@@ -38,7 +38,7 @@
                 <div class="site-logo">
                     <a class="scrollto" href="#hero-block">
                         <span class="logo-icon-text">
-                            PACE Hackweek
+                            Fish-PACE Hackweek
                         </span>
                     </a>
                 </div>
@@ -83,7 +83,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link scrollto" href="#sponsors-section">
-                                Sponsors
+                                Sponsors and Partners
                             </a>
                         </li>
                     </ul>
@@ -223,7 +223,7 @@
         <h3 class="section-heading text-center mb-1">Schedule</h3>
         <h4 class="text-center mb-5">
             All times listed below are {{ cookiecutter.schedule.timezone }}.
-            You might want to consult this
+            Consult this
             <a href="https://www.timeanddate.com/time/map/" target="_blank">
                 Time Zone Map
             </a>
@@ -385,7 +385,7 @@
                     <a href="#{{ modal_key }}" data-bs-toggle="modal"
                        data-bs-target="#{{ modal_key }}"><img
                         src="{{ person['avatar'] }}"
-                        class="card-img-top rounded-0" alt=""></a>
+                        class="card-img-top rounded-circle" alt=""></a>
                     <div class="card-body">
                         <h5 class="card-title mb-2">{{ person['title'] }}</h5>
                         <div class="card-text mb-3">
@@ -522,7 +522,7 @@
 {%- if cookiecutter.sponsors %}
 <section id="sponsors-section" class="sponsors-section section theme-bg-light">
     <div class="container">
-        <h3 class="section-heading text-center mb-3">Our Sponsors</h3>
+        <h3 class="section-heading text-center mb-3">Our Sponsors and Partners</h3>
         <div class="section-intro text-center single-col-max mx-auto mb-5">
             {{ cookiecutter.sponsors['description'] }}
         </div>

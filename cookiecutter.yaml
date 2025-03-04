@@ -1,36 +1,29 @@
 repo_directory: html
-name: PACE Hackweek
-favicon: https://web.whoi.edu/ocb/wp-content/uploads/sites/43/builder-favicon/4dYqnNNS.ico
+name: Fish-PACE Hackweek
+favicon: assets/images/favicon-16x16.png
 apply:
   url: ''
-  title: Applications Closed
+  title: Applications Opening in April 2025
 banner:
   description: ''
-  start_date: 4 August
-  end_date: 8 August
-  year: 2024
-  location: UMBC, Baltimore, MD
+  start_date: 15 August 2025
+  end_date: 25 August 2025
+  year: 2025
+  location: San Diego, CA
   links:
-  - url: intro.html
-    title: Event Jupyter Book
+  - url: https://ocean-satellite-tools.github.io/fish-pace/
+    title: Event Book
     new_window: false
     style: btn-primary
-  - url: https://docs.google.com/forms/d/e/1FAIpQLSdgKaZEi8px6YHt2U2zUkAeExQ_-dGNNj4QFb7oDHXgxygieg/viewform?usp=sf_link
-    title: Feedback Survey
-    new_window: true
-    style: btn-success
-  - url: https://docs.google.com/forms/d/e/1FAIpQLScQGnGCyWBPncSfYnE0VPWwWWzZwiHZlCWubBjHWGmPzpc82w/viewform?usp=sf_link
-    title: Demographic Survey
-    new_window: true
-    style: btn-warning
-  image: https://pace.oceansciences.org/images/pace_rotator_life_water_level_2160w_800h.jpg
+  - url: https://pace.oceansciences.org/home.htm
+    title: PACE website
+    new_window: false
+    style: btn-primary
+  image: https://oceancolor.gsfc.nasa.gov/gallery/feature/images/JPSS1_VIIRS_20231218T190600_southeastern_plumes_sm.png
 # The opening session of the event with UTC offset
-event_countdown: "2024-08-04T08:30:00-07:00"
+event_countdown: "2025-08-15T08:30:00-07:00"
 about:
-  description: Hackweeks are participant-driven events that strive to create
-    welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science. PACE Hackweek 2024 
-    will take place in August 2024 (in-person). Applications are closed.
+  description: New satellite missions for the ocean environment&mdash;NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) launched in February 2024 and the upcoming GEOXO (Geostationary Ocean Color Observatory)&mdash;are poised to revolutionize ocean color observation by providing much higher spectral resolution and more frequent, near-real-time data. These advanced missions will significantly enhance our ability to monitor dynamic coastal ecosystems, improving both the accuracy and timeliness of environmental assessments and decision-making. In the Fish-PACE hackweek, you will learn to work with the new PACE hyperspectral data and tackle applications for fisheries and ocean ecosystem research.<br><br>Hackweeks are participant-driven events that strive to create welcoming spaces for participants to learn new things, build community and gain hands-on experience with collaboration and team science. During Fish-PACE, we will have science lectures and coding tutorials in the mornings to get you up and running quickly with PACE data. In the afternoon, you will work on team projects.
 team:
   !include team/team.yaml
 schedule:
@@ -41,16 +34,22 @@ sponsors:
   - name: NASA/GSFC/PACE
     website: https://pace.oceansciences.org/home.htm
     logo_url: https://web.whoi.edu/ocb/wp-content/uploads/sites/43/2015/06/nasa.png
-  - name: OCB
-    website: https://www.us-ocb.org/
-    logo_url: assets/images/ocb_logo.png
-  - name: NSF
-    website: https://nsf.gov/
-    logo_url: assets/images/nsf.png
+  - name: GEOXO
+    website: https://www.nesdis.noaa.gov/our-satellites/future-programs/geostationary-extended-observations-geoxo
+    logo_url: assets/images/geoxo_logo.jpg
+  - name: CoastWatch
+    website: https://coastwatch.noaa.gov/cwn/index.html
+    logo_url: assets/images/coastwatch_logo.png
+  - name: NANOOS
+    website: https://www.nanoos.org/
+    logo_url: assets/images/nanoos_logo.png
+  - name: OceanHackWeek
+    website: https://oceanhackweek.org/
+    logo_url: assets/images/ohw_logo.png
 footer:
   social:
   - icon: github
-    link: https://github.com/PACEHackWeek/
+    link: https://github.com/eeholmes/fish-pace-2025
 _copy_without_render:
 - assets
 _extensions:
