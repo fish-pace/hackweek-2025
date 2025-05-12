@@ -55,10 +55,4 @@ runs:
       id: deployment
       uses: actions/deploy-pages@v4
 
-    - name: Upload Complete Build Folder
-      if: ${{ always() && inputs.jb-save == 'true'}}
-      uses: actions/upload-artifact@v4
-      with:
-        name: build-${{ runner.os }}
-        path: book/_build/
 
