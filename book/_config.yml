@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: PACE Hackweek 2024
-author: content OCB, template UW/eScience Institute
+title: Fish-PACE Hackweek 2025
+author: content EE Holmes, template UW/eScience Institute
 logo: logo.png
 only_build_toc_files: false
 
@@ -10,12 +10,12 @@ parse:
   # https://jupyterbook.org/content/content-blocks.html?highlight=myst%20substitution#define-substitutions-for-your-whole-book
   # https://jupyterbook.org/content/content-blocks.html#using-substitutions-in-links
   myst_substitutions:
-    hackweek: "PACE Hackweek"
-    dates: "August 4 to 8, 2024"
-    github_org_url: "https://github.com/PACEHackWeek"
-    book_repo: "pace-2024"
-    website_url: "https://PACEHackWeek.github.io/pace-2024"
-    jupyterhub_url: "https://hub.cryointhecloud.com"
+    hackweek: "Fish-PACE Hackweek"
+    dates: "Sept 19 to 23, 2025"
+    github_org_url: "https://github.com/ocean-satellite-tools"
+    book_repo: "fish-pace-hackweek-2025"
+    website_url: "https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/"
+    jupyterhub_url: "https://workshop.nmfs-openscapes.2i2c.cloud"
     slack_workspace_url: "https://cryospherecloud.slack.com"
     contact_email: "anna.windledipaola@nasa.gov"
     anon_reporting_url: "https://www.us-ocb.org/about/ocb-program-code-of-conduct"
