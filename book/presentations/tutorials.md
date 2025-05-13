@@ -9,8 +9,6 @@ through these tutorials interactively. On JupyterHub, your home directory persis
 so any changes you make to the tutorials will be saved and be there for you next
 time you log in.
 
-You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website.](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/)
-
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
 | Overview of CryoCloud JupyterHub                  | [{fas}`eye;sd-text-primary`][cc-slides]      | [{fas}`eye;sd-text-primary`][cc-nb] [{fas}`download;sd-text-primary`][cc-dl] | [{fab}`youtube;sd-text-primary`][cc-vid] |
@@ -23,6 +21,9 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 | Parallel and Larger-than-Memory Computing         |                                              | [{fas}`eye;sd-text-primary`][da-nb] [{fas}`download;sd-text-primary`][da-dl] | [{fab}`youtube;sd-text-primary`][da-vid] |
 | Machine Learning with Satellite Data              | [{fas}`eye;sd-text-primary`][ml-slides-view] | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | [{fab}`youtube;sd-text-primary`][ml-vid] |
 | Environments and Containers for Reusable Projects | [{fas}`eye;sd-text-primary`][re-slides-view] |                                                                              | [{fab}`youtube;sd-text-primary`][re-vid] |
+You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website.](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/)
+
+
 
 
 [cc-slides]: https://docs.google.com/presentation/d/1MnXo091TBBWtxjcyiixCbSG7GIy10g5MMmfGW3EwTfE/present?slide=id.p1
