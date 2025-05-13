@@ -19,7 +19,7 @@ parse:
 #    slack_workspace_url: "https://cryospherecloud.slack.com"
     contact_email: "eli.holmes@noaa.gov"
 #    anon_reporting_url: "https://www.us-ocb.org/about/ocb-program-code-of-conduct"
-#    project_spreadsheet_url: "https://docs.google.com/spreadsheets/d/17QjyUFOsBxRdgD38F24PfZKMtgup5rspUO6dNSGQS2c"
+    project_spreadsheet_url: "https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/projects/list_of_projects.html"
   myst_enable_extensions:
     # Defaults
     - dollarmath
