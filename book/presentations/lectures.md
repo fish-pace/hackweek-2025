@@ -14,27 +14,27 @@ The slides and recordings will be linked from this page as they become available
 | Optical Light Fields and Fish Behavior | [{fas}`eye;sd-text-primary`][light-view] [{fas}`download;sd-text-primary`][light-dl]   | [{fab}`youtube;sd-text-primary`][light-vid] |
 | The Future of High-resolution Ocean Color | [{fas}`eye;sd-text-primary`][future-view] [{fas}`download;sd-text-primary`][future-dl]   | [{fab}`youtube;sd-text-primary`][future-vid] |
 
-[welcome-view]: 
-[welcome-dl]: 
-[welcome-vid]: 
-[hyper-view]: 
-[hyper-dl]: 
-[hyper-vid]: 
-[pace-view]: 
-[pace-dl]: 
-[pace-vid]: 
+[welcome-view]: ""
+[welcome-dl]: ""
+[welcome-vid]: ""
+[hyper-view]: ""
+[hyper-dl]: ""
+[hyper-vid]: ""
+[pace-view]: ""
+[pace-dl]: ""
+[pace-vid]: ""
 [collab-view]: https://docs.google.com/presentation/d/1pfjCAAb3Erv8mApSXZ5YyisSuh7a-gbMAjmmNiCP2j8/present?usp=sharing
 [collab-dl]: https://drive.usercontent.google.com/download?id=1AE5ETm5qLn6szpClIU_mJkYM_w8uopRK&export=download&authuser=0
-[collab-vid]: 
-[habs-view]: 
-[habs-dl]: 
-[habs-vid]: 
-[phyto-view]: 
-[phyto-dl]: 
-[phyto-vid]: 
-[light-view]: 
-[light-dl]: 
-[light-vid]: 
-[future-view]: 
-[future-dl]: 
-[future-vid]: 
+[collab-vid]: ""
+[habs-view]: ""
+[habs-dl]: ""
+[habs-vid]: ""
+[phyto-view]: ""
+[phyto-dl]: ""
+[phyto-vid]: ""
+[light-view]: ""
+[light-dl]: ""
+[light-vid]: ""
+[future-view]: ""
+[future-dl]: ""
+[future-vid]: ""
