@@ -5,7 +5,7 @@ slides, and most have an accompanying Jupyter Notebooks that can be run in our
 {{ '[preconfigured software environment]({url})'.format(url=jupyterhub_url) }}
 If you are attending the hackweek, you have access to a JupyterHub environment
 with all the necessary Python software packages installed that are needed to run
-through these tutorials interactively. On JupyterHub, your home directory persists
+through these tutorials interactively. On the JupyterHub, your home directory persists
 so any changes you make to the tutorials will be saved and be there for you next
 time you log in.
 
@@ -26,7 +26,7 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 
 
 [jh-slides-view]: 
-[ed-slides-view]: https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
+[ed-slides-view]: 
 [dv-slides-view]: 
 [mu-slides-view]: 
 [phyto-slides-view]: 
@@ -34,32 +34,29 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [kd-slides-view]: 
 [ml-slides-view]: 
 
-[cc-nb]: ./hackweek/cryocloud_overview/CryoCloud_demo
+[jh-nb]: ./hackweek/hub_demo
 [ed-nb]: ./hackweek/earthdata_cloud_access
-[dv-nb]: ./hackweek/satdata_visualization
-[mu-nb]: ./hackweek/satellite_insitu_matchups
-[phyto-nb]: ./hackweek/satellite_insitu_matchups_thomas
-[rrs-nb]: ./hackweek/dask_gridding
-[kd-nb]: ./hackweek/ocssw_processing
-[ml-nb]: ./hackweek/ml_cloud_mask
+[dv-nb]: 
+[mu-nb]: 
+[phyto-nb]: 
+[rrs-nb]: 
+[kd-nb]: 
+[ml-nb]: 
 
-[cc-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/cryocloud_overview/CryoCloud_demo.ipynb
-[ed-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/earthdata_cloud_access.ipynb
-[dv-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satdata_visualization.ipynb
-[mu-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satellite_insitu_matchups.ipynb
-[mut-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/satellite_insitu_matchups_thomas.ipynb
-[cl-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ocssw_processing.ipynb
-[da-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/dask_gridding.ipynb
-[ml-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/ml_cloud_mask.ipynb
+[jh-dl]: https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/presentations/hackweek/hub_demo.ipynb
+[ed-dl]: https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/presentations/hackweek/earthdata_cloud_access.ipynb
+[dv-dl]: 
+[mu-dl]: 
+[phyto-dl]: 
+[rrs-dl]: 
+[kd-dl]: 
+[ml-dl]: 
 
-[cc-vid]: https://www.youtube.com/watch?v=8NMIfiLQBdY&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=1
+[jh-vid]:
 [ed-vid]: https://www.youtube.com/watch?v=zy6QyUPK3nM&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=8
-
-[mu-vid]: https://www.youtube.com/watch?v=Nb6WtFkFkRE&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=5&t=1856s
-[dv-vid]: https://www.youtube.com/watch?v=V9YA5_IF9Eg&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=9
-[mut-vid]: https://www.youtube.com/watch?v=Nb6WtFkFkRE&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=5
-[git-vid]: https://www.youtube.com/watch?v=9LOmUa_U2qc&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=2
-[cl-vid]: https://www.youtube.com/watch?v=Gl51QNSLtZE&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=4
-[da-vid]: https://www.youtube.com/watch?v=C8KIwFNVqvo&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=3
-[ml-vid]: https://www.youtube.com/watch?v=Zyv8CO_aVO4&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=6
-[re-vid]: https://www.youtube.com/watch?v=aoJ0cpXo7No&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=7
+[dv-vid]: 
+[mu-vid]: 
+[phyto-vid]: 
+[rrs-vid]: 
+[kd-vid]: 
+[ml-vid]:
