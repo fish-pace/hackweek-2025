@@ -1,6 +1,6 @@
 # What to Expect 
 
-The PACE hackweek will focus on applied, hands-on learning, with participants engaging in
+The {{ hackweek }} will focus on applied, hands-on learning, with participants engaging in
 extended periods of small-group work. Our tutorials are designed to offer a broad
 snapshot of data science tools to support your applied investigations. Due to the
 relatively short duration of our events, we are not able to provide comprehensive,

@@ -66,7 +66,7 @@ Personal Access Tokens, which you can learn more about on [GitHub docs][gh-docs]
 
 [gh-docs]:https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
-#### Option 1: CryoCloud GitHub Access
+#### Option 1: gh-scoped-creds
 
 We recommend this method if you have permission to configure a GitHub App on the user or organization where you
 need to authenticate. For instance, if you want to push to `https://github.com/example/repo.git`, then you need to have
@@ -90,7 +90,7 @@ Visit https://github.com/apps/cryocloud-github-access to manage list of reposito
 Tip: Use https:// URLs to clone and push to repos, not ssh URLs!
 ```
 
-To set up the user or oranization to allow access by the Personal Access Token just created, follow the link provided.
+To set up the user or organization to allow access by the Personal Access Token just created, follow the link provided.
 
 Here is a GIF walking through the workflow. Note that it shows a way to do the same setup in a notebook before
 showing the Terminal way just described.
@@ -106,7 +106,7 @@ page. The maximum permissions you likely need is the **repo** scope.
 ![github-token](../img/github-token.png)
 
 Once you have created your token, be sure to save it or use it before navigating away. It won't be
-visible again. To have it saved on CryoCloud the first time you use it, configure the `git` credential helper.
+visible again. To have it saved on the JupyterHub the first time you use it, configure the `git` credential helper.
 
 ```shell
 git config --global credential.helper store

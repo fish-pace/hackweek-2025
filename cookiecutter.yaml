@@ -19,7 +19,7 @@ banner:
     title: Resource Book
     new_window: false
     style: btn-primary
-  image: assets/images/spring-bloom.png
+  image: assets/images/eastcoast_PACE_OCI_20240502T172807.png
 # The opening session of the event with UTC offset
 event_countdown: "2025-09-19T08:30:00-07:00"
 about:
