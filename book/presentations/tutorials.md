@@ -11,7 +11,7 @@ time you log in.
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| Overview of the JupyterHub                  | [{fas}`eye;sd-text-primary`][jh-slides-view]      | [{fas}`eye;sd-text-primary`][jh-nb] [{fas}`download;sd-text-primary`][jh-dl] | [{fab}`youtube;sd-text-primary`][jh-vid] |
+| Overview of the JupyterHub                  | [{fas}`eye;sd-text-primary`][jh-slides-view]      | [{fas}`eye;sd-text-primary`][jh-nb] [{fas}`download;sd-text-primary`][jh-dl] |  [{fab}`youtube;sd-text-primary`][jh-vid]  |
 | Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides-view]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | [{fab}`youtube;sd-text-primary`][ed-vid] |
 | Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view]  | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | [{fab}`youtube;sd-text-primary`][dv-vid] |
 | Matchups of in-situ Data With Satellite Data | [{fas}`eye;sd-text-primary`][mu-slides-view]  | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | [{fab}`youtube;sd-text-primary`][mu-vid] |
@@ -25,38 +25,38 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 
 
 
-[jh-slides-view]: 
-[ed-slides-view]: 
-[dv-slides-view]: 
-[mu-slides-view]: 
-[phyto-slides-view]: 
-[rrs-slides-view]: 
-[kd-slides-view]: 
-[ml-slides-view]: 
+[jh-slides-view]: ""
+[ed-slides-view]: ""
+[dv-slides-view]: ""
+[mu-slides-view]: ""
+[phyto-slides-view]: ""
+[rrs-slides-view]: ""
+[kd-slides-view]: ""
+[ml-slides-view]: ""
 
 [jh-nb]: ./hackweek/hub_demo
 [ed-nb]: ./hackweek/earthdata_cloud_access
-[dv-nb]: 
-[mu-nb]: 
-[phyto-nb]: 
-[rrs-nb]: 
-[kd-nb]: 
-[ml-nb]: 
+[dv-nb]: ""
+[mu-nb]: ""
+[phyto-nb]: ""
+[rrs-nb]: ""
+[kd-nb]: ""
+[ml-nb]: ""
 
 [jh-dl]: https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/presentations/hackweek/hub_demo.ipynb
 [ed-dl]: https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/presentations/hackweek/earthdata_cloud_access.ipynb
-[dv-dl]: 
-[mu-dl]: 
-[phyto-dl]: 
-[rrs-dl]: 
-[kd-dl]: 
-[ml-dl]: 
+[dv-dl]: ""
+[mu-dl]: ""
+[phyto-dl]: ""
+[rrs-dl]: ""
+[kd-dl]: ""
+[ml-dl]: ""
 
-[jh-vid]:
+[jh-vid]: ""
 [ed-vid]: https://www.youtube.com/watch?v=zy6QyUPK3nM&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=8
-[dv-vid]: 
-[mu-vid]: 
-[phyto-vid]: 
-[rrs-vid]: 
-[kd-vid]: 
-[ml-vid]:
+[dv-vid]: ""
+[mu-vid]: ""
+[phyto-vid]: ""
+[rrs-vid]: ""
+[kd-vid]: ""
+[ml-vid]: ""

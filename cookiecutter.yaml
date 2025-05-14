@@ -11,7 +11,7 @@ banner:
   year: 2025
   location: Virtual
   links:
-  - url: https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/intro.html
+  - url: intro.html
     title: Event Book
     new_window: false
     style: btn-primary
@@ -19,7 +19,7 @@ banner:
     title: Resource Book
     new_window: false
     style: btn-primary
-  image: https://oceancolor.gsfc.nasa.gov/gallery/feature/images/JPSS1_VIIRS_20231218T190600_southeastern_plumes_sm.png
+  image: assets/images/eastcoast_PACE_OCI_20240502T172807.png
 # The opening session of the event with UTC offset
 event_countdown: "2025-09-19T08:30:00-07:00"
 about:

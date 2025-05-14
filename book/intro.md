@@ -1,6 +1,6 @@
 # Welcome to {{hackweek}}!
 
-![banner](img/pace-banner-1.png)
+![banner](img/banner.png)
 
 
 📖 On this JupyterBook website you'll find [lectures](presentations/lectures) and [tutorials](presentations/tutorials). Lectures provide science background for how hyperspectral ocean color can be used in ocean ecosystem and fisheries contexts. Tutorials can include slides and Jupyter Notebooks, designed to be run interactively, but also rendered on this website for convenience.
