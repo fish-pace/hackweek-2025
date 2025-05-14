@@ -11,38 +11,36 @@ time you log in.
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| Overview of the JupyterHub                  | [{fas}`eye;sd-text-primary`][jh-slides]      | [{fas}`eye;sd-text-primary`][jh-nb] [{fas}`download;sd-text-primary`][jh-dl] | [{fab}`youtube;sd-text-primary`][jh-vid] |
-| Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | [{fab}`youtube;sd-text-primary`][ed-vid] |
-| Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view] [{fas}`download;sd-text-primary`][dv-slides-dl] | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | [{fab}`youtube;sd-text-primary`][dv-vid] |
-| Matchups of in-situ Data With Satellite Data | [{fas}`eye;sd-text-primary`][mut-slides-view] [{fas}`download;sd-text-primary`][mut-slides-dl] | [{fas}`eye;sd-text-primary`][mut-nb] [{fas}`download;sd-text-primary`][mut-dl] | [{fab}`youtube;sd-text-primary`][mut-vid] |
-| Phytoplankton Community Composition  |  [{fas}`eye;sd-text-primary`][phyto-slides-view] [{fas}`download;sd-text-primary`][phyto-slides-dl] | [{fas}`eye;sd-text-primary`][phyto-nb] [{fas}`download;sd-text-primary`][phyto-dl] | [{fab}`youtube;sd-text-primary`][phyto-vid] |
-| Remote-Sensing Reflectance (RRS) | [{fas}`eye;sd-text-primary`][rrs-slides-view] [{fas}`download;sd-text-primary`][rrs-slides-dl] | [{fas}`eye;sd-text-primary`][rrs-nb] [{fas}`download;sd-text-primary`][rrs-dl] | [{fab}`youtube;sd-text-primary`][rrs-vid] |
-| Light Attenuation (Kd)  | [{fas}`eye;sd-text-primary`][kd-slides-view] [{fas}`download;sd-text-primary`][kd-slides-dl] | [{fas}`eye;sd-text-primary`][kd-nb] [{fas}`download;sd-text-primary`][kd-dl] | [{fab}`youtube;sd-text-primary`][kd-vid] |
-| Simple Machine Learning  | [{fas}`eye;sd-text-primary`][ml-slides-view] [{fas}`download;sd-text-primary`][ml-slides-dl] | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | [{fab}`youtube;sd-text-primary`][ml-vid] |
+| Overview of the JupyterHub                  | [{fas}`eye;sd-text-primary`][jh-slides-view]      | [{fas}`eye;sd-text-primary`][jh-nb] [{fas}`download;sd-text-primary`][jh-dl] | [{fab}`youtube;sd-text-primary`][jh-vid] |
+| Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides-view]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | [{fab}`youtube;sd-text-primary`][ed-vid] |
+| Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view]  | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | [{fab}`youtube;sd-text-primary`][dv-vid] |
+| Matchups of in-situ Data With Satellite Data | [{fas}`eye;sd-text-primary`][mu-slides-view]  | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | [{fab}`youtube;sd-text-primary`][mu-vid] |
+| Phytoplankton Community Composition  |  [{fas}`eye;sd-text-primary`][phyto-slides-view]  | [{fas}`eye;sd-text-primary`][phyto-nb] [{fas}`download;sd-text-primary`][phyto-dl] | [{fab}`youtube;sd-text-primary`][phyto-vid] |
+| Remote-Sensing Reflectance (RRS) | [{fas}`eye;sd-text-primary`][rrs-slides-view]  | [{fas}`eye;sd-text-primary`][rrs-nb] [{fas}`download;sd-text-primary`][rrs-dl] | [{fab}`youtube;sd-text-primary`][rrs-vid] |
+| Light Attenuation (Kd)  | [{fas}`eye;sd-text-primary`][kd-slides-view]  | [{fas}`eye;sd-text-primary`][kd-nb] [{fas}`download;sd-text-primary`][kd-dl] | [{fab}`youtube;sd-text-primary`][kd-vid] |
+| Simple Machine Learning  | [{fas}`eye;sd-text-primary`][ml-slides-view]  | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | [{fab}`youtube;sd-text-primary`][ml-vid] |
 
 You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website.](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
 
 
 
 
-[cc-slides]: https://docs.google.com/presentation/d/1MnXo091TBBWtxjcyiixCbSG7GIy10g5MMmfGW3EwTfE/present?slide=id.p1
-[ed-slides]: https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
-[dv-slides-dl]: https://drive.usercontent.google.com/download?id=1Tqt1hPPDNwD7iJGA2p594ahsuVGd29lM&export=download&authuser=0
-[dv-slides-view]: https://docs.google.com/presentation/d/1gt54_AHbAn2I_kaSmySBnlhcv33Ydn7YpxzUkdwNhUc/present?usp=sharing
-[cl-slides]: https://drive.usercontent.google.com/download?id=1B3Ri6isdGgmrV0A2BHBN-vGoON8pHmRI&export=download&authuser=0
-[git-slides]: https://docs.google.com/presentation/d/1ylRMdihGg7Fr9cjm1rjggU7Tcc4Zb8MsH0gH2R09RZk/present?usp=sharing
-[mut-slides-dl]: https://drive.usercontent.google.com/download?id=1-2nWGGxBWGhtMuEM02GqzfzakR8EAXXO&export=download&authuser=0
-[mut-slides-view]: https://docs.google.com/presentation/d/1qlAeo7igENAAERS8tU3tduWwNoAtsUDFYt9Zu1figq4/present
-[ml-slides-view]: https://docs.google.com/presentation/d/1AI_TeCet1nulDEKjs5ZdK2B6luAPG9Mwnse_KOQZLws/present
-[re-slides-view]: https://docs.google.com/presentation/d/17WIDy5rA0VA-6RQpo7wGAeAP-Uz_kxPr/present
+[jh-slides-view]: 
+[ed-slides-view]: https://docs.google.com/presentation/d/1cdoHYlNqybj5sPl7mAUrk5H5BHnUeuDA_W6_rtoHXkc/present?slide=id.p
+[dv-slides-view]: 
+[mu-slides-view]: 
+[phyto-slides-view]: 
+[rrs-slides-view]: 
+[kd-slides-view]: 
+[ml-slides-view]: 
 
 [cc-nb]: ./hackweek/cryocloud_overview/CryoCloud_demo
 [ed-nb]: ./hackweek/earthdata_cloud_access
 [dv-nb]: ./hackweek/satdata_visualization
 [mu-nb]: ./hackweek/satellite_insitu_matchups
-[mut-nb]: ./hackweek/satellite_insitu_matchups_thomas
-[da-nb]: ./hackweek/dask_gridding
-[cl-nb]: ./hackweek/ocssw_processing
+[phyto-nb]: ./hackweek/satellite_insitu_matchups_thomas
+[rrs-nb]: ./hackweek/dask_gridding
+[kd-nb]: ./hackweek/ocssw_processing
 [ml-nb]: ./hackweek/ml_cloud_mask
 
 [cc-dl]: https://pacehackweek.github.io/pace-2024/_sources/presentations/hackweek/cryocloud_overview/CryoCloud_demo.ipynb
