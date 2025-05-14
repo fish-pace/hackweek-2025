@@ -11,7 +11,7 @@ banner:
   year: 2025
   location: Virtual
   links:
-  - url: https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/intro.html
+  - url: intro.html
     title: Event Book
     new_window: false
     style: btn-primary
