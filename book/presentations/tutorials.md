@@ -15,13 +15,12 @@ time you log in.
 | Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | [{fab}`youtube;sd-text-primary`][ed-vid] |
 | Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view] [{fas}`download;sd-text-primary`][dv-slides-dl] | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | [{fab}`youtube;sd-text-primary`][dv-vid] |
 | Matchups of in-situ Data With Satellite Data | [{fas}`eye;sd-text-primary`][mut-slides-view] [{fas}`download;sd-text-primary`][mut-slides-dl] | [{fas}`eye;sd-text-primary`][mut-nb] [{fas}`download;sd-text-primary`][mut-dl] | [{fab}`youtube;sd-text-primary`][mut-vid] |
-| Phytoplankton Community Composition  |  [{fas}`eye;sd-text-primary`][-slides-view] [{fas}`download;sd-text-primary`][mut-slides-dl] | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | <a href="https://www.youtube.com/watch?v=Nb6WtFkFkRE&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=5&t=1856s">{fab}`youtube;sd-text-primary`</a> |
-| Collaboration with Git and GitHub  | [{fas}`eye;sd-text-primary`][git-slides]                     |                                                                              | [{fab}`youtube;sd-text-primary`][git-vid] |
-| Using the SeaDAS Command Line Tools (OCSSW)       | [{fas}`download;sd-text-primary`][cl-slides] | [{fas}`eye;sd-text-primary`][cl-nb] [{fas}`download;sd-text-primary`][cl-dl] | [{fab}`youtube;sd-text-primary`][cl-vid] |
-| Parallel and Larger-than-Memory Computing         |                                              | [{fas}`eye;sd-text-primary`][da-nb] [{fas}`download;sd-text-primary`][da-dl] | [{fab}`youtube;sd-text-primary`][da-vid] |
-| Machine Learning with Satellite Data              | [{fas}`eye;sd-text-primary`][ml-slides-view] | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | [{fab}`youtube;sd-text-primary`][ml-vid] |
-| Environments and Containers for Reusable Projects | [{fas}`eye;sd-text-primary`][re-slides-view] |                                                                              | [{fab}`youtube;sd-text-primary`][re-vid] |
-You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website.](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/)
+| Phytoplankton Community Composition  |  [{fas}`eye;sd-text-primary`][phyto-slides-view] [{fas}`download;sd-text-primary`][phyto-slides-dl] | [{fas}`eye;sd-text-primary`][phyto-nb] [{fas}`download;sd-text-primary`][phyto-dl] | [{fab}`youtube;sd-text-primary`][phyto-vid] |
+| Remote-Sensing Reflectance (RRS) | [{fas}`eye;sd-text-primary`][rrs-slides-view] [{fas}`download;sd-text-primary`][rrs-slides-dl] | [{fas}`eye;sd-text-primary`][rrs-nb] [{fas}`download;sd-text-primary`][rrs-dl] | [{fab}`youtube;sd-text-primary`][rrs-vid] |
+| Light Attenuation (Kd)  | [{fas}`eye;sd-text-primary`][kd-slides-view] [{fas}`download;sd-text-primary`][kd-slides-dl] | [{fas}`eye;sd-text-primary`][kd-nb] [{fas}`download;sd-text-primary`][kd-dl] | [{fab}`youtube;sd-text-primary`][kd-vid] |
+| Simple Machine Learning  | [{fas}`eye;sd-text-primary`][ml-slides-view] [{fas}`download;sd-text-primary`][ml-slides-dl] | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | [{fab}`youtube;sd-text-primary`][ml-vid] |
+
+You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website.](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
 
 
 
