@@ -43,14 +43,9 @@ tabs:
     time: 16:15 - 17:00
     leads:
     - Eli Holmes
-  - title: Dinner
-    description: Dinner
-    time: 17:00 - 18:00
 - title: Day 2
   date: Tuesday
   contents:
-  - title: Breakfast
-    time: 7:30 - 8:30
   - title: Warm-up
     description: Announcements & Group Check-ins
     time: 8:30 - 9:00
@@ -80,13 +75,9 @@ tabs:
   - title: Group Project Work
     description: null
     time: 15:00 - 17:00
-  - title: Dinner
-    time: 17:00 - 18:00
 - title: Day 3
   date: Wednesday
   contents:
-  - title: Breakfast
-    time: 7:30 - 8:30
   - title: Warm-up
     description: Announcements & Group Check-ins
     time: 8:30 - 9:00
@@ -116,8 +107,6 @@ tabs:
 - title: Day 4
   date: Thursday
   contents:
-  - title: Breakfast
-    time: 7:30 - 8:30
   - title: Warm up
     description: Announcements & Group Check-ins
     time: 8:30 - 9:00
@@ -144,13 +133,9 @@ tabs:
   - title: Group Project Work
     description: null
     time: 15:00 - 17:00
-  - title: Dinner
-    time: 17:00 - 18:00
 - title: Day 5
   date: Friday
   contents:
-  - title: Breakfast
-    time: 7:30 - 8:30
   - title: Warm up
     description: Announcements & Group Check-ins
     time: 8:30 - 9:00
@@ -171,5 +156,3 @@ tabs:
   - title: Project Presentations
     description: null
     time: 14:00 - 17:00
-  - title: Dinner
-    time: 17:00 - 18:00
