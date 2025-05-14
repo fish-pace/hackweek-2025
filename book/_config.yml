@@ -18,7 +18,7 @@ parse:
     jupyterhub_url: "https://workshop.nmfs-openscapes.2i2c.cloud"
 #    slack_workspace_url: "https://cryospherecloud.slack.com"
     contact_email: "eli.holmes@noaa.gov"
-#    anon_reporting_url: "https://www.us-ocb.org/about/ocb-program-code-of-conduct"
+    anon_reporting_url: ""
     project_spreadsheet_url: "https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/projects/list_of_projects.html"
   myst_enable_extensions:
     # Defaults
@@ -69,5 +69,5 @@ html:
   use_edit_page_button: true
   use_issues_button: true
   use_repository_button: true
-  favicon: "assets/images/favicon-16x16.png"
+  favicon: "img/favicon-16x16.png"
   # google_analytics_id: G-XXXXXXXXX
