@@ -19,7 +19,7 @@ banner:
     title: Resource Book
     new_window: false
     style: btn-primary
-  image: https://oceancolor.gsfc.nasa.gov/gallery/feature/images/JPSS1_VIIRS_20231218T190600_southeastern_plumes_sm.png
+  image: assets/images/spring-bloom.png
 # The opening session of the event with UTC offset
 event_countdown: "2025-09-19T08:30:00-07:00"
 about:
