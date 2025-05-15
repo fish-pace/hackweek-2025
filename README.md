@@ -1,6 +1,6 @@
-# Fish-PACE Hackweek JupyterBook
+# Hyper-Fish Hackweek JupyterBook
 
-Draft for Fish-PACE Hackweek 2025.
+Draft for Hyper-Fish Hackweek 2025.
 
 ![image](https://raw.githubusercontent.com/eeholmes/fish-pace-2025/refs/heads/main/%7B%7B%20cookiecutter.repo_directory%20%7D%7D/assets/images/ocean-color-2019.png?token=GHSAT0AAAAAACRUN67V22D7NCF5LAPT5SVMZ23JFXQ)
 
