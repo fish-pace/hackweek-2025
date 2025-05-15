@@ -15,7 +15,7 @@ banner:
     title: Event Book
     new_window: false
     style: btn-primary
-  - url: https://ocean-satellite-tools.github.io/fish-pace/
+  - url: https://ocean-satellite-tools.github.io/hyper-fish-book/
     title: Resource Book
     new_window: false
     style: btn-primary
@@ -49,7 +49,7 @@ sponsors:
 footer:
   social:
   - icon: github
-    link: https://github.com/ocean-satellite-tools/fish-pace-hackweek-2025
+    link: https://github.com/ocean-satellite-tools/hackweek-2025
 _copy_without_render:
 - assets
 _extensions:
