@@ -6,8 +6,8 @@ apply:
   title: Applications Opening in June 2025
 banner:
   description: ''
-  start_date: 19 September 2025
-  end_date: 23 September 2025
+  start_date: 15 September 2025
+  end_date: 19 September 2025
   year: 2025
   location: Virtual
   links:
@@ -15,13 +15,13 @@ banner:
     title: Event Book
     new_window: false
     style: btn-primary
-  - url: https://ocean-satellite-tools.github.io/fish-pace/
+  - url: https://ocean-satellite-tools.github.io/hyper-fish-book/
     title: Resource Book
     new_window: false
     style: btn-primary
   image: assets/images/eastcoast_PACE_OCI_20240502T172807.png
 # The opening session of the event with UTC offset
-event_countdown: "2025-09-19T08:30:00-07:00"
+event_countdown: "2025-09-15T08:30:00-07:00"
 about:
   description: New satellite missions for the ocean environment&mdash;NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) launched in February 2024 and the upcoming GEOXO (Geostationary Ocean Color Observatory)&mdash;are poised to revolutionize ocean color observation by providing much higher spectral resolution and more frequent, near-real-time data. These advanced missions will significantly enhance our ability to monitor dynamic coastal ecosystems, improving both the accuracy and timeliness of environmental assessments and decision-making. In the Fish-PACE hackweek, you will learn to work with the new PACE hyperspectral data and tackle applications for fisheries and ocean ecosystem research.<br><br>Hackweeks are participant-driven events that strive to create welcoming spaces for participants to learn new things, build community and gain hands-on experience with collaboration and team science. During Fish-PACE, we will have science lectures and coding tutorials in the mornings to get you up and running quickly with PACE data. In the afternoon, you will work on team projects.
 team:
@@ -49,7 +49,7 @@ sponsors:
 footer:
   social:
   - icon: github
-    link: https://github.com/ocean-satellite-tools/fish-pace-hackweek-2025
+    link: https://github.com/ocean-satellite-tools/hackweek-2025
 _copy_without_render:
 - assets
 _extensions:
