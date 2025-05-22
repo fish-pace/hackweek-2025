@@ -38,3 +38,6 @@ The slides and recordings will be linked from this page as they become available
 [future-view]: ""
 [future-dl]: ""
 [future-vid]: ""
+[fish-view]: ""
+[fish-dl]: ""
+[fish-vid]: ""
