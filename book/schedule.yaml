@@ -13,7 +13,12 @@ tabs:
     time: 7:30 - 8:00
   - title: Group Project Brainstorming
     description: null
-    time: 8:30 - 10:30
+    time: 8:30 - 10:00
+  - title: Tutorial
+    description: Fish-PACE Hackweek Collaboration via Git and GitHub
+    time: 10:00 - 10:30
+    leads:
+    - Eli Holmes
   - title: Break
     time: 10:30 - 11:00    
   - title: Science Lecture
@@ -24,7 +29,6 @@ tabs:
     time: 11:30 - 12:15
     leads:
     - Ryan Vandermeulen
-    - Cara Wilson
   - title: Break
     description: null
     time: 12:15 - 12:30
@@ -34,8 +38,8 @@ tabs:
   - title: Coding Tutorial 2
     description: PACE Data Access
     time: 13:00 - 14:00
-    leads:
-    - Eli Holmes
+#    leads:
+#    - Eli Holmes
   - title: Break
     time: 14:00 - 14:30
   - title: Pacific Coast Time Zone Project Time
@@ -46,11 +50,10 @@ tabs:
     time: 15:00 - 15:30
   - title: Group Project Brainstorming
     description: null
-    time: 15:30 - 17:00
-    
-  - title: Lecture
-    description: Hackweek Collaboration via Git and GitHub
-    time: 16:15 - 17:00
+    time: 15:30 - 17:00    
+  - title: Tutorial
+    description: Fish-PACE Hackweek Collaboration via Git and GitHub
+    time: 17:00 - 17:30
     leads:
     - Eli Holmes
 - title: Day 2
@@ -61,63 +64,83 @@ tabs:
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: Tutorial
-    description: Hackweek Collaboration via Git and GitHub
-    time: 7:30 - 8:15
-    leads:
-    - Eli Holmes
-  - title: Group Work time
+  - title: GitHub & JupyterHub Q&A
+    description: Help with set-up on our infrastructure
+    time: 7:30 - 8:00
+  - title: Group Work Time
     description: null
-    time: 8:15 - 10:30
+    time: 8:00 - 10:30
   - title: Break
     time: 10:30 - 11:00    
   - title: Science Lecture
-    description: Harmful Algal Blooms and Ocean Color
+    description: Harmful Algal Blooms and Hyperspectral Ocean Color Data
     time: 11:00 -11:45
   - title: Break
     description: null
-    time: 11:45 - 12:00
-  - title: Lecture
-    description: Chlorophyll, Fish and Fisheries Management
-    time: 12:00 - 12:45
-    
-  - title: Group Project Set-up
-    description: Null
-    time: 10:45 - 12:00
-  - title: Lunch
-    time: 12:00 - 13:00
+    time: 11:45 - 12:15
   - title: Coding Tutorial 1
     description: Satellite Data Visualization
-    time: 13:00 - 13:45
-  - title: Coding Tutorial 2
-    description: Matchups of in-situ Data with Satellite Data
-    time: 14:00 - 14:45
+    time: 12:15 - 13:00
   - title: Break
     description: null
-    time: 14:45 - 15:00
-  - title: Group Project Work
-    description: null
-    time: 15:00 - 17:00
+    time: 13:00 - 13:15
+  - title: Coding Tutorial 2
+    description: Matchups of in-situ Data with Satellite Data
+    time: 13:15 - 14:00
+  - title: Break
+    time: 14:00 - 14:30
+  - title: Pacific Coast Time Zone Project Time
+    description: Announcements & Group Check-ins
+    time: 14:30 - 15:00
+  - title: GitHub & JupyterHub Q&A
+    description: Help with set-up on our infrastructure
+    time: 15:00 - 15:30
+  - title: Group Work Time
+    description: Work on projects
+    time: 15:30 - 17:30    
 - title: Day 3
   date: Wednesday
   contents:
-  - title: Warm-up
+  - title: East Coast Project Time
     description: Announcements & Group Check-ins
-    time: 8:30 - 9:00
+    time: 7:00 - 7:30
+    leads:
+    - Ryan Vandermeulen
+  - title: Group Work Time
+    description: null
+    time: 7:30 - 10:00
+  - title: Mid-Week Group Report Outs
+    description: null
+    time: 10:00 - 10:30
+  - title: Break
+    time: 10:30 - 11:00 
   - title: Science Lecture
     description: Phytoplankton Community Composition from Ocean Color
-    time: 9:00 - 9:45
+    time: 11:00 -11:45
   - title: Break
     description: null
-    time: 9:45 - 10:00
-  - title: Group Project Work
-    description: null
-    time: 10:00 - 12:00
-  - title: Lunch
-    time: 12:00 - 13:00
+    time: 11:45 - 12:15
   - title: Coding Tutorial 1
-    description: Phytoplankton Community Composition (OCSSW)
-    time: 13:00 - 13:45
+    description: Phytoplankton Community Composition (MOANA)
+    time: 12:15 - 13:00
+  - title: Break
+    description: null
+    time: 13:00 - 13:15
+  - title: Coding Tutorial 2
+    description: MPhytoplankton Community Composition (OCSSW)
+    time: 13:15 - 14:00
+  - title: Break
+    time: 14:00 - 14:30
+  - title: Pacific Coast Time Zone Project Time
+    description: Announcements & Group Check-ins
+    time: 14:30 - 15:00
+  - title: Group Work Time
+    description: Work on projects
+    time: 15:00 - 17:00    
+  - title: Mid-Week Group Report Outs
+    description: Help with set-up on our infrastructure
+    time: 17:00 - 17:30
+
   - title: Coding Tutorial 2
     description: Comparing Multi-source Ocean Color Data
     time: 14:00 - 14:45
@@ -130,6 +153,15 @@ tabs:
 - title: Day 4
   date: Thursday
   contents:
+  - title: East Coast Project Time
+    description: Announcements & Group Check-ins
+    time: 7:00 - 7:30
+    leads:
+    - Ryan Vandermeulen
+  - title: Group Work Time
+    description: null
+    time: 7:30 - 10:30
+
   - title: Warm up
     description: Announcements & Group Check-ins
     time: 8:30 - 9:00
