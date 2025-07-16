@@ -3,19 +3,19 @@ tabs:
 - title: Day 1
   date: Monday
   contents:
-  - title: East Coast Project Time
+  - title: East Project Time
     description: Welcome, Introductions, & Housekeeping
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: Project Pitching
+  - title: East Project Pitching
     description: 1 slide pitch
     time: 7:30 - 8:00
-  - title: Group Project Brainstorming
+  - title: East Group Project Brainstorming
     description: null
     time: 8:30 - 10:00
   - title: Tutorial
-    description: Fish-PACE Hackweek Collaboration via Git and GitHub
+    description: East Fish-PACE Hackweek Collaboration via Git and GitHub
     time: 10:00 - 10:30
     leads:
     - Eli Holmes
@@ -38,20 +38,18 @@ tabs:
   - title: Coding Tutorial 2
     description: PACE Data Access
     time: 13:00 - 14:00
-#    leads:
-#    - Eli Holmes
   - title: Break
     time: 14:00 - 14:30
-  - title: Pacific Coast Time Zone Project Time
+  - title: West Project Time
     description: Welcome, Introductions, & Housekeeping
     time: 14:30 - 15:00
-  - title: Project Pitching
-    description: Welcome, Introductions, & Housekeeping
+  - title: West Project Pitching
+    description: 1 slide pitch
     time: 15:00 - 15:30
-  - title: Group Project Brainstorming
+  - title: West Group Project Brainstorming
     description: null
     time: 15:30 - 17:00    
-  - title: Tutorial
+  - title: West Tutorial
     description: Fish-PACE Hackweek Collaboration via Git and GitHub
     time: 17:00 - 17:30
     leads:
@@ -59,15 +57,15 @@ tabs:
 - title: Day 2
   date: Tuesday
   contents:
-  - title: East Coast Project Time
+  - title: East Project Time
     description: Announcements & Group Check-ins
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: GitHub & JupyterHub Q&A
+  - title: East GitHub & JupyterHub Q&A
     description: Help with set-up on our infrastructure
     time: 7:30 - 8:00
-  - title: Group Work Time
+  - title: East Group Work Time
     description: null
     time: 8:00 - 10:30
   - title: Break
@@ -89,27 +87,29 @@ tabs:
     time: 13:15 - 14:00
   - title: Break
     time: 14:00 - 14:30
-  - title: Pacific Coast Time Zone Project Time
+  - title: West Project Time
     description: Announcements & Group Check-ins
     time: 14:30 - 15:00
-  - title: GitHub & JupyterHub Q&A
+    leads:
+    - Eli Holmes
+  - title: West GitHub & JupyterHub Q&A
     description: Help with set-up on our infrastructure
     time: 15:00 - 15:30
-  - title: Group Work Time
+  - title: West Group Work Time
     description: Work on projects
     time: 15:30 - 17:30    
 - title: Day 3
   date: Wednesday
   contents:
-  - title: East Coast Project Time
+  - title: East Project Time
     description: Announcements & Group Check-ins
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: Group Work Time
+  - title: East Group Work Time
     description: null
     time: 7:30 - 10:00
-  - title: Mid-Week Group Report Outs
+  - title: East Mid-Week Group Report Outs
     description: null
     time: 10:00 - 10:30
   - title: Break
@@ -127,87 +127,70 @@ tabs:
     description: null
     time: 13:00 - 13:15
   - title: Coding Tutorial 2
-    description: MPhytoplankton Community Composition (OCSSW)
+    description: Phytoplankton Community Composition (OCSSW)
     time: 13:15 - 14:00
   - title: Break
     time: 14:00 - 14:30
-  - title: Pacific Coast Time Zone Project Time
+  - title: West Project Time
     description: Announcements & Group Check-ins
     time: 14:30 - 15:00
-  - title: Group Work Time
+  - title: West Group Work Time
     description: Work on projects
     time: 15:00 - 17:00    
-  - title: Mid-Week Group Report Outs
-    description: Help with set-up on our infrastructure
+  - title: West Mid-Week Group Report Outs
+    description: null
     time: 17:00 - 17:30
-
-  - title: Coding Tutorial 2
-    description: Comparing Multi-source Ocean Color Data
-    time: 14:00 - 14:45
-  - title: Break
-    description: null
-    time: 14:45 - 15:00
-  - title: Group Project Work
-    description: null
-    time: 15:00 - 17:00
 - title: Day 4
   date: Thursday
   contents:
-  - title: East Coast Project Time
-    description: Announcements & Group Check-ins
+  - title: East Project Time
+    description: Check-Ins and Q&A re project presentations
     time: 7:00 - 7:30
-    leads:
-    - Ryan Vandermeulen
-  - title: Group Work Time
+  - title: East Group Work Time
     description: null
     time: 7:30 - 10:30
-
-  - title: Warm up
-    description: Announcements & Group Check-ins
-    time: 8:30 - 9:00
+  - title: Break
+    time: 10:30 - 11:00    
   - title: Science Lecture
     description: Optical Light Fields and Fish Behavior
-    time: 9:00 - 9:45
+    time: 11:00 - 11:45
   - title: Break
     description: null
-    time: 9:45 - 10:00
-  - title: Group Project Work
-    description: null
-    time: 10:00 - 12:00
-  - title: Lunch
-    time: 12:00 - 13:00
+    time: 11:45 - 12:00
   - title: Coding Tutorial 1
     description: Hypercoast for Visualization
-    time: 13:00 - 13:45
-  - title: Coding Tutorial 2
-    description: Simple Machine Learning Tasks with Satellite Data
-    time: 14:00 - 14:45
+    time: 12:00 - 12:45
   - title: Break
     description: null
-    time: 14:45 - 15:00
-  - title: Group Project Work
+    time: 12:30 - 12:45
+  - title: Coding Tutorial 2
+    description: Simple Machine Learning Tasks with Satellite Data
+    time: 12:45 - 13:30
+  - title: Break
+    time: 13:30 - 14:00
+  - title: West Project Time
+    description: Check-Ins and Q&A re project presentations
+    time: 14:00 - 14:30
+  - title: West Group Work Time
     description: null
-    time: 15:00 - 17:00
+    time: 14:30 - 17:30
 - title: Day 5
   date: Friday
   contents:
-  - title: Warm up
-    description: Announcements & Group Check-ins
-    time: 8:30 - 9:00
-  - title: Science Lecture
-    description: The future of high-resolution ocean color and GeoXO
-    time: 9:00 - 9:45
+  - title: East Project Time
+    description: null
+    time: 7:00 - 10:30
+  - title: Break
+    time: 10:30 - 11:00 
+  - title: East Project Presentations
+    description: null
+    time: 11:00 - 12:30
   - title: Break
     description: null
-    time: 9:45 - 10:00
-  - title: Group Project Work
+    time: 12:30 - 13:00   
+  - title: West Project Time
     description: null
-    time: 10:00 - 12:00
-  - title: Lunch
-    time: 12:00 - 13:00
-  - title: Group Project Work
+    time: 13:00 - 15:00
+  - title: West Project Presentations
     description: null
-    time: 13:00 - 13:45
-  - title: Project Presentations
-    description: null
-    time: 14:00 - 17:00
+    time: 15:00 - 16:30
