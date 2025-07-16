@@ -202,20 +202,26 @@ tabs:
 - title: Day 5
   date: Friday
   contents:
-  - title: East Project Time
-    description: 10am to 1:30pm ET
+  - title: East & West Project Time
+    description: Teams schedule on their own.
     time: 7:00 - 10:30
   - title: Break
     time: 10:30 - 11:00 
-  - title: ALL East Project Presentations
-    description: null
-    time: 11:00 - 12:30
+  - title: East Project Presentations
+    description: East teams will present their projects to the entire hackweek.
+    time: 10:30 - 12:00
   - title: Break
     description: null
-    time: 12:30 - 13:00   
-  - title: West Project Time
+    time: 12:00 - 13:00
+  - title: West Project Presentations
+    description: West teams will present their projects to the entire hackweek.
+    time: 13:00 - 14:30
+  - title: HackWeek Wrap-Up
     description: null
-    time: 13:00 - 15:00
-  - title: ALL West Project Presentations
-    description: null
-    time: 15:00 - 16:30
+    time: 14:30 - 15:00
+    leads:
+    - Ryan Vandermeulen
+    - Eli Holmes
+
+
+
