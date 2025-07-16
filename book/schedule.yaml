@@ -3,41 +3,51 @@ tabs:
 - title: Day 1
   date: Monday
   contents:
-  - title: Warm-up
+  - title: East Coast Project Time
     description: Welcome, Introductions, & Housekeeping
-    time: 8:30 - 9:00
+    time: 7:00 - 7:30
+    leads:
+    - Ryan Vandermeulen
+  - title: Project Pitching
+    description: 1 slide pitch
+    time: 7:30 - 8:00
+  - title: Group Project Brainstorming
+    description: null
+    time: 8:30 - 10:30
+  - title: Break
+    time: 10:30 - 11:00    
   - title: Science Lecture
     description: PACE Mission Overview
-    time: 9:00 - 9:30
+    time: 11:00 - 11:30
   - title: Science Lecture
     description: Hyperspectral Products for Fisheries Applications
-    time: 9:30 - 10:15
+    time: 11:30 - 12:15
     leads:
     - Ryan Vandermeulen
     - Cara Wilson
   - title: Break
     description: null
-    time: 10:15 - 10:30
+    time: 12:15 - 12:30
   - title: Coding Tutorial 1
     description: Orientation for the Hackweek JupyterHub 
-    time: 10:30 - 11:00
+    time: 12:30 - 13:00
   - title: Coding Tutorial 2
     description: PACE Data Access
-    time: 11:00 - 12:00
+    time: 13:00 - 14:00
     leads:
     - Eli Holmes
-    - TBD
-  - title: Lunch
-    time: 12:00 - 13:00
-  - title: Project Pitching
-    description: null
-    time: 13:00 - 14:15
   - title: Break
-    description: null
-    time: 14:15 - 14:30
+    time: 14:00 - 14:30
+  - title: Pacific Coast Time Zone Project Time
+    description: Welcome, Introductions, & Housekeeping
+    time: 14:30 - 15:00
+  - title: Project Pitching
+    description: Welcome, Introductions, & Housekeeping
+    time: 15:00 - 15:30
   - title: Group Project Brainstorming
     description: null
-    time: 14:30 - 16:15
+    time: 15:30 - 17:00
+    
   - title: Lecture
     description: Hackweek Collaboration via Git and GitHub
     time: 16:15 - 17:00
@@ -46,18 +56,31 @@ tabs:
 - title: Day 2
   date: Tuesday
   contents:
-  - title: Warm-up
+  - title: East Coast Project Time
     description: Announcements & Group Check-ins
-    time: 8:30 - 9:00
+    time: 7:00 - 7:30
+    leads:
+    - Ryan Vandermeulen
+  - title: Tutorial
+    description: Hackweek Collaboration via Git and GitHub
+    time: 7:30 - 8:15
+    leads:
+    - Eli Holmes
+  - title: Group Work time
+    description: null
+    time: 8:15 - 10:30
+  - title: Break
+    time: 10:30 - 11:00    
   - title: Science Lecture
     description: Harmful Algal Blooms and Ocean Color
-    time: 9:00 - 9:45
+    time: 11:00 -11:45
   - title: Break
     description: null
-    time: 9:45 - 10:00
+    time: 11:45 - 12:00
   - title: Lecture
     description: Chlorophyll, Fish and Fisheries Management
-    time: 10:00 - 10:45
+    time: 12:00 - 12:45
+    
   - title: Group Project Set-up
     description: Null
     time: 10:45 - 12:00
