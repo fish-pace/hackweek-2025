@@ -20,7 +20,11 @@ __Here is a checklist of things you need to do in advance__:
 </div>
 <div>
   <input type="checkbox" name="a5">
-  <label for="a5">Review material from 2024 PACE course (Optional)</label>
+  <label for="a5">Review material the Resource Book linked on the website.)</label>
+</div>
+<div>
+  <input type="checkbox" name="a5">
+  <label for="a5">Review material from 2024 and 2025 PACE hackweeks (Optional)</label>
 </div>
 ```
 
@@ -60,9 +64,11 @@ You will have access to your own virtual drive space under the `/home/jovyan` di
 Logging out will **NOT** cause any files under `/home/jovyan` to be deleted. It is equivalent to turning off your desktop computer at the end of the day.
 
 
-### PACE Course Review (Optional) 
+### PACE Data Pre-View (Optional) 
 
 If interested, please review course material from prior events:
 
 - 2022 PACE course *What’s behind the curtain of the NASA PACE mission?* All lecture recordings and presentation PDFs can be accessed [here.](https://www.us-ocb.org/pace-mission-training-activity/)
 - 2024 PACE hackweek All lecture recordings and presentation PDFs can be accessed [here.](https://pacehackweek.github.io/pace-2024/)
+- 2025 PACE hackweek All lecture recordings and presentation PDFs can be accessed [here.](https://pacehackweek.github.io/pace-2025/)
+
