@@ -1,0 +1,17 @@
+- title: Priscila Lange
+  avatar: https://media.licdn.com/dms/image/v2/C4E03AQFL33QsG9SDoA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1629924392171?e=1760572800&v=beta&t=n96g_V41KF4BNikXzDtQ_-7RpyqhLWPnsqPCNPB5os8
+  role: Research and Innovation Coordinator
+  organizations:
+    - name: Instituto Nacional de Pesquisas Oceânicas
+  bio: Priscila is an oceanographer specializing in phytoplankton ecology and ocean color remote sensing. Her expertise includes the development of algorithms to characterize phytoplankton community composition from satellite data, with a focus on picophytoplankton such as Prochlorococcus and Synechococcus. Her current research interests include linking environmental drivers to the spatial and vertical distribution of phytoplankton groups and advancing bio-optical methods to resolve phytoplankton diversity from space. 
+  expertise:
+    - phytoplankton ecology
+    - flow cytometry
+    - remote sensing
+  social:
+    - icon: linkedin
+      link: https://www.linkedin.com/in/priscila-kienteca-lange-969ab923/
+    - icon: orcid
+      link: https://orcid.org/0000-0003-2136-2273
+  user_groups:
+    - Science Lecturer

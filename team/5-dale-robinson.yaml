@@ -1,6 +1,6 @@
 - title: Dale Robinson
-  avatar: img/dale.jpeg
-  role: West Coast Coordinator, CoastWatch
+  avatar: https://raw.githubusercontent.com/ocean-satellite-tools/hackweek-2025/main/team/img/dale.jpeg
+  role: West Coast CoastWatch Coordinator
   organizations:
     - name: CoastWatch
       url: https://www.fisheries.noaa.gov/contact/dale-robinson
@@ -12,7 +12,6 @@
     - icon: github
       link: https://github.com/CoastWatch-WestCoast
   user_groups:
-    - Hackweek organizer team
-    - Science Lead
+    - Organizer team
     - Project Mentor
  

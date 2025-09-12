@@ -27,7 +27,7 @@ tabs:
   - title: Science Lecture
     description: PACE Mission Overview
     leads:
-    - Jeremy Werdell, NASA
+    - Jeremy Werdell
     time: 11:00 - 11:30
   - title: Science Lecture
     description: Hyperspectral Products for Fisheries Applications
@@ -78,8 +78,8 @@ tabs:
     description: null
     time: 7:00 - 7:30
     leads:
-    - Ryan Vandermuelen
-  - title: East/West Open Helpdesk with mentors
+    - Ryan Vandermeulen
+  - title: East/West Open Helpdesk with Mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
     leads:
@@ -128,7 +128,7 @@ tabs:
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: East/West Open Helpdesk with mentors
+  - title: East/West Open Helpdesk with Mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
     leads:
@@ -139,7 +139,7 @@ tabs:
     description: Phytoplankton Community Composition from Ocean Color
     time: 11:00 -11:45
     leads:
-    - Pricilla Lange
+    - Priscila Lange
   - title: Break
     description: null
     time: 11:45 - 12:15
@@ -175,7 +175,7 @@ tabs:
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: East/West Open Helpdesk with mentors
+  - title: East/West Open Helpdesk with Mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
     leads:
