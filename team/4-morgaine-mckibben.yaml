@@ -1,9 +1,9 @@
 - title: Morgaine McKibben
   avatar: https://raw.githubusercontent.com/PACEHackWeek/pace-2025/main/team/img/morgaine.jpeg
-  role: NMFS Open Science
+  role: Research Scientist
   organizations:
-    - name: NOAA
-    - name: UW School of Aquatic and Fisheries Sciences
+    - name: NASA/GSFC
+      url: https://science.gsfc.nasa.gov/sci/bio/morgaine.mckibben
   bio: Eli is lead of the NOAA Open Science initiative. She is excited about the potential for open science and open collaboration to accelerate the incorporation of new ocean data products into fisheries research and management. Eli has helped organize and mentor at many hackweeks including ICESat-2 2023, SnowEx 2023, OceanHackWeek 2023 and 2024, ITCOocean Hack2week 2023, PACE Hackweek 2024 & 2025, and NASA EarthData Hackweek 2024.
   expertise:
     - Git/GitHub
