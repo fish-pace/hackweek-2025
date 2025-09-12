@@ -27,7 +27,7 @@ tabs:
   - title: Science Lecture
     description: PACE Mission Overview
     leads:
-    - Jeremy Werdell, NASA
+    - Jeremy Werdell
     time: 11:00 - 11:30
   - title: Science Lecture
     description: Hyperspectral Products for Fisheries Applications
@@ -90,7 +90,7 @@ tabs:
     description: Harmful Algal Blooms and Hyperspectral Ocean Color Data
     time: 11:00 -11:45
     leads:
-    - Shelly Tomlinson, NCCOS
+    - Shelly Tomlinson
   - title: Break
     description: null
     time: 11:45 - 12:15
@@ -139,7 +139,7 @@ tabs:
     description: Phytoplankton Community Composition from Ocean Color
     time: 11:00 -11:45
     leads:
-    - Priscila Lange, INPO
+    - Priscila Lange
   - title: Break
     description: null
     time: 11:45 - 12:15
@@ -186,7 +186,7 @@ tabs:
     description: Optical Light Fields and Fish Behavior
     time: 11:00 - 11:45
     leads:
-    - Christopher Haak, UCI
+    - Christopher Haak
   - title: Break
     description: null
     time: 11:45 - 12:00
