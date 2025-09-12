@@ -1,0 +1,21 @@
+- title: Priscila Lange
+  avatar: https://media.licdn.com/dms/image/v2/C4E03AQFL33QsG9SDoA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1629924392171?e=1760572800&v=beta&t=n96g_V41KF4BNikXzDtQ_-7RpyqhLWPnsqPCNPB5os8
+  role: NMFS Open Science
+  organizations:
+    - name: Instituto Nacional de Pesquisas Oceânicas
+  bio: Eli is lead of the NOAA Open Science initiative. She is excited about the potential for open science and open collaboration to accelerate the incorporation of new ocean data products into fisheries research and management. Eli has helped organize and mentor at many hackweeks including ICESat-2 2023, SnowEx 2023, OceanHackWeek 2023 and 2024, ITCOocean Hack2week 2023, PACE Hackweek 2024 & 2025, and NASA EarthData Hackweek 2024.
+  expertise:
+    - Git/GitHub
+    - Jupyter
+    - Python
+    - R
+    - cloud computing
+    - PACE data
+  social:
+    - icon: github
+      link: https://github.com/eeholmes
+    - icon: orcid
+      link: https://orcid.org/0000-0001-9128-8393
+  user_groups:
+    - Hackweek organizer team
+    - Project Mentor
