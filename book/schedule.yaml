@@ -79,11 +79,6 @@ tabs:
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermuelen
-  - title: East Open Helpdesk GitHub & JupyterHub
-    description: Help with set-up on our infrastructure
-    time: 7:30 - 8:00
-    leads:
-    - mentors
   - title: East/West Open Helpdesk with mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
@@ -122,11 +117,6 @@ tabs:
     time: 14:30 - 15:00
     leads:
     - Eli Holmes
-  - title: West Open Helpdesk GitHub & JupyterHub
-    description: Help with set-up on our infrastructure
-    time: 15:00 - 15:30
-    leads:
-    - mentors   
 - title: Day 3
   date: Wednesday
   contents:
