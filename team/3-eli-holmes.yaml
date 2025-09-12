@@ -19,10 +19,10 @@
       link: https://github.com/eeholmes
     - icon: orcid
       link: https://orcid.org/0000-0001-9128-8393
-    - icon: firefox
-      link: https://eeholmes.github.io/
     - icon: linkedin
       link: https://www.linkedin.com/in/elizabeth-eli-holmes-354b76/
+    - icon: chrome
+      link: https://eeholmes.github.io/
   user_groups:
     - Lead organizer
     - Project Mentor
