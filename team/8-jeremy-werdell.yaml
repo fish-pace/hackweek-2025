@@ -1,0 +1,19 @@
+- title: Jeremy Werdell
+  avatar: https://science.gsfc.nasa.gov/images/Photos/22097/20720217286__cape_bw_eric_sm.png
+  role: Research Scientist
+  organizations:
+    - name: NASA/GSFC
+      url: https://science.gsfc.nasa.gov/sci/bio/jeremy.werdell
+  bio: Jeremy Werdell is an Oceanographer in the Ocean Ecology Laboratory (OEL) at NASA
+    Goddard Space Flight Center (GSFC) and the Project Scientist for the PACE mission.
+  expertise:
+    - bio-optical algorithms
+    - ocean color
+    - in situ biogeochemical oceanographic measurements
+  social:
+    - icon: github
+      link: https://github.com/houghtah
+    - icon: orcid
+      link: https://orcid.org/0000-0002-3592-0152
+  user_groups:
+    - Science Lecturer
