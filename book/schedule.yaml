@@ -6,11 +6,11 @@ tabs:
   - title: East Project Time
     description: 10am to 1:30pm ET
     time: 7:00 - 10:30
-    leads:
-    - Ryan Vandermeulen
   - title: East Project Introduction
     description: Welcome, Introductions, & Housekeeping
     time: 7:00 - 7:30
+    leads:
+    - Ryan Vandermeulen
   - title: East Project Pitching
     description: 1 slide pitch
     time: 7:30 - 8:00
@@ -52,11 +52,11 @@ tabs:
   - title: West Project Time
     description: 2:30pm to 5:30pm PT
     time: 14:30 - 17:30
-    leads:
-    - Eli Holmes
   - title: West Project Introduction
     description: Welcome, Introductions, & Housekeeping
     time: 14:30 - 15:00
+    leads:
+    - Eli Holmes
   - title: West Project Pitching
     description: 1 slide pitch
     time: 15:00 - 15:30
@@ -71,21 +71,19 @@ tabs:
 - title: Day 2
   date: Tuesday
   contents:
-  - title: East Project Time
+  - title: East Project Work Time
     description: 10am to 1:30pm ET
     time: 7:00 - 10:30
-    leads:
-    - Ryan Vandermeulen
-  - title: East Project Group Check-ins
+  - title: East Announcements and Group Check-ins
+    description: null
     time: 7:00 - 7:30
-  - title: GitHub & JupyterHub Q&A (open helpdesk)
+    leads:
+    - Ryan Vandermuelen
+  - title: East Open Helpdesk GitHub & JupyterHub
     description: Help with set-up on our infrastructure
     time: 7:30 - 8:00
     leads:
     - mentors
-  - title: East Group Work Time
-    description: null
-    time: 8:00 - 10:30
   - title: East/West Open Helpdesk with mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
@@ -111,39 +109,35 @@ tabs:
     time: 13:00 - 13:15
   - title: Coding Tutorial 2
     description: Matchups of in-situ Data with Satellite Data
+    time: 13:15 - 14:00
     leads:
     - Eli Holmes
-    time: 13:15 - 14:00
   - title: Break
     time: 14:00 - 14:30
-  - title: West Project Time
+  - title: West Project Work Time
     description: 2:30pm to 5:30pm PT
     time: 14:30 - 17:30
-    leads:
-    - Eli Holmes
-  - title: West Project Group Check-ins
+  - title: West Announcements and Group Check-ins
     description: null
     time: 14:30 - 15:00
-  - title: West GitHub & JupyterHub Q&A
+    leads:
+    - Eli Holmes
+  - title: West Open Helpdesk GitHub & JupyterHub
     description: Help with set-up on our infrastructure
     time: 15:00 - 15:30
-  - title: West Group Work Time
-    description: null
-    time: 15:30 - 17:30    
+    leads:
+    - mentors   
 - title: Day 3
   date: Wednesday
   contents:
-  - title: East Project Time
+  - title: East Project Work Time
     description: 10am to 1:30pm ET
     time: 7:00 - 10:30
+  - title: East Announcements and Group Check-ins
+    description: null
+    time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: East Announcements
-    description: null
-    time: 7:00 - 7:15
-  - title: East Group Work Time
-    description: null
-    time: 7:15 - 10:00
   - title: East/West Open Helpdesk with mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
@@ -172,31 +166,25 @@ tabs:
     - Ryan Vandermeulen
   - title: Break
     time: 14:00 - 14:30
-  - title: West Project Time
+  - title: West Project Work Time
     description: 2:30pm to 5:30pm PT
     time: 14:30 - 17:30
+  - title: West Announcements and Group Check-ins
+    description: null
+    time: 14:30 - 15:00
     leads:
     - Eli Holmes
-  - title: West Announcements
-    description: null
-    time: 14:30 - 14:45
-  - title: West Group Work Time
-    description: null
-    time: 14:45 - 17:30   
 - title: Day 4
   date: Thursday
   contents:
-  - title: East Project Time
+  - title: East Project Work Time
     description: 10am to 1:30pm ET
     time: 7:00 - 10:30
+  - title: East Announcements and Group Check-ins
+    description: Check-ins and Q&A re project presentations
+    time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: East Announcements
-    description: Check-Ins and Q&A re project presentations
-    time: 7:00 - 7:30
-  - title: East Group Work Time
-    description: null
-    time: 7:30 - 10:30
   - title: East/West Open Helpdesk with mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
@@ -213,7 +201,7 @@ tabs:
     description: null
     time: 11:45 - 12:00
   - title: Coding Tutorial 1
-    description: Exploring patterns in hyperspectral data
+    description: Exploring Patterns in Hyperspectral Data
     time: 12:00 - 12:45
     leads:
     - Ryan Vandermeulen
@@ -227,21 +215,18 @@ tabs:
     - Eli Holmes
   - title: Break
     time: 13:30 - 14:00
-  - title: West Project Time
+  - title: West Project Work Time
     description: 2:30pm to 5:30pm PT
     time: 14:30 - 17:30
+  - title: West Announcements and Group Check-ins
+    description: Check-ins and Q&A re project presentations
+    time: 14:00 - 14:30
     leads:
     - Eli Holmes
-  - title: West Announcements
-    description: Check-Ins and Q&A re project presentations
-    time: 14:00 - 14:30
-  - title: West Group Work Time
-    description: null
-    time: 14:30 - 17:30
 - title: Day 5
   date: Friday
   contents:
-  - title: East & West Project Time
+  - title: East & West Project Work Time
     description: Teams schedule on their own.
     time: 7:00 - 10:30
   - title: Break
