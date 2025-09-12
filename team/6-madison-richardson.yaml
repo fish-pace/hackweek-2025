@@ -1,5 +1,5 @@
 - title: Madison Richardson
-  avatar: null
+  avatar: img/madison.jpg
   role: CoastWatch Contractor
   organizations:
     - name: NOAA CoastWatch
@@ -10,7 +10,7 @@
     - Python and R
   social:
     - icon: github
-      link: null
+      link: https://github.com/madrichardson
   user_groups:
     - Hackweek organizer team
     - Project Mentor
