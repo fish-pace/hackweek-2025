@@ -1,0 +1,16 @@
+- title: Madison Richardson
+  avatar: https://raw.githubusercontent.com/ocean-satellite-tools/hackweek-2025/main/team/img/madison.jpg
+  role: CoastWatch Contractor
+  organizations:
+    - name: NOAA CoastWatch
+      url: https://www.linkedin.com/in/madison-richardson-71510a223/
+  bio: null
+  expertise:
+    - satellite data access
+    - Python and R
+  social:
+    - icon: github
+      link: https://github.com/madrichardson
+  user_groups:
+    - Hackweek organizer team
+    - Project Mentor

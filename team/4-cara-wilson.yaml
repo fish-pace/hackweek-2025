@@ -1,5 +1,5 @@
 - title: Cara Wilson
-  avatar: https://porsec.nwra.com/wp-content/uploads/2019/01/CaraWilson.jpg
+  avatar: https://raw.githubusercontent.com/ocean-satellite-tools/hackweek-2025/main/team/img/cara.jpeg
   role: Program Lead, CoastWatch and PolarWatch
   organizations:
     - name: NOAA CoastWatch and PolarWatch
@@ -15,6 +15,6 @@
     - icon: orcid
       link: https://orcid.org/0000-0001-9318-2322
   user_groups:
+    - Hackweek organizer team
     - Science Lead
-    - Tutorial Lead
  

@@ -4,7 +4,7 @@
   organizations:
     - name: CoastWatch
       url: https://www.fisheries.noaa.gov/contact/dale-robinson
-  bio: 
+  bio: null
   expertise:
     - satellite data access
     - ocean color
@@ -12,7 +12,7 @@
     - icon: github
       link: https://github.com/CoastWatch-WestCoast
   user_groups:
+    - Hackweek organizer team
     - Science Lead
-    - Tutorial Lead
     - Project Mentor
  
