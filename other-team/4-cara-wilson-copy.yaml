@@ -1,10 +1,10 @@
 - title: Cara Wilson
   avatar: https://raw.githubusercontent.com/ocean-satellite-tools/hackweek-2025/main/team/img/cara.jpeg
-  role:Program Lead CoastWatch and PolarWatch
+  role: Program Lead, CoastWatch and PolarWatch
   organizations:
     - name: NOAA CoastWatch and PolarWatch
       url: https://www.fisheries.noaa.gov/contact/cara-wilson-phd
-  bio: Cara  is a biological oceanographer for the Environmental Research Division (ERD) at NOAA's Southwest Fisheries Science Center. She is the Program Lead of NOAA's CoastWatch and PolarWatch programs and the chair of the IOCCG (International Ocean Colour Coordinating Group).
+  bio: Cara  is a biological oceanographer for the Environmental Research Division (ERD) at NOAA’s Southwest Fisheries Science Center. She is the Program Lead of NOAA’s CoastWatch and PolarWatch programs and the chair of the IOCCG (International Ocean Colour Coordinating Group).
   expertise:
     - satellite data access
     - ocean color
@@ -17,3 +17,4 @@
   user_groups:
     - Hackweek organizer team
     - Science Lead
+ 
