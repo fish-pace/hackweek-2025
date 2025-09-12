@@ -20,23 +20,33 @@ tabs:
   - title: East Tutorial
     description: Fish-PACE Hackweek Collaboration via Git and GitHub
     time: 10:00 - 10:30
+    leads:
+    - Eli Holmes
   - title: Break
     time: 10:30 - 11:00    
   - title: Science Lecture
     description: PACE Mission Overview
+    leads:
+    - Jeremy Werdell, NASA
     time: 11:00 - 11:30
   - title: Science Lecture
     description: Hyperspectral Products for Fisheries Applications
     time: 11:30 - 12:15
+    leads:
+    - Ryan Vandermeulen
   - title: Break
     description: null
     time: 12:15 - 12:30
   - title: Coding Tutorial 1
     description: Orientation for the Hackweek JupyterHub 
     time: 12:30 - 13:00
+    leads:
+    - Eli Holmes
   - title: Coding Tutorial 2
     description: PACE Data Access
     time: 13:00 - 14:00
+    leads:
+    - Eli Holmes
   - title: Break
     time: 14:00 - 14:30
   - title: West Project Time
@@ -56,6 +66,8 @@ tabs:
   - title: West Tutorial
     description: Fish-PACE Hackweek Collaboration via Git and GitHub
     time: 17:00 - 17:30
+    leads:
+    - Eli Holmes
 - title: Day 2
   date: Tuesday
   contents:
@@ -66,28 +78,41 @@ tabs:
     - Ryan Vandermeulen
   - title: East Project Group Check-ins
     time: 7:00 - 7:30
-  - title: East GitHub & JupyterHub Q&A
+  - title: GitHub & JupyterHub Q&A (open helpdesk)
     description: Help with set-up on our infrastructure
     time: 7:30 - 8:00
+    leads:
+    - mentors
   - title: East Group Work Time
     description: null
     time: 8:00 - 10:30
+  - title: East/West Open Helpdesk with mentors
+    description: Bring your questions and go into breakout room with a mentor
+    time: 9:00 - 10:30
+    leads:
+    - mentors
   - title: Break
     time: 10:30 - 11:00    
   - title: Science Lecture
     description: Harmful Algal Blooms and Hyperspectral Ocean Color Data
     time: 11:00 -11:45
+    leads:
+    - Shelly Tomlinson
   - title: Break
     description: null
     time: 11:45 - 12:15
   - title: Coding Tutorial 1
-    description: Satellite Data Visualization
+    description: Hyperspectral Visualization I
     time: 12:15 - 13:00
+    leads:
+    - Ryan Vandermeulen
   - title: Break
     description: null
     time: 13:00 - 13:15
   - title: Coding Tutorial 2
     description: Matchups of in-situ Data with Satellite Data
+    leads:
+    - Eli Holmes
     time: 13:15 - 14:00
   - title: Break
     time: 14:00 - 14:30
@@ -119,14 +144,18 @@ tabs:
   - title: East Group Work Time
     description: null
     time: 7:15 - 10:00
-  - title: East Mid-Week Group Report Outs
-    description: Short report to the East groups
-    time: 10:00 - 10:30
+  - title: East/West Open Helpdesk with mentors
+    description: Bring your questions and go into breakout room with a mentor
+    time: 9:00 - 10:30
+    leads:
+    - mentors
   - title: Break
     time: 10:30 - 11:00 
   - title: Science Lecture
     description: Phytoplankton Community Composition from Ocean Color
     time: 11:00 -11:45
+    leads:
+    - Pricilla Lange
   - title: Break
     description: null
     time: 11:45 - 12:15
@@ -137,8 +166,10 @@ tabs:
     description: null
     time: 13:00 - 13:15
   - title: Coding Tutorial 2
-    description: Intro to the SeaDAS package for ocean color data
+    description: Hyperspectral Visualization II
     time: 13:15 - 14:00
+    leads:
+    - Ryan Vandermeulen
   - title: Break
     time: 14:00 - 14:30
   - title: West Project Time
@@ -151,10 +182,7 @@ tabs:
     time: 14:30 - 14:45
   - title: West Group Work Time
     description: null
-    time: 14:45 - 17:00    
-  - title: West Mid-Week Group Report Outs
-    description: Short report to the West groups
-    time: 17:00 - 17:30
+    time: 14:45 - 17:30   
 - title: Day 4
   date: Thursday
   contents:
@@ -169,23 +197,34 @@ tabs:
   - title: East Group Work Time
     description: null
     time: 7:30 - 10:30
+  - title: East/West Open Helpdesk with mentors
+    description: Bring your questions and go into breakout room with a mentor
+    time: 9:00 - 10:30
+    leads:
+    - mentors
   - title: Break
     time: 10:30 - 11:00    
   - title: Science Lecture
     description: Optical Light Fields and Fish Behavior
     time: 11:00 - 11:45
+    leads:
+    - Christopher Haak
   - title: Break
     description: null
     time: 11:45 - 12:00
   - title: Coding Tutorial 1
-    description: Hypercoast for Visualization
+    description: Exploring patterns in hyperspectral data
     time: 12:00 - 12:45
+    leads:
+    - Ryan Vandermeulen
   - title: Break
     description: null
     time: 12:30 - 12:45
   - title: Coding Tutorial 2
     description: Simple Machine Learning Tasks with Satellite Data
     time: 12:45 - 13:30
+    leads:
+    - Eli Holmes
   - title: Break
     time: 13:30 - 14:00
   - title: West Project Time
