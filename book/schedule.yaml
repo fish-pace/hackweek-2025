@@ -79,7 +79,7 @@ tabs:
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: East/West Open Helpdesk with mentors
+  - title: East/West Open Helpdesk with Mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
     leads:
@@ -90,7 +90,7 @@ tabs:
     description: Harmful Algal Blooms and Hyperspectral Ocean Color Data
     time: 11:00 -11:45
     leads:
-    - Shelly Tomlinson
+    - Shelly Tomlinson, NCCOS
   - title: Break
     description: null
     time: 11:45 - 12:15
@@ -128,7 +128,7 @@ tabs:
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: East/West Open Helpdesk with mentors
+  - title: East/West Open Helpdesk with Mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
     leads:
@@ -139,7 +139,7 @@ tabs:
     description: Phytoplankton Community Composition from Ocean Color
     time: 11:00 -11:45
     leads:
-    - Pricilla Lange
+    - Priscila Lange, INPO
   - title: Break
     description: null
     time: 11:45 - 12:15
@@ -175,7 +175,7 @@ tabs:
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
-  - title: East/West Open Helpdesk with mentors
+  - title: East/West Open Helpdesk with Mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
     leads:
@@ -186,7 +186,7 @@ tabs:
     description: Optical Light Fields and Fish Behavior
     time: 11:00 - 11:45
     leads:
-    - Christopher Haak
+    - Christopher Haak, UCI
   - title: Break
     description: null
     time: 11:45 - 12:00
