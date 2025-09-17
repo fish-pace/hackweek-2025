@@ -42,7 +42,7 @@ surrounded by quotes `"`.
 ```shell
 $ git config --global user.name "Attendee Name"
 $ git config --global user.email "attendee@hackweek.com"
-$ git config --global pull.rebase false
+$ git config --global pull.rebase true
 ```
 
 The third line is a configuration you must set before pulling with git. It specifies
@@ -55,7 +55,7 @@ in the Terminal. The output should look similar to this:
 $ git config --list
 user.name=Attendee Name
 user.email=attendee@hackweek.com
-pull.rebase=false
+pull.rebase=true
 ```
 
 ### 4. Authenticating with GitHub
@@ -69,8 +69,7 @@ Personal Access Tokens, which you can learn more about on [GitHub docs][gh-docs]
 #### Option 1: gh-scoped-creds
 
 We recommend this method if you have permission to configure a GitHub App on the user or organization where you
-need to authenticate. For instance, if you want to push to `https://github.com/example/repo.git`, then you need to have
-permission to configure the settings for `example` (a user or organization).
+need to authenticate. For the hackweek, we have pre-configured permissions so that you can push to https://github.com/ocean-satellite-tools.
 
 Start from a Terminal (choose the "Terminal" app from the "Other" options in the Launcher). Follow
 the instructions returned by the `gh-scoped-creds` command:
@@ -90,14 +89,14 @@ Visit https://github.com/apps/cryocloud-github-access to manage list of reposito
 Tip: Use https:// URLs to clone and push to repos, not ssh URLs!
 ```
 
-To set up the user or organization to allow access by the Personal Access Token just created, follow the link provided.
-
-Here is a GIF walking through the workflow. Note that it shows a way to do the same setup in a notebook before
+If you need to push to repositories that are not in https://github.com/ocean-satellite-tools, such as to repos in your personal GitHub account, you will need to set up permission to access those repos. Follow the link provided. Here is a GIF walking through the workflow. Note that it shows a way to do the same setup in a notebook before
 showing the Terminal way just described.
 
 ![gh-scoped-creds](https://miro.medium.com/v2/resize:fit:720/format:webp/1*B3qjACXLBG9pBOlzY8WNxA.gif)
 
 #### Option 2: Manual Configuration
+
+**Note we are using the workshop JupyterHub and it uses a shared password. If someone guesses your username, they could gain access to your authentication token.**
 
 Work through the instructions on the
 [GitHub personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic)
