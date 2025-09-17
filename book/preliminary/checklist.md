@@ -44,7 +44,7 @@ and password somewhere for use during the hackweek.
 We will be using a pre-provisioned compute environment for the hackweek which can be accessed via a web browser. You will not need to install anything.
 Please follow these instructions which will guide you through gaining access to the JupyterHub. 
 
-1. [Watch this video]() to get an orientation on our JupyterHub.
+1. [Watch this video](https://youtu.be/uZ2Uy376Az8) to get an orientation on our JupyterHub.
 
 2. Sign in by navigating to the [JupyterHub](https://workshop.nmfs-openscapes.2i2c.cloud/). Instructions to sign in are in our Slack channel [here](https://fish-pace.slack.com/files/U09FQF586KU/F09FRKRN5PC/hub.md) and were sent to you via email.
 
