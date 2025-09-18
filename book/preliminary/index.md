@@ -24,18 +24,16 @@ with data science tools:
 * Exploring methods for high performance computing such as using Dask and parallelization
 * Preparing datasets for machine learning tools, including PyTorch for neural networks
 
-These are examples of the types of activities we will do at the PACE hackweek in a
-collaborative setting. We invite you to reflect on your comfort level with tasks
-such as these so that you can arrive at the hackweek with a clarity on where to
-dedicate your energy. If wish to focus more energy on learning and implementing
-new tools, we will support you with mentors, and you may have a
-bit less time for applied group work. If you are already proficient in a lot of
-tools you may find you can dedicate more energy to applied project work, which
-we support through facilitated group activities.
+These are examples of the types of activities we will do at the Fish-PACE hackweek in a
+collaborative setting. Be aware that most of the project work will be within self-organized that 
+teams that are working on a project. Much of the hackweek will be spent running code (via notebooks),
+writing code and talking about code. The mentors and organizers will provide links to tutorials and 
+help trouble-shoot code, but much of the learning comes from working on a project together.
 
-
-All tutorials and project work will assume participants are somewhat familiar with Python-based
-computing in the geosciences. For participants wishing to brush up on their skills before
+All tutorials will be in Python using the Pangeo ecosystem of tools for computing in the earth sciences.
+For participants wishing to brush up on their skills before
 the event, we recommend viewing the resources as described on the 
-[Pythia Foundations](https://foundations.projectpythia.org/landing-page.html) website. 
+[Pythia Foundations](https://foundations.projectpythia.org/landing-page.html) website. Teams are 
+welcome to do their project in R and our compute platform fully supports R for 
+earth science computation.
 
