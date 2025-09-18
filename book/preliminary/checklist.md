@@ -70,6 +70,7 @@ If interested, please review course material from prior events:
 - Hyperspectral data for land and coastal ecosystems [here](https://www.earthdata.nasa.gov/learn/trainings/hyperspectral-data-land-coastal-systems)
 - Applications of PACE data for for aquaculture and fisheries management. Background. [here](https://ocean-satellite-tools.github.io/hyper-fish-book/)
 - Introduction to using earth data in the cloud for scientific workflows: PACE hyperspectral ocean color data [here](https://nmfs-opensci.github.io/EDMW-EarthData-Workshop-2025/) Tutorials have links to run in Colab. You do not need to install anything.
+- Abundance of good material on the [PACE Applications website](https://pace.oceansciences.org/applications.htm). Check out the quarterly newsletters.
 
 *How do I run the tutorials if I don't have Python and all the packages installed?* Once you are in the Fish-PACE slack, we'll provide a link to our workshop compute environment (a JupyterHub). However, you can run 95% of the tutorials in [Colab](https://colab.research.google.com/). [nice intro to Colab for complete beginners](https://www.youtube.com/watch?v=Xi9-W26cDBs).
 
