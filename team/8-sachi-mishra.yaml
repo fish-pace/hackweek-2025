@@ -3,7 +3,7 @@
   role: Satellite Oceanographer
   organizations:
     - name: National Centers for Coastal Ocean Science
-  bio: Sachi Mishra is a satellite oceanographer at NOAA whose work spans remote sensing, computer vision, and artificial intelligence applications in ocean and coastal environments. He has contributed extensively to research on harmful algal blooms (HABs), combining satellite data with machine learning to improve detection, monitoring, and forecasting. His expertise includes developing novel algorithms for mapping oceanographic phenomena and applying advanced sensors to understand coastal dynamics. Sachi has published widely (with over 2,000 citations) and collaborates on operational and academic efforts to translate remote sensing and AI research into tools that support ecosystem monitoring and management.
+  bio: Sachi Mishra works as a satellite oceanographer at the National Centers for Coastal Ocean Science (NCCOS), NOAA. His research interest lies in the aquatic remote sensing domain. He uses satellite remote sensing data, geospatial technologies, and physics-driven machine learning models to detect, monitor, and forecast cyanobacterial harmful algal blooms (cyanoHABs) in lakes, estuaries, and coastal oceans and understand their driving factors. His prior research focused on biophysical parameter estimation from high-resolution airborne hyperspectral data using machine learning and developing semi/quasi-analytical algorithms to quantify water quality parameters such as chlorophyll-a, phycocyanin, dissolved organic matter, and suspended sediment concentration from ocean color measurements in optically-complex waters.
   expertise:
     - remote-sensing
     - ocean color
