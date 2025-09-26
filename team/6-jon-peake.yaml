@@ -1,0 +1,21 @@
+- title: Jon Peake
+  avatar: https://avatars.githubusercontent.com/u/27690999?v=4
+  role: Data Scientist
+  organizations:
+    - name: NOAA Fisheries
+      url: https://peakeecology.science/
+  bio: null
+  expertise:
+    - R
+    - cloud computing
+    - fisheries data
+    - Western Atlantic fisheries
+    - fish ecology
+  social:
+    - icon: github
+      link: https://github.com/jonpeake
+    - icon: linkedin
+      link: https://www.linkedin.com/in/jonathan-peake-a9666165/
+  user_groups:
+    - Organizer team
+    - Project Mentor
