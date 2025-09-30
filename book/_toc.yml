@@ -39,6 +39,12 @@ parts:
 #    - file: projects/list_of_projects
 - caption: Reference
   chapters:
+    - url: https://ocean-satellite-tools.github.io/hyper-fish-book/
+      title: Hyperspectral products for fisheries
+    - url: https://pace.oceansciences.org/applications.htm
+      title: PACE Applications
+    - url: https://pace.oceansciences.org/data_table.htm
+      title: Data availability
     - file: reference/glossary
     - file: reference/questions
 
