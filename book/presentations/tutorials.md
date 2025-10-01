@@ -9,6 +9,8 @@ through these tutorials interactively. On the JupyterHub, your home directory pe
 so any changes you make to the tutorials will be saved and be there for you next
 time you log in.
 
+**How to run the tutorials?** You can either download and upload the tutorials (click download icon) or view the tutorial (click eye icon) and you will see options to open the tutorial in the JupyterHub or Colab. You can also go to the [tutorial GitHub repo](https://github.com/fish-pace/2025-tutorials) and clone that into the JupyterHub.
+
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
 | Overview of the JupyterHub                  | [{fas}`eye;sd-text-primary`][jh-slides-view]      | [{fas}`eye;sd-text-primary`][jh-nb] [{fas}`download;sd-text-primary`][jh-dl] |  [{fab}`youtube;sd-text-primary`][jh-vid]  |
@@ -43,8 +45,8 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [kd-nb]: ""
 [ml-nb]: ""
 
-[jh-dl]: https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/presentations/hackweek/hub_demo.ipynb
-[ed-dl]: https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/presentations/hackweek/earthdata_cloud_access.ipynb
+[jh-dl]: https://fish-pace.github.io/fish-pace-hackweek-2025/presentations/hackweek/hub_demo.ipynb
+[ed-dl]: https://fish-pace.github.io/fish-pace-hackweek-2025/presentations/hackweek/earthdata_cloud_access.ipynb
 [dv-dl]: ""
 [mu-dl]: ""
 [phyto-dl]: ""
