@@ -69,7 +69,7 @@ Personal Access Tokens, which you can learn more about on [GitHub docs][gh-docs]
 #### Option 1: gh-scoped-creds
 
 We recommend this method if you have permission to configure a GitHub App on the user or organization where you
-need to authenticate. For the hackweek, we have pre-configured permissions so that you can push to https://github.com/fish-pace.
+need to authenticate. For the hackweek, we have pre-configured permissions so that you can push to [https://github.com/fish-pace](https://github.com/fish-pace).
 
 Start from a Terminal (choose the "Terminal" app from the "Other" options in the Launcher). Follow
 the instructions returned by the `gh-scoped-creds` command:
@@ -89,14 +89,14 @@ Visit https://github.com/apps/cryocloud-github-access to manage list of reposito
 Tip: Use https:// URLs to clone and push to repos, not ssh URLs!
 ```
 
-If you need to push to repositories that are not in https://github.com/ocean-satellite-tools, such as to repos in your personal GitHub account, you will need to set up permission to access those repos. Follow the link provided. Here is a GIF walking through the workflow. Note that it shows a way to do the same setup in a notebook before
+If you need to push to repositories that are not in [https://github.com/fish-pace](https://github.com/fish-pace), such as to repos in your personal GitHub account, you will need to set up permission to access those repos. Follow the link provided. Here is a GIF walking through the workflow. Note that it shows a way to do the same setup in a notebook before
 showing the Terminal way just described.
 
 ![gh-scoped-creds](https://miro.medium.com/v2/resize:fit:720/format:webp/1*B3qjACXLBG9pBOlzY8WNxA.gif)
 
 #### Option 2: Manual Configuration
 
-**Note we are using the workshop JupyterHub and it uses a shared password. If someone guesses your username, they could gain access to your authentication token.**
+**Note we are using the workshop JupyterHub and it uses a shared password. If someone guesses your username, they could gain access to your authentication token thus we highly recommend that you use gh-scoped-creds above.**
 
 Work through the instructions on the
 [GitHub personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic)
