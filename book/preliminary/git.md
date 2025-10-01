@@ -69,7 +69,7 @@ Personal Access Tokens, which you can learn more about on [GitHub docs][gh-docs]
 #### Option 1: gh-scoped-creds
 
 We recommend this method if you have permission to configure a GitHub App on the user or organization where you
-need to authenticate. For the hackweek, we have pre-configured permissions so that you can push to https://github.com/ocean-satellite-tools.
+need to authenticate. For the hackweek, we have pre-configured permissions so that you can push to https://github.com/fish-pace.
 
 Start from a Terminal (choose the "Terminal" app from the "Other" options in the Launcher). Follow
 the instructions returned by the `gh-scoped-creds` command:
