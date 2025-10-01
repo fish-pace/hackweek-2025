@@ -16,7 +16,7 @@ parts:
     - file: preliminary/index
     - file: preliminary/checklist
     - file: preliminary/git
-    - file  reference/intro-to-python
+    - file  reference/intro_to_python
 - caption: Presentations
   chapters:
     - file: presentations/lectures
