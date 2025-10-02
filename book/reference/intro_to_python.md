@@ -34,12 +34,14 @@ git clone https://github.com/jrjohansson/scientific-python-lectures
 ```
 * Open the `ipynb` notebooks and start working through the material.
 
-## Move up to our PACE Workshop tutorials
+## Move up to our PACE Workshop tutorials from May 2025
+
+This was a short workshop on PACE data that we gave in May 2025.
 
 * Open a terminal.
 * Type
 ```
 cd ~
-git clone https://github.com/nmfs-opensci/EDMW-2H-tutorials-2025
+git clone https://github.com/nmfs-opensci/EDMW-tutorials-2025
 ```
-* Open the `ipnb` notebooks in the `tutorials` directory.
+* Open the `ipynb` notebooks in the `tutorials` directory.
