@@ -9,7 +9,19 @@ workshop.nmfs-openscapes.2i2c.cloud
 ```
 Watch this [video](https://youtu.be/uZ2Uy376Az8?si=Nh3simSYe94c0eEB) for a quick orientation to the JupyterHub.
 
+## For those who are brand new to Python
+
+You might want to start with this basic [Software Carpentries Python](https://swcarpentry.github.io/python-novice-inflammation/index.html) course. 
+
+* Log into the JupyterHub
+* Open and new Jupyter notebook
+* Enter code from the course and run
+  
+
+
 ## Start with some basic tutorials
+
+[Watch a video](https://youtu.be/scNDbOKZB4A) to see me doing these instructions.
 
 These are by [Robert Johansson](https://jrjohansson.github.io/) author of Numerical Python.
 
