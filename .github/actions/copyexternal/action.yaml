@@ -39,6 +39,8 @@ runs:
         mkdir -p "$DEST"
         rsync -av --delete \
           --exclude '.git/' \
+          --exclude '.ipynb_checkpoints/' \
+          --exclude '.github/' \
           _external/ "$DEST/"
         echo "Synced $(du -sh "$DEST" | cut -f1) into $DEST"
 
