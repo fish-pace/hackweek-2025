@@ -26,6 +26,15 @@ jobs:
         echo "machine urs.earthdata.nasa.gov login $EARTHDATA_USER password $EARTHDATA_PASS" > ~/.netrc
         chmod 0600 ~/.netrc
 
+    - name: Copy external tutorials
+      uses: ./.github/actions/copyexternal
+      with:
+        repository: fish-pace/2025-tutorials
+        ref: main
+        dest: book/external
+        # If private & cross-org, use a PAT secret with repo scope:
+        # token: ${{ secrets.OTHER_REPO_PAT }}
+
     - uses: ./.github/actions/buildresources
       with:
         jb-cache: false

@@ -1,0 +1,50 @@
+name: 'Copy External Repo into JupyterBook'
+description: 'Check out an external repo and mirror it into book/external'
+
+inputs:
+  repository:
+    description: 'owner/repo of the external source'
+    required: true
+  ref:
+    description: 'Branch, tag, or SHA to fetch'
+    required: false
+    default: 'main'
+  dest:
+    description: 'Destination path inside this repo'
+    required: false
+    default: 'book/external'
+  token:
+    description: 'Token for private repos (classic PAT with repo scope). If empty, uses GITHUB_TOKEN.'
+    required: false
+    default: ''
+
+runs:
+  using: "composite"
+  steps:
+    - name: Checkout external repository
+      uses: actions/checkout@v4
+      with:
+        repository: ${{ inputs.repository }}
+        ref: ${{ inputs.ref }}
+        path: _external
+        # If a PAT was provided, use it; else fall back to the job's token
+        token: ${{ inputs.token != '' && inputs.token || github.token }}
+
+    - name: Mirror external repo into ${{ inputs.dest }}
+      shell: bash
+      run: |
+        set -euo pipefail
+        DEST="${{ inputs.dest }}"
+        rm -rf "$DEST"
+        mkdir -p "$DEST"
+        rsync -av --delete \
+          --exclude '.git/' \
+          --exclude '.ipynb_checkpoints/' \
+          --exclude '.github/' \
+          _external/ "$DEST/"
+        echo "Synced $(du -sh "$DEST" | cut -f1) into $DEST"
+
+    - name: JupyterBook clean (prevent stale HTML)
+      shell: bash
+      run: |
+        jupyter-book clean book/ --all || true
