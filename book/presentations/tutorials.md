@@ -13,9 +13,8 @@ time you log in.
 
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
-| Overview of the JupyterHub                  | [{fas}`eye;sd-text-primary`][jh-slides-view]      | [{fas}`eye;sd-text-primary`][jh-nb] [{fas}`download;sd-text-primary`][jh-dl] |  [{fab}`youtube;sd-text-primary`][jh-vid]  |
-| [**Accessing PACE data via Earthdata**][ed-n]                  | [{{ l1 }}][ed-l] | {download}`<notebooks/pace_earthdata_access.ipynb>` | [{{ v0 }}][ed-v] |
-| Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides-view]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | [{fab}`youtube;sd-text-primary`][ed-vid] |
+| Overview of the JupyterHub                  | [{{ l0 }}][jh-l]      |         |  [{{ v0 }}][jh-v]  |
+| [**Accessing PACE data via Earthdata**][ed-n] | [{{ l1 }}][ed-l] | [{{ l1 }}]][ed-n] {download}`<notebooks/pace_earthdata_access.ipynb>` | [{{ v0 }}][ed-v] |
 | Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view]  | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | [{fab}`youtube;sd-text-primary`][dv-vid] |
 | Matchups of in-situ Data With Satellite Data | [{fas}`eye;sd-text-primary`][mu-slides-view]  | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | [{fab}`youtube;sd-text-primary`][mu-vid] |
 | Phytoplankton Community Composition  |  [{fas}`eye;sd-text-primary`][phyto-slides-view]  | [{fas}`eye;sd-text-primary`][phyto-nb] [{fas}`download;sd-text-primary`][phyto-dl] | [{fab}`youtube;sd-text-primary`][phyto-vid] |
@@ -27,9 +26,15 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 
 
 [ed-n]: notebooks/pace_earthdata_access
-[ed-l]: ""
-[ed-d]: download:pace_earthdata_access.ipynb
+[ed-l]: "https://docs.google.com/presentation/d/1PKJJ6139McB6WyPb1-z8YnlCjDa6k9jgcdSH3NpEkHc/present"
+[ed-d]: {download}`<notebooks/pace_earthdata_access.ipynb>`
 [ed-v]: ""
+
+[jh-n]: ""
+[jh-l]: ""
+[jh-d]: ""
+[jh-v]: ""
+
 
 
 [jh-slides-view]: ""
