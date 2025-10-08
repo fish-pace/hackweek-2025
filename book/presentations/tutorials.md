@@ -28,7 +28,7 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 
 [ed-n]: notebooks/pace_earthdata_access
 [ed-l]: ""
-[ed-d]: nb:pace_earthdata_access.ipynb
+[ed-d]: download:pace_earthdata_access.ipynb
 [ed-v]: ""
 
 
