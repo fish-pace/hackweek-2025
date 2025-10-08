@@ -14,6 +14,7 @@ time you log in.
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
 | Overview of the JupyterHub                  | [{fas}`eye;sd-text-primary`][jh-slides-view]      | [{fas}`eye;sd-text-primary`][jh-nb] [{fas}`download;sd-text-primary`][jh-dl] |  [{fab}`youtube;sd-text-primary`][jh-vid]  |
+| [**Accessing PACE data via Earthdata**][ed-n]                  | [{{ l1 }}][ed-l] | [{{ d1 }}][ed-d] | [{{ v1 }}][ed-v] |
 | Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides-view]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | [{fab}`youtube;sd-text-primary`][ed-vid] |
 | Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view]  | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | [{fab}`youtube;sd-text-primary`][dv-vid] |
 | Matchups of in-situ Data With Satellite Data | [{fas}`eye;sd-text-primary`][mu-slides-view]  | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | [{fab}`youtube;sd-text-primary`][mu-vid] |
@@ -25,6 +26,10 @@ time you log in.
 You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website.](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
 
 
+[ed-n]: notebooks/pace_earthdata_access
+[ed-l]: ""
+[ed-d]: nb:pace_earthdata_access.ipynb
+[ed-v]: ""
 
 
 [jh-slides-view]: ""
@@ -46,7 +51,7 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [ml-nb]: ""
 
 [jh-dl]: https://fish-pace.github.io/fish-pace-hackweek-2025/presentations/hackweek/hub_demo.ipynb
-[ed-dl]: https://fish-pace.github.io/fish-pace-hackweek-2025/presentations/hackweek/earthdata_cloud_access.ipynb
+[ed-dl]: https://fish-pace.github.io/hackweek-2025/external/earthdata_cloud_access.ipynb
 [dv-dl]: ""
 [mu-dl]: ""
 [phyto-dl]: ""
