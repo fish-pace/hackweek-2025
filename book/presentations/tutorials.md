@@ -14,15 +14,15 @@ time you log in.
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording |
 | :---- | :----: | :------: | :-------: |  :-------: |
 | Overview of the JupyterHub                  | [{{ l0 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  |
-| [**Accessing PACE data via Earthdata**][ed-n] | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href={{ ed-d }} download> {{ d1 }}</a> | [{{ v0 }}][ed-v] |
-| Satellite Data Visualization   | [{{ l0 }}][dv1-l]   | [{{ l1 }}][dv1-n] |  <a href="{{ dv1-d }}" download> {{ d1 }}</a> |  [{{ v0 }}][dv1-v] |
+| [**Accessing PACE data via Earthdata**][ed-n] | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v0 }}][ed-v] |
+| Remote sensing reflectance (Rrs)  | [{{ l0 }}][rrs-l]   | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][rrs-v] |
 | Matchups - points and grids | [{{ l0 }}][mu-l]   | [{{ l0 }}][mu-n] |  [{{ d0 }}][mu-d] |  [{{ v0 }}][mu-v] |
-| Phytoplankton Community Composition  | [{{ l0 }}][moana-l]   | [{{ l0 }}][moana-n] |  [{{ d0 }}][moana-d] |  [{{ v0 }}][moana-v] |
-| Remote-Sensing Reflectance (RRS) | [{{ l0 }}][rrs-l]   | [{{ l0 }}][rrs-n] |  [{{ d0 }}][rrs-d] |  [{{ v0 }}][rrs-v] |
-| Light Attenuation (Kd)  | [{{ l0 }}][kd-l]   | [{{ l0 }}][kd-n] |  [{{ d0 }}][kd-d] |  [{{ v0 }}][kd-v] |
-| Simple Machine Learning  | [{{ l0 }}][ml-l]   | [{{ l0 }}][ml-n] |  [{{ d0 }}][ml-d] |  [{{ v0 }}][ml-v] |
+| Phytoplankton community composition  | [{{ l0 }}][moana-l]   | [{{ l0 }}][moana-n] |  [{{ d0 }}][moana-d] |  [{{ v0 }}][moana-v] |
+| Water classification | [{{ l0 }}][wc-l]   | [{{ l1 }}][wc-n] |  <a href="notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][wc-v] |
+| Light attenuation (Kd)  | [{{ l0 }}][kd-l]   | [{{ l0 }}][kd-n] |  [{{ d0 }}][kd-d] |  [{{ v0 }}][kd-v] |
+| Simple machine learning  | [{{ l0 }}][ml-l]   | [{{ l0 }}][ml-n] |  [{{ d0 }}][ml-d] |  [{{ v0 }}][ml-v] |
 
-You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website.](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
+You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
 
 [jh-n]: ""
 [jh-l]: ""
@@ -31,13 +31,13 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 
 [ed-n]: notebooks/pace_earthdata_access
 [ed-l]: https://docs.google.com/presentation/d/1PKJJ6139McB6WyPb1-z8YnlCjDa6k9jgcdSH3NpEkHc/present
-[ed-d]: "notebooks/pace_earthdata_access.ipynb"
+[ed-d]: notebooks/pace_earthdata_access.ipynb
 [ed-v]: ""
 
-[dv1-n]: notebooks/vizualization_rrs
-[dv1-l]: ""
-[dv1-d]: notebooks/vizualization_rrs.ipynb
-[dv1-v]: ""
+[rrs-n]: notebooks/vizualization_rrs
+[rrs-l]: ""
+[rrs-d]: notebooks/vizualization_rrs.ipynb
+[rrs-v]: ""
 
 [mu-n]: ""
 [mu-l]: ""
@@ -49,10 +49,10 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [moana-d]: ""
 [moana-v]: ""
 
-[rrs-n]: ""
-[rrs-l]: ""
-[rrs-d]: ""
-[rrs-v]: ""
+[wc-n]: notebooks/water_classification
+[wc-l]: ""
+[wc-d]: notebooks/water_classification.ipynb
+[wc-v]: ""
 
 [kd-n]: ""
 [kd-l]: ""
