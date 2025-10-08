@@ -14,7 +14,7 @@ time you log in.
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording |
 | :---- | :----: | :------: | :-------: |  :-------: |
 | Overview of the JupyterHub                  | [{{ l0 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  |
-| [**Accessing PACE data via Earthdata**][ed-n] | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="{{ ed-d }}" download> {{ d1 }}</a> | [{{ v0 }}][ed-v] |
+| [**Accessing PACE data via Earthdata**][ed-n] | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href={{ ed-d }} download> {{ d1 }}</a> | [{{ v0 }}][ed-v] |
 | Satellite Data Visualization   | [{{ l0 }}][dv1-l]   | [{{ l1 }}][dv1-n] |  <a href="{{ dv1-d }}" download> {{ d1 }}</a> |  [{{ v0 }}][dv1-v] |
 | Matchups - points and grids | [{{ l0 }}][mu-l]   | [{{ l0 }}][mu-n] |  [{{ d0 }}][mu-d] |  [{{ v0 }}][mu-v] |
 | Phytoplankton Community Composition  | [{{ l0 }}][moana-l]   | [{{ l0 }}][moana-n] |  [{{ d0 }}][moana-d] |  [{{ v0 }}][moana-v] |
@@ -31,7 +31,7 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 
 [ed-n]: notebooks/pace_earthdata_access
 [ed-l]: https://docs.google.com/presentation/d/1PKJJ6139McB6WyPb1-z8YnlCjDa6k9jgcdSH3NpEkHc/present
-[ed-d]: notebooks/pace_earthdata_access.ipynb
+[ed-d]: "notebooks/pace_earthdata_access.ipynb"
 [ed-v]: ""
 
 [dv1-n]: notebooks/vizualization_rrs
