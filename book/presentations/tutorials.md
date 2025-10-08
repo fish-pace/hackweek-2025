@@ -11,64 +11,55 @@ time you log in.
 
 **How to run the tutorials?** You can either download and upload the tutorials (click download icon) or view the tutorial (click eye icon) and you will see options to open the tutorial in the JupyterHub or Colab. You can also go to the [tutorial GitHub repo](https://github.com/fish-pace/2025-tutorials) and clone that into the JupyterHub.
 
-| Title | Slides | Notebook | Recording |
-| :---- | :----: | :------: | :-------: |
-| Overview of the JupyterHub                  | [{{ l0 }}][jh-l]      |         |  [{{ v0 }}][jh-v]  |
-| [**Accessing PACE data via Earthdata**][ed-n] | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n]  {download}`<notebooks/pace_earthdata_access.ipynb>` | [{{ v0 }}][ed-v] |
-| Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view]  | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | [{fab}`youtube;sd-text-primary`][dv-vid] |
-| Matchups of in-situ Data With Satellite Data | [{fas}`eye;sd-text-primary`][mu-slides-view]  | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | [{fab}`youtube;sd-text-primary`][mu-vid] |
-| Phytoplankton Community Composition  |  [{fas}`eye;sd-text-primary`][phyto-slides-view]  | [{fas}`eye;sd-text-primary`][phyto-nb] [{fas}`download;sd-text-primary`][phyto-dl] | [{fab}`youtube;sd-text-primary`][phyto-vid] |
-| Remote-Sensing Reflectance (RRS) | [{fas}`eye;sd-text-primary`][rrs-slides-view]  | [{fas}`eye;sd-text-primary`][rrs-nb] [{fas}`download;sd-text-primary`][rrs-dl] | [{fab}`youtube;sd-text-primary`][rrs-vid] |
-| Light Attenuation (Kd)  | [{fas}`eye;sd-text-primary`][kd-slides-view]  | [{fas}`eye;sd-text-primary`][kd-nb] [{fas}`download;sd-text-primary`][kd-dl] | [{fab}`youtube;sd-text-primary`][kd-vid] |
-| Simple Machine Learning  | [{fas}`eye;sd-text-primary`][ml-slides-view]  | [{fas}`eye;sd-text-primary`][ml-nb] [{fas}`download;sd-text-primary`][ml-dl] | [{fab}`youtube;sd-text-primary`][ml-vid] |
+| Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording |
+| :---- | :----: | :------: | :-------: |  :-------: |
+| Overview of the JupyterHub                  | [{{ l0 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  |
+| [**Accessing PACE data via Earthdata**][ed-n] | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | {download}`<notebooks/pace_earthdata_access.ipynb>` | [{{ v0 }}][ed-v] |
+| Satellite Data Visualization                      | [{{ l0 }}][dv1-l]   | [{{ l1 }}][dv1-n] |  [{{ d0 }}][dv1-d] |  [{{ v0 }}][dv1-v] |
+| Matchups - points and grids | [{{ l0 }}][mu-l]   | [{{ l0 }}][mu-n] |  [{{ d0 }}][mu-d] |  [{{ v0 }}][mu-v] |
+| Phytoplankton Community Composition  | [{{ l0 }}][moana-l]   | [{{ l0 }}][moana-n] |  [{{ d0 }}][moana-d] |  [{{ v0 }}][moana-v] |
+| Remote-Sensing Reflectance (RRS) | [{{ l0 }}][rrs-l]   | [{{ l0 }}][rrs-n] |  [{{ d0 }}][rrs-d] |  [{{ v0 }}][rrs-v] |
+| Light Attenuation (Kd)  | [{{ l0 }}][kd-l]   | [{{ l0 }}][kd-n] |  [{{ d0 }}][kd-d] |  [{{ v0 }}][kd-v] |
+| Simple Machine Learning  | [{{ l0 }}][ml-l]   | [{{ l0 }}][ml-n] |  [{{ d0 }}][ml-d] |  [{{ v0 }}][ml-v] |
 
 You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website.](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
-
-
-[ed-n]: notebooks/pace_earthdata_access
-[ed-l]: https://docs.google.com/presentation/d/1PKJJ6139McB6WyPb1-z8YnlCjDa6k9jgcdSH3NpEkHc/present
-[ed-d]: {download}`<notebooks/pace_earthdata_access.ipynb>`
-[ed-v]: ""
 
 [jh-n]: ""
 [jh-l]: ""
 [jh-d]: ""
 [jh-v]: ""
 
+[ed-n]: notebooks/pace_earthdata_access
+[ed-l]: https://docs.google.com/presentation/d/1PKJJ6139McB6WyPb1-z8YnlCjDa6k9jgcdSH3NpEkHc/present
+[ed-d]: {download}`<notebooks/pace_earthdata_access.ipynb>`
+[ed-v]: ""
 
+[dv1-n]: ""
+[dv1-l]: ""
+[dv1-d]: ""
+[dv1-v]: ""
 
-[jh-slides-view]: ""
-[ed-slides-view]: ""
-[dv-slides-view]: ""
-[mu-slides-view]: ""
-[phyto-slides-view]: ""
-[rrs-slides-view]: ""
-[kd-slides-view]: ""
-[ml-slides-view]: ""
+[mu-n]: ""
+[mu-l]: ""
+[mu-d]: ""
+[mu-v]: ""
 
-[jh-nb]: ./hackweek/hub_demo
-[ed-nb]: ./hackweek/earthdata_cloud_access
-[dv-nb]: ""
-[mu-nb]: ""
-[phyto-nb]: ""
-[rrs-nb]: ""
-[kd-nb]: ""
-[ml-nb]: ""
+[moana-n]: ""
+[moana-l]: ""
+[moana-d]: ""
+[moana-v]: ""
 
-[jh-dl]: https://fish-pace.github.io/fish-pace-hackweek-2025/presentations/hackweek/hub_demo.ipynb
-[ed-dl]: https://fish-pace.github.io/hackweek-2025/external/earthdata_cloud_access.ipynb
-[dv-dl]: ""
-[mu-dl]: ""
-[phyto-dl]: ""
-[rrs-dl]: ""
-[kd-dl]: ""
-[ml-dl]: ""
+[rrs-n]: ""
+[rrs-l]: ""
+[rrs-d]: ""
+[rrs-v]: ""
 
-[jh-vid]: ""
-[ed-vid]: https://www.youtube.com/watch?v=zy6QyUPK3nM&list=PL2JK_uZ15iZBObzR5O5tyAltONgxpY05P&index=8
-[dv-vid]: ""
-[mu-vid]: ""
-[phyto-vid]: ""
-[rrs-vid]: ""
-[kd-vid]: ""
-[ml-vid]: ""
+[kd-n]: ""
+[kd-l]: ""
+[kd-d]: ""
+[kd-v]: ""
+
+[ml-n]: ""
+[ml-l]: ""
+[ml-d]: ""
+[ml-v]: ""
