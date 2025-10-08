@@ -24,7 +24,7 @@ parse:
     l1: "{fas}`eye;sd-text-primary`"
     d0: "<span style='color:#bbb'>{fas}`download`</span>"
     d1: "{fas}`download;sd-text-primary`"
-    v0: "<span style='color:#bbb'>{fas}`youtube`</span>"
+    v0: "<span style='color:#bbb'>{fab}`youtube`</span>"
     v1: "{fab}`youtube;sd-text-primary`"
   myst_enable_extensions:
     # Defaults
