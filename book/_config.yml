@@ -34,6 +34,11 @@ parse:
     - colon_fence
     # Extras
     - html_image
+  myst_url_schemes:
+    https: null
+    http: null
+    mailto: null
+    nb: /hackweek-2025/_sources/presentations/notebooks/{{path}}
 
 # See https://jupyterbook.org/content/execute.html
 execute:
