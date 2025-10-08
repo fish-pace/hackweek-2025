@@ -20,7 +20,7 @@ parse:
     contact_email: "eeholmes@uw.edu"
     anon_reporting_url: ""
     project_spreadsheet_url: "https://github.com/fish-pace/hackweek-2025/blob/eeholmes-patch-1/book/projects/list_of_projects.md"
-    l0: "{fas}`eye;sd-text-lightgrey`"
+    l0: "{fas}`eye;style=color:#bbb;`"
     l1: "{fas}`eye;sd-text-primary`"
     d0: "{fas}`download;sd-text-light`"
     d1: "{fas}`download;sd-text-primary`"
