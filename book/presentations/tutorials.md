@@ -19,7 +19,7 @@ time you log in.
 | Matchups - points and grids | [{{ l0 }}][mu-l]   | [{{ l0 }}][mu-n] |  [{{ d0 }}][mu-d] |  [{{ v0 }}][mu-v] |
 | Phytoplankton community composition  | [{{ l0 }}][moana-l]   | [{{ l0 }}][moana-n] |  [{{ d0 }}][moana-d] |  [{{ v0 }}][moana-v] |
 | Water classification | [{{ l0 }}][wc-l]   | [{{ l1 }}][wc-n] |  <a href="notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][wc-v] |
-| Light attenuation (Kd)  | [{{ l0 }}][kd-l]   | [{{ l0 }}][kd-n] |  [{{ d0 }}][kd-d] |  [{{ v0 }}][kd-v] |
+| Light attenuation (Kd)  | [{{ l0 }}][kd-l]   | [{{ l0 }}][kd-n] |  <a href="notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] |
 | Simple machine learning  | [{{ l0 }}][ml-l]   | [{{ l0 }}][ml-n] |  [{{ d0 }}][ml-d] |  [{{ v0 }}][ml-v] |
 
 You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
@@ -54,9 +54,9 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [wc-d]: notebooks/water_classification.ipynb
 [wc-v]: ""
 
-[kd-n]: ""
+[kd-n]: notebooks/kd_vizualization
 [kd-l]: ""
-[kd-d]: ""
+[kd-d]: notebooks/kd_vizualization.ipynb
 [kd-v]: ""
 
 [ml-n]: ""
