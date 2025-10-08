@@ -14,7 +14,7 @@ time you log in.
 | Title | Slides | Notebook | Recording |
 | :---- | :----: | :------: | :-------: |
 | Overview of the JupyterHub                  | [{fas}`eye;sd-text-primary`][jh-slides-view]      | [{fas}`eye;sd-text-primary`][jh-nb] [{fas}`download;sd-text-primary`][jh-dl] |  [{fab}`youtube;sd-text-primary`][jh-vid]  |
-| [**Accessing PACE data via Earthdata**][ed-n]                  | [{{ l1 }}][ed-l] | {download}`{sub-ref}`d1` <presentations/notebooks/pace_earthdata_access.ipynb>` | [{{ v1 }}][ed-v] |
+| [**Accessing PACE data via Earthdata**][ed-n]                  | [{{ l1 }}][ed-l] | {download}`text <presentations/notebooks/pace_earthdata_access.ipynb>` | [{{ v1 }}][ed-v] |
 | Orientation to Earthdata Cloud Access             | [{fas}`eye;sd-text-primary`][ed-slides-view]      | [{fas}`eye;sd-text-primary`][ed-nb] [{fas}`download;sd-text-primary`][ed-dl] | [{fab}`youtube;sd-text-primary`][ed-vid] |
 | Satellite Data Visualization                      | [{fas}`eye;sd-text-primary`][dv-slides-view]  | [{fas}`eye;sd-text-primary`][dv-nb] [{fas}`download;sd-text-primary`][dv-dl] | [{fab}`youtube;sd-text-primary`][dv-vid] |
 | Matchups of in-situ Data With Satellite Data | [{fas}`eye;sd-text-primary`][mu-slides-view]  | [{fas}`eye;sd-text-primary`][mu-nb] [{fas}`download;sd-text-primary`][mu-dl] | [{fab}`youtube;sd-text-primary`][mu-vid] |
