@@ -15,7 +15,7 @@ time you log in.
 | :---- | :----: | :------: | :-------: |  :-------: |
 | Overview of the JupyterHub                  | [{{ l0 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  |
 | [**Accessing PACE data via Earthdata**][ed-n] | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | {download}`t <notebooks/pace_earthdata_access.ipynb>` | [{{ v0 }}][ed-v] |
-| Satellite Data Visualization                      | [{{ l0 }}][dv1-l]   | [{{ l1 }}][dv1-n] |  [{{ d0 }}][dv1-d] |  [{{ v0 }}][dv1-v] |
+| Satellite Data Visualization                      | [{{ l0 }}][dv1-l]   | [{{ l1 }}][dv1-n] |  [{{ d1 }}](notebooks/pace_earthdata_access.ipynb){:download} |  [{{ v0 }}][dv1-v] |
 | Matchups - points and grids | [{{ l0 }}][mu-l]   | [{{ l0 }}][mu-n] |  [{{ d0 }}][mu-d] |  [{{ v0 }}][mu-v] |
 | Phytoplankton Community Composition  | [{{ l0 }}][moana-l]   | [{{ l0 }}][moana-n] |  [{{ d0 }}][moana-d] |  [{{ v0 }}][moana-v] |
 | Remote-Sensing Reflectance (RRS) | [{{ l0 }}][rrs-l]   | [{{ l0 }}][rrs-n] |  [{{ d0 }}][rrs-d] |  [{{ v0 }}][rrs-v] |
