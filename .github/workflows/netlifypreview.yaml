@@ -31,7 +31,7 @@ jobs:
       with:
         repository: fish-pace/2025-tutorials
         ref: main
-        dest: book/external
+        dest: book/presentations/notebooks
         # If private & cross-org, use a PAT secret with repo scope:
         # token: ${{ secrets.OTHER_REPO_PAT }}
 

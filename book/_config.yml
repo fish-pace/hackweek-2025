@@ -12,14 +12,20 @@ parse:
   myst_substitutions:
     hackweek: "Fish-PACE Hackweek"
     dates: "Oct 20 to 24, 2025"
-    github_org_url: "https://github.com/ocean-satellite-tools"
-    book_repo: "fish-pace-hackweek-2025"
-    website_url: "https://ocean-satellite-tools.github.io/fish-pace-hackweek-2025/"
+    github_org_url: "https://github.com/fish-pace"
+    book_repo: "hackweek-2025"
+    website_url: "https://fish-pace.github.io/hackweek-2025/"
     jupyterhub_url: "https://workshop.nmfs-openscapes.2i2c.cloud"
-#    slack_workspace_url: "https://cryospherecloud.slack.com"
-    contact_email: "eli.holmes@noaa.gov"
+    slack_workspace_url: "https://fish-pace.slack.com/"
+    contact_email: "eeholmes@uw.edu"
     anon_reporting_url: ""
     project_spreadsheet_url: "https://github.com/fish-pace/hackweek-2025/blob/eeholmes-patch-1/book/projects/list_of_projects.md"
+    l0: "{fas}`eye;sd-text-light`"
+    l1: "{fas}`eye;sd-text-primary`"
+    d0: "{fas}`download;sd-text-light`"
+    d1: "{fas}`download;sd-text-primary`"
+    v0: "{fab}`youtube;sd-text-light`"
+    v1: "{fab}`youtube;sd-text-primary`"
   myst_enable_extensions:
     # Defaults
     - dollarmath
