@@ -7,16 +7,19 @@ tabs:
     description: 10am to 1:30pm ET
     time: 7:00 - 10:30
   - title: East Project Introduction
-    description: Welcome, Introductions, & Housekeeping
-    time: 7:00 - 7:30
+    description: Welcome, Introductions, & Housekeeping [link](https://docs.google.com/presentation/d/1fS9mCqvg_kWwCQ0Ud5_9uLb1CjNBw62e/present?slide=id.p1)
+    time: 7:00 - 7:45
     leads:
     - Ryan Vandermeulen
+  - title: East Group Project Brainstorming (3 rotations)
+    description: null
+    time: 7:45 - 8:45
   - title: East Project Pitching
     description: 1 slide pitch
-    time: 7:30 - 8:00
-  - title: East Group Project Brainstorming
+    time: 9:00 - 9:30
+  - title: East Group Project Breakout Rooms
     description: null
-    time: 8:30 - 10:00
+    time: 9:30 - 10:00
   - title: East Tutorial
     description: Fish-PACE Hackweek Collaboration via Git and GitHub
     time: 10:00 - 10:30
@@ -54,15 +57,18 @@ tabs:
     time: 14:30 - 17:30
   - title: West Project Introduction
     description: Welcome, Introductions, & Housekeeping
-    time: 14:30 - 15:00
+    time: 14:30 - 15:15
     leads:
     - Eli Holmes
+  - title: West Group Project Brainstorming (3 rotations)
+    description: null
+    time: 15:15 - 16:00
   - title: West Project Pitching
     description: 1 slide pitch
-    time: 15:00 - 15:30
-  - title: West Group Project Brainstorming
+    time: 16:00 - 16:30
+  - title: West Group Project Breakout Rooms
     description: null
-    time: 15:30 - 17:00    
+    time: 16:30 - 17:00
   - title: West Tutorial
     description: Fish-PACE Hackweek Collaboration via Git and GitHub
     time: 17:00 - 17:30
