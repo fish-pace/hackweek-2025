@@ -14,7 +14,7 @@ time you log in.
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording |
 | :---- | :----: | :------: | :-------: |  :-------: |
 | Overview of the JupyterHub                  | [{{ l1 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  |
-| Collaborating with Git and GitHub   | [{{ l0 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v0 }}][git-v]  |
+| Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v0 }}][git-v]  |
 | Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v0 }}][ed-v] |
 | Remote sensing reflectance (Rrs)  | [{{ l0 }}][rrs-l]   | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][rrs-v] |
 | Matchups - points and grids | [{{ l0 }}][mu-l]   | [{{ l0 }}][mu-n] |  [{{ d0 }}][mu-d] |  [{{ v0 }}][mu-v] |
@@ -31,7 +31,7 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [jh-v]: ""
 
 [git-n]: https://fish-pace.github.io/hackweek-2025/preliminary/git.html
-[git-l]: ""
+[git-l]: https://docs.google.com/presentation/d/1JuS8pNoq0__TyQMsTcXvvmSO8eaxJkAcxJQIlVpM2XA/present
 [git-d]: ""
 [git-v]: ""
 
