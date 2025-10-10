@@ -214,13 +214,13 @@ tabs:
     time: 7:00 - 10:30
   - title: Break
     time: 10:30 - 11:00 
-  - title: East Project Presentations
+  - title: Project Presentations
     description: East teams will present their projects to the entire hackweek.
     time: 10:30 - 12:00
   - title: Break
     description: null
     time: 12:00 - 13:00
-  - title: West Project Presentations
+  - title: Project Presentations
     description: West teams will present their projects to the entire hackweek.
     time: 13:00 - 14:30
   - title: HackWeek Wrap-Up
