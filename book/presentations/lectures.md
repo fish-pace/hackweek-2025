@@ -4,15 +4,15 @@ The slides and recordings will be linked from this page as they become available
 
 | Title | Slides | Recording |
 | :---- | :----: | :-------: |
-| Welcome to the Hackweek                 | [{fas}`eye;sd-text-primary`][welcome-view] [{fas}`download;sd-text-primary`][welcome-dl]    | [{fab}`youtube;sd-text-primary`][welcome-vid] |
-| Intro to Hyperspectral Data  | [{fas}`eye;sd-text-primary`][hyper-view] [{fas}`download;sd-text-primary`][hyper-dl]    | [{fab}`youtube;sd-text-primary`][hyper-vid] |
-| PACE Products     | [{fas}`eye;sd-text-primary`][pace-view] [{fas}`download;sd-text-primary`][pace-dl]         | [{fab}`youtube;sd-text-primary`][pace-vid] |
-| Collaborating with Git and GitHub | [{fas}`eye;sd-text-primary`][collab-view] [{fas}`download;sd-text-primary`][collab-dl] | [{fab}`youtube;sd-text-primary`][collab-vid] |
-| Harmful Algal Blooms and OCI                              | [{fas}`eye;sd-text-primary`][habs-view] [{fas}`download;sd-text-primary`][habs-dl]       | [{fab}`youtube;sd-text-primary`][habs-vid] |
-| Chlorophyll, Fish and Fisheries Management    | [{fas}`eye;sd-text-primary`][fish-view] [{fas}`download;sd-text-primary`][fish-dl]    | [{fab}`youtube;sd-text-primary`][fish-vid] |
-| Phytoplankton Community Composition from Ocean Color  | [{fas}`eye;sd-text-primary`][phyto-view] [{fas}`download;sd-text-primary`][phyto-dl]   | [{fab}`youtube;sd-text-primary`][phyto-vid] |
-| Optical Light Fields and Fish Behavior | [{fas}`eye;sd-text-primary`][light-view] [{fas}`download;sd-text-primary`][light-dl]   | [{fab}`youtube;sd-text-primary`][light-vid] |
-| The Future of High-resolution Ocean Color | [{fas}`eye;sd-text-primary`][future-view] [{fas}`download;sd-text-primary`][future-dl]   | [{fab}`youtube;sd-text-primary`][future-vid] |
+| Welcome to the Hackweek      | [{{ l0 }}][welcome-view]  | [{{ v0 }}][welcome-vid] |
+| The PACE Mission             | [{{ l0 }}][pace-view]     | [{{ v0 }}][pace-vid] |
+| Intro to Hyperspectral Data  |  [{{ l0 }}][hyper-view]    | [{{ v0 }}][hyper-vid] |
+| Collaborating with Git and GitHub | [{{ l0 }}][collab-view]  | [{{ v0 }}][collab-vid] |
+| Harmful Algal Blooms     | [{{ l0 }}][habs-view]   | [{{ v0 }}][habs-vid] |
+| Chlorophyll, Fish and Fisheries Management    | [{{ l0 }}][fish-view]  | [{{ v0 }}][fish-vid] |
+| Phytoplankton Community Composition from Ocean Color  | [{{ l0 }}][phyto-view]  | [{{ v0 }}][phyto-vid] |
+| Optical Light Fields and Fish Behavior | [{{ l0 }}][light-view]   | [{{ v0 }}][light-vid] |
+| The Future of High-resolution Ocean Color | [{{ l0 }}][future-view]  | [{{ v0 }}][future-vid] |
 
 [welcome-view]: ""
 [welcome-dl]: ""
