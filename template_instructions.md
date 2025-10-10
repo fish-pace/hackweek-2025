@@ -5,6 +5,7 @@ follow these instructions.
 
 - [ ] Copy with the 'Use Template' button. Alternatively you could, copy the repo.
 - [ ] Edit the cookiecutter.yaml, book/_config.yml.
+- [ ] Make sure workflows have read/write. You'll need to allow at the org level (Settings/Actions/general) and then that will set the default at the repo level (Settings/Actions)
 - [ ] [Configue Netlify for pull request previews](https://github.com/uwhackweek/jupyterbook-template/blob/main/docs/netlify-setup.md)
 - [ ] [Set up the GitHub repo for GitHub Pages](https://github.com/uwhackweek/jupyterbook-template/blob/main/docs/github-setup.md) with deploy from GitHub Actions
 
