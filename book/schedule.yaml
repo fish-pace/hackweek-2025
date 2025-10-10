@@ -7,7 +7,7 @@ tabs:
     description: 10am to 1:30pm ET
     time: 7:00 - 10:30
   - title: East Project Introduction
-    description: Welcome, Introductions, & Housekeeping [link](https://docs.google.com/presentation/d/1fS9mCqvg_kWwCQ0Ud5_9uLb1CjNBw62e/present?slide=id.p1)
+    description: Welcome, Introductions, & Housekeeping [slides](https://docs.google.com/presentation/d/1fS9mCqvg_kWwCQ0Ud5_9uLb1CjNBw62e/present?slide=id.p1)
     time: 7:00 - 7:45
     leads:
     - Ryan Vandermeulen
@@ -41,7 +41,7 @@ tabs:
     description: null
     time: 12:15 - 12:30
   - title: Coding Tutorial 1
-    description: Orientation for the Hackweek JupyterHub 
+    description: Orientation for the Hackweek JupyterHub [slides](https://docs.google.com/presentation/d/13hEJXGTW0baH1TtP9GDzpu61HTk8LSipQL8fzF53CZ0/present) [hub](https://workshop.nmfs-openscapes.2i2c.cloud)
     time: 12:30 - 13:00
     leads:
     - Eli Holmes
@@ -56,7 +56,7 @@ tabs:
     description: 2:30pm to 5:30pm PT
     time: 14:30 - 17:30
   - title: West Project Introduction
-    description: Welcome, Introductions, & Housekeeping [link](https://docs.google.com/presentation/d/1fS9mCqvg_kWwCQ0Ud5_9uLb1CjNBw62e/present?slide=id.p1)
+    description: Welcome, Introductions, & Housekeeping [slides](https://docs.google.com/presentation/d/1fS9mCqvg_kWwCQ0Ud5_9uLb1CjNBw62e/present?slide=id.p1)
     time: 14:30 - 15:15
     leads:
     - Eli Holmes
