@@ -4,7 +4,7 @@ The slides and recordings will be linked from this page as they become available
 
 | Title | Slides | Recording |
 | :---- | :----: | :-------: |
-| Welcome to the Hackweek      | [{{ l0 }}][welcome-view]  | [{{ v0 }}][welcome-vid] |
+| Welcome to the Hackweek      | [{{ l1 }}][welcome-view]  | [{{ v0 }}][welcome-vid] |
 | The PACE Mission             | [{{ l0 }}][pace-view]     | [{{ v0 }}][pace-vid] |
 | Hyperspectral Products for Fisheries Applications  |  [{{ l0 }}][hyper-view]    | [{{ v0 }}][hyper-vid] |
 | Collaborating with Git and GitHub | [{{ l0 }}][collab-view]  | [{{ v0 }}][collab-vid] |
@@ -18,7 +18,7 @@ The slides and recordings will be linked from this page as they become available
 -->
 
 
-[welcome-view]: ""
+[welcome-view]: https://docs.google.com/presentation/d/1fS9mCqvg_kWwCQ0Ud5_9uLb1CjNBw62e/present
 [welcome-dl]: ""
 [welcome-vid]: ""
 [hyper-view]: ""
