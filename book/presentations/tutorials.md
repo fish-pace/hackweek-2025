@@ -13,8 +13,9 @@ time you log in.
 
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording |
 | :---- | :----: | :------: | :-------: |  :-------: |
-| Overview of the JupyterHub                  | [{{ l0 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  |
-| [**Accessing PACE data via Earthdata**][ed-n] | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v0 }}][ed-v] |
+| Overview of the JupyterHub                  | [{{ l1 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  |
+| Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v0 }}][git-v]  |
+| Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v0 }}][ed-v] |
 | Remote sensing reflectance (Rrs)  | [{{ l0 }}][rrs-l]   | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][rrs-v] |
 | Matchups - points and grids | [{{ l0 }}][mu-l]   | [{{ l0 }}][mu-n] |  [{{ d0 }}][mu-d] |  [{{ v0 }}][mu-v] |
 | Phytoplankton community composition  | [{{ l0 }}][moana-l]   | [{{ l0 }}][moana-n] |  [{{ d0 }}][moana-d] |  [{{ v0 }}][moana-v] |
@@ -25,9 +26,14 @@ time you log in.
 You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
 
 [jh-n]: ""
-[jh-l]: ""
+[jh-l]: https://docs.google.com/presentation/d/13hEJXGTW0baH1TtP9GDzpu61HTk8LSipQL8fzF53CZ0/present
 [jh-d]: ""
 [jh-v]: ""
+
+[git-n]: https://fish-pace.github.io/hackweek-2025/preliminary/git.html
+[git-l]: https://docs.google.com/presentation/d/1JuS8pNoq0__TyQMsTcXvvmSO8eaxJkAcxJQIlVpM2XA/present
+[git-d]: ""
+[git-v]: ""
 
 [ed-n]: notebooks/pace_earthdata_access
 [ed-l]: https://docs.google.com/presentation/d/1PKJJ6139McB6WyPb1-z8YnlCjDa6k9jgcdSH3NpEkHc/present
