@@ -18,13 +18,8 @@ tabs:
     description: 1 slide pitch
     time: 9:00 - 9:30
   - title: East Group Project Breakout Rooms
-    description: null
-    time: 9:30 - 10:00
-  - title: East Tutorial
-    description: Fish-PACE Hackweek Collaboration via Git and GitHub
-    time: 10:00 - 10:30
-    leads:
-    - Eli Holmes
+    description: Each project will have a breakout room and start to get organized.
+    time: 9:30 - 10:30
   - title: Break
     time: 10:30 - 11:00    
   - title: Science Lecture
@@ -67,24 +62,17 @@ tabs:
     description: 1 slide pitch
     time: 16:00 - 16:30
   - title: West Group Project Breakout Rooms
-    description: null
-    time: 16:30 - 17:00
-  - title: West Tutorial
-    description: Fish-PACE Hackweek Collaboration via Git and GitHub
-    time: 17:00 - 17:30
-    leads:
-    - Eli Holmes
+    description: Each project will have a breakout room and start to get organized.
+    time: 16:30 - 17:30
 - title: Day 2
   date: Tuesday
   contents:
-  - title: East Project Work Time
-    description: 10am to 1:30pm ET
-    time: 7:00 - 10:30
-  - title: East Announcements and Group Check-ins
-    description: null
+  - title: East Tutorial
+    description: Fish-PACE Hackweek Collaboration via Git and GitHub [slides](https://docs.google.com/presentation/d/1JuS8pNoq0__TyQMsTcXvvmSO8eaxJkAcxJQIlVpM2XA/present)
     time: 7:00 - 7:30
-    leads:
-    - Ryan Vandermeulen
+  - title: East Project Work Time
+    description: Each project will have a breakout room.
+    time: 7:30 - 10:30
   - title: East/West Open Helpdesk with Mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
@@ -116,25 +104,23 @@ tabs:
     - Eli Holmes
   - title: Break
     time: 14:00 - 14:30
-  - title: West Project Work Time
-    description: 2:30pm to 5:30pm PT
-    time: 14:30 - 17:30
-  - title: West Announcements and Group Check-ins
-    description: null
+  - title: West Tutorial
+    description: Fish-PACE Hackweek Collaboration via Git and GitHub [slides](https://docs.google.com/presentation/d/1JuS8pNoq0__TyQMsTcXvvmSO8eaxJkAcxJQIlVpM2XA/present)
     time: 14:30 - 15:00
-    leads:
-    - Eli Holmes
+  - title: West Project Work Time
+    description: Each project will have a breakout room.
+    time: 15:00 - 17:30
 - title: Day 3
   date: Wednesday
   contents:
-  - title: East Project Work Time
-    description: 10am to 1:30pm ET
-    time: 7:00 - 10:30
-  - title: East Announcements and Group Check-ins
+  - title: East Group Check-ins (Rose, Bud, Thorn)
     description: null
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
+  - title: East Project Work Time
+    description: Each project will have a breakout room.
+    time: 7:30 - 10:30
   - title: East/West Open Helpdesk with Mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
@@ -163,25 +149,25 @@ tabs:
     - Ryan Vandermeulen
   - title: Break
     time: 14:00 - 14:30
-  - title: West Project Work Time
-    description: 2:30pm to 5:30pm PT
-    time: 14:30 - 17:30
-  - title: West Announcements and Group Check-ins
+  - title: West Group Check-ins (Rose, Bud, Thorn)
     description: null
     time: 14:30 - 15:00
     leads:
-    - Eli Holmes
+    - Eli Holmes  
+  - title: West Project Work Time
+    description: Each project will have a breakout room.
+    time: 15:00 - 17:30
 - title: Day 4
   date: Thursday
   contents:
-  - title: East Project Work Time
-    description: 10am to 1:30pm ET
-    time: 7:00 - 10:30
-  - title: East Announcements and Group Check-ins
-    description: Check-ins and Q&A re project presentations
+  - title: East Group Check-ins (Rose, Bud, Thorn)
+    description: null
     time: 7:00 - 7:30
     leads:
     - Ryan Vandermeulen
+  - title: East Project Work Time
+    description: Each project will have a breakout room.
+    time: 7:30 - 10:30
   - title: East/West Open Helpdesk with Mentors
     description: Bring your questions and go into breakout room with a mentor
     time: 9:00 - 10:30
@@ -212,19 +198,19 @@ tabs:
     - Eli Holmes
   - title: Break
     time: 13:30 - 14:00
-  - title: West Project Work Time
-    description: 2:30pm to 5:30pm PT
-    time: 14:30 - 17:30
-  - title: West Announcements and Group Check-ins
-    description: Check-ins and Q&A re project presentations
-    time: 14:00 - 14:30
+  - title: West Group Check-ins (Rose, Bud, Thorn)
+    description: null
+    time: 14:30 - 15:00
     leads:
-    - Eli Holmes
+    - Eli Holmes  
+  - title: West Project Work Time
+    description: Each project will have a breakout room.
+    time: 15:00 - 17:30
 - title: Day 5
   date: Friday
   contents:
   - title: East & West Project Work Time
-    description: Teams schedule on their own.
+    description: Each project will have a breakout room.
     time: 7:00 - 10:30
   - title: Break
     time: 10:30 - 11:00 
