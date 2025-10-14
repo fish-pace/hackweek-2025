@@ -1,0 +1,59 @@
+repo_directory: html
+name: Fish-PACE Hackweek
+favicon: assets/images/favicon-16x16.png
+apply:
+  url: https://forms.gle/4DEZMv2CxyyR6Cxz9
+  title: Applications are Closed
+banner:
+  description: ''
+  start_date: 17 November 2025
+  end_date: 21 November 2025
+  year: 2025
+  location: Virtual
+  links:
+  - url: intro.html
+    title: Event Book
+    new_window: false
+    style: btn-primary
+  - url: https://ocean-satellite-tools.github.io/hyper-fish-book/
+    title: Resource Book
+    new_window: false
+    style: btn-primary
+  image: assets/images/eastcoast_PACE_OCI_20240502T172807.png
+# The opening session of the event with UTC offset
+event_countdown: "2025-11-17T08:30:00-07:00"
+about:
+  description: <h2>NEW DATES November 17-21, 2025!</h2> <br/><br/>New satellite missions for the ocean environment&mdash;NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) launched in February 2024 and the upcoming GeoXO (Geostationary Extended Observations)&mdash;are poised to revolutionize ocean color observation by providing much higher spectral resolution and more frequent, near-real-time data. These advanced missions will significantly enhance our ability to monitor dynamic coastal ecosystems, improving both the accuracy and timeliness of environmental assessments and decision-making. In the Fish-PACE hackweek, you will learn to work with the new PACE hyperspectral data and tackle applications for fisheries and ocean ecosystem research.<br><br>Hackweeks are participant-driven events that strive to create welcoming spaces for participants to learn new things, build community and gain hands-on experience with collaboration and team science. During Fish-PACE, we will have a combination of science lectures and coding tutorials and group projects (pitched by participants).
+team:
+  !include team/team.yaml
+schedule:
+  !include book/schedule.yaml
+sponsors:
+  description: ''
+  organizations:
+  - name: NASA/GSFC/PACE
+    website: https://pace.oceansciences.org/home.htm
+    logo_url: https://web.whoi.edu/ocb/wp-content/uploads/sites/43/2015/06/nasa.png
+  - name: NOAA Fisheries
+    website: https://www.fisheries.noaa.gov/
+    logo_url: assets/images/nmfs.png
+  - name: CoastWatch
+    website: https://coastwatch.noaa.gov/cwn/index.html
+    logo_url: assets/images/coastwatch_logo.png
+  - name: Openscapes
+    website: https://openscapes.org/
+    logo_url: assets/images/openscapes.png
+  - name: OceanHackWeek
+    website: https://oceanhackweek.org/
+    logo_url: assets/images/ohw_logo.png
+  - name: NANOOS
+    website: https://www.nanoos.org/
+    logo_url: assets/images/nanoos_logo.png
+footer:
+  social:
+  - icon: github
+    link: https://github.com/fish-pace
+_copy_without_render:
+- assets
+_extensions:
+- jinja_markdown.MarkdownExtension

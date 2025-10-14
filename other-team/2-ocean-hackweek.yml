@@ -1,0 +1,16 @@
+- title: OceanHackWeek
+  avatar: https://oceanhackweek.org/_static/logo.png
+  role: Hackweek Organization
+  organizations:
+    - name: OceanHackWeek Steering Committee
+  bio: OceanHackWeek's mission is to meet, collaborate, and learn at the intersection of ocean and data sciences. We create vibrant, diverse, and inclusive communities that push the future of open science. Hackweeks are 5-day collaborative learning experiences aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data. It includes tutorials, data exploration, software development, collaborative projects and community networking.
+  expertise:
+    - Git/GitHub
+    - Jupyter
+    - Ocean data
+    - Cloud computing
+  social:
+    - icon: github
+      link: https://github.com/oceanhackweek/
+  user_groups:
+    - Hackweek organizer team

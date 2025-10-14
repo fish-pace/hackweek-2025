@@ -1,0 +1,15 @@
+- title: Sachi Mishra
+  avatar: https://i1.rgstatic.net/ii/profile.image/612488152371200-1523039963821_Q512/Sachidananda-Mishra.jpg
+  role: Satellite Oceanographer
+  organizations:
+    - name: National Centers for Coastal Ocean Science
+  bio: Sachi Mishra works as a satellite oceanographer at the National Centers for Coastal Ocean Science (NCCOS), NOAA. His research interest lies in the aquatic remote sensing domain. He uses satellite remote sensing data, geospatial technologies, and physics-driven machine learning models to detect, monitor, and forecast cyanobacterial harmful algal blooms (cyanoHABs) in lakes, estuaries, and coastal oceans and understand their driving factors. His prior research focused on biophysical parameter estimation from high-resolution airborne hyperspectral data using machine learning and developing semi/quasi-analytical algorithms to quantify water quality parameters such as chlorophyll-a, phycocyanin, dissolved organic matter, and suspended sediment concentration from ocean color measurements in optically-complex waters.
+  expertise:
+    - remote-sensing
+    - ocean color
+    - harmul algal blooms
+  social:
+    - icon: orcid
+      link: https://orcid.org/0000-0001-6613-3103
+  user_groups:
+    - Science Lecturer

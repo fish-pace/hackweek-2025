@@ -1,0 +1,11 @@
+- title: Christopher Haak
+  avatar: https://raw.githubusercontent.com/fish-pace/hackweek-2025/main/team/img/chris.jpg
+  role: Research Scientist
+  organizations:
+    - name: Urban Coast Institute, Monmouth University
+  bio: Chris is a marine ecologist focused on fish ecology and habitat use in near-shore environments. His expertise includes hydrodynamic modeling, species interactions, and the effects of environmental variation on fish distributions and assemblage structure. He is leading efforts to develop habitat-use models for commercially and ecologically important fish species across the U.S. Northeast and Mid-Atlantic continental shelf, with a view toward predicting shifts in distributions under changing environmental conditions.
+  expertise:
+    - species distribution modeling
+    - fish ecology
+  user_groups:
+    - Science Lecturer

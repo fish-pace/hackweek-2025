@@ -1,0 +1,234 @@
+timezone: UTC -7 (Pacific Daylight Time)
+tabs:
+- title: Day 1
+  date: Monday
+  contents:
+  - title: East Project Time
+    description: 10am to 1:30pm ET
+    time: 7:00 - 10:30
+  - title: East Project Introduction
+    description: Welcome, Introductions, & Housekeeping [slides](https://docs.google.com/presentation/d/1fS9mCqvg_kWwCQ0Ud5_9uLb1CjNBw62e/present?slide=id.p1)
+    time: 7:00 - 7:45
+    leads:
+    - Ryan Vandermeulen
+  - title: East Group Project Brainstorming (3 rotations)
+    description: null
+    time: 7:45 - 8:45
+  - title: East Project Pitching
+    description: 1 slide pitch
+    time: 9:00 - 9:30
+  - title: East Group Project Breakout Rooms
+    description: Each project will have a breakout room and start to get organized.
+    time: 9:30 - 10:30
+  - title: Break
+    time: 10:30 - 11:00    
+  - title: Science Lecture
+    description: PACE Mission Overview
+    leads:
+    - Jeremy Werdell
+    time: 11:00 - 11:30
+  - title: Science Lecture
+    description: Hyperspectral Products for Fisheries Applications
+    time: 11:30 - 12:15
+    leads:
+    - Ryan Vandermeulen
+  - title: Break
+    description: null
+    time: 12:15 - 12:30
+  - title: Coding Tutorial 1
+    description: Orientation for the Hackweek JupyterHub [slides](https://docs.google.com/presentation/d/13hEJXGTW0baH1TtP9GDzpu61HTk8LSipQL8fzF53CZ0/present) [hub](https://workshop.nmfs-openscapes.2i2c.cloud)
+    time: 12:30 - 13:00
+    leads:
+    - Eli Holmes
+  - title: Coding Tutorial 2
+    description: PACE Data Access
+    time: 13:00 - 14:00
+    leads:
+    - Eli Holmes
+  - title: Break
+    time: 14:00 - 14:30
+  - title: West Project Time
+    description: 2:30pm to 5:30pm PT
+    time: 14:30 - 17:30
+  - title: West Project Introduction
+    description: Welcome, Introductions, & Housekeeping [slides](https://docs.google.com/presentation/d/1fS9mCqvg_kWwCQ0Ud5_9uLb1CjNBw62e/present?slide=id.p1)
+    time: 14:30 - 15:15
+    leads:
+    - Eli Holmes
+  - title: West Group Project Brainstorming (3 rotations)
+    description: null
+    time: 15:15 - 16:00
+  - title: West Project Pitching
+    description: 1 slide pitch
+    time: 16:00 - 16:30
+  - title: West Group Project Breakout Rooms
+    description: Each project will have a breakout room and start to get organized.
+    time: 16:30 - 17:30
+- title: Day 2
+  date: Tuesday
+  contents:
+  - title: East Tutorial
+    description: Fish-PACE Hackweek Collaboration via Git and GitHub [slides](https://docs.google.com/presentation/d/1JuS8pNoq0__TyQMsTcXvvmSO8eaxJkAcxJQIlVpM2XA/present)
+    time: 7:00 - 7:30
+  - title: East Project Work Time
+    description: Each project will have a breakout room.
+    time: 7:30 - 10:30
+  - title: East/West Open Helpdesk with Mentors
+    description: Bring your questions and go into breakout room with a mentor
+    time: 9:00 - 10:30
+    leads:
+    - mentors
+  - title: Break
+    time: 10:30 - 11:00    
+  - title: Science Lecture
+    description: Harmful Algal Blooms and Hyperspectral Ocean Color Data
+    time: 11:00 -11:45
+    leads:
+    - Shelly Tomlinson
+    - Sachi Mishra
+  - title: Break
+    description: null
+    time: 11:45 - 12:15
+  - title: Coding Tutorial 1
+    description: Hyperspectral Visualization I
+    time: 12:15 - 13:00
+    leads:
+    - Ryan Vandermeulen
+  - title: Break
+    description: null
+    time: 13:00 - 13:15
+  - title: Coding Tutorial 2
+    description: Matchups of in-situ Data with Satellite Data
+    time: 13:15 - 14:00
+    leads:
+    - Eli Holmes
+  - title: Break
+    time: 14:00 - 14:30
+  - title: West Tutorial
+    description: Fish-PACE Hackweek Collaboration via Git and GitHub [slides](https://docs.google.com/presentation/d/1JuS8pNoq0__TyQMsTcXvvmSO8eaxJkAcxJQIlVpM2XA/present)
+    time: 14:30 - 15:00
+  - title: West Project Work Time
+    description: Each project will have a breakout room.
+    time: 15:00 - 17:30
+- title: Day 3
+  date: Wednesday
+  contents:
+  - title: East Group Check-ins (Rose, Bud, Thorn)
+    description: null
+    time: 7:00 - 7:30
+    leads:
+    - Ryan Vandermeulen
+  - title: East Project Work Time
+    description: Each project will have a breakout room.
+    time: 7:30 - 10:30
+  - title: East/West Open Helpdesk with Mentors
+    description: Bring your questions and go into breakout room with a mentor
+    time: 9:00 - 10:30
+    leads:
+    - mentors
+  - title: Break
+    time: 10:30 - 11:00 
+  - title: Science Lecture
+    description: Phytoplankton Community Composition from Ocean Color
+    time: 11:00 -11:45
+    leads:
+    - Priscila Lange
+  - title: Break
+    description: null
+    time: 11:45 - 12:15
+  - title: Coding Tutorial 1
+    description: Phytoplankton Community Composition (MOANA)
+    time: 12:15 - 13:00
+  - title: Break
+    description: null
+    time: 13:00 - 13:15
+  - title: Coding Tutorial 2
+    description: Hyperspectral Visualization II
+    time: 13:15 - 14:00
+    leads:
+    - Ryan Vandermeulen
+  - title: Break
+    time: 14:00 - 14:30
+  - title: West Group Check-ins (Rose, Bud, Thorn)
+    description: null
+    time: 14:30 - 15:00
+    leads:
+    - Eli Holmes  
+  - title: West Project Work Time
+    description: Each project will have a breakout room.
+    time: 15:00 - 17:30
+- title: Day 4
+  date: Thursday
+  contents:
+  - title: East Group Check-ins (Rose, Bud, Thorn)
+    description: null
+    time: 7:00 - 7:30
+    leads:
+    - Ryan Vandermeulen
+  - title: East Project Work Time
+    description: Each project will have a breakout room.
+    time: 7:30 - 10:30
+  - title: East/West Open Helpdesk with Mentors
+    description: Bring your questions and go into breakout room with a mentor
+    time: 9:00 - 10:30
+    leads:
+    - mentors
+  - title: Break
+    time: 10:30 - 11:00    
+  - title: Science Lecture
+    description: Optical Light Fields and Fish Behavior
+    time: 11:00 - 11:45
+    leads:
+    - Christopher Haak
+  - title: Break
+    description: null
+    time: 11:45 - 12:00
+  - title: Coding Tutorial 1
+    description: Exploring Patterns in Hyperspectral Data
+    time: 12:00 - 12:45
+    leads:
+    - Ryan Vandermeulen
+  - title: Break
+    description: null
+    time: 12:30 - 12:45
+  - title: Coding Tutorial 2
+    description: Simple Machine Learning Tasks with Satellite Data
+    time: 12:45 - 13:30
+    leads:
+    - Eli Holmes
+  - title: Break
+    time: 13:30 - 14:00
+  - title: West Group Check-ins (Rose, Bud, Thorn)
+    description: null
+    time: 14:30 - 15:00
+    leads:
+    - Eli Holmes  
+  - title: West Project Work Time
+    description: Each project will have a breakout room.
+    time: 15:00 - 17:30
+- title: Day 5
+  date: Friday
+  contents:
+  - title: East & West Project Work Time
+    description: Each project will have a breakout room.
+    time: 7:00 - 10:30
+  - title: Break
+    time: 10:30 - 11:00 
+  - title: Project Presentations
+    description: East teams will present their projects to the entire hackweek.
+    time: 10:30 - 12:00
+  - title: Break
+    description: null
+    time: 12:00 - 13:00
+  - title: Project Presentations
+    description: West teams will present their projects to the entire hackweek.
+    time: 13:00 - 14:30
+  - title: HackWeek Wrap-Up
+    description: null
+    time: 14:30 - 15:00
+    leads:
+    - Ryan Vandermeulen
+    - Eli Holmes
+
+
+

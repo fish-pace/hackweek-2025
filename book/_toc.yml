@@ -1,0 +1,52 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+root: intro
+format: jb-book
+parts:
+- caption: Details
+  chapters:
+    - file: logistics
+    - title: Schedule
+      url: https://fish-pace.github.io/hackweek-2025/index.html?jump_to=schedule
+    - title: Team
+      url: https://fish-pace.github.io/hackweek-2025/index.html?jump_to=team
+    - file: CoC
+- caption: Preparation
+  chapters:
+    - file: preliminary/index
+    - file: preliminary/checklist
+    - file: preliminary/git
+    - file:  reference/intro_to_python
+- caption: Presentations
+  chapters:
+    - file: presentations/lectures
+    - file: presentations/tutorials
+#      sections:
+#        - file: presentations/hackweek/cryocloud_overview/CryoCloud_demo
+#          title: JupyterHub Overview
+#        - file: presentations/hackweek/earthdata_cloud_access
+#          title: Earthdata Access
+#        - file: presentations/hackweek/satdata_visualization
+#          title: Data Visualization
+#        - file: presentations/hackweek/satellite_insitu_matchups
+#          title: In-situ Matchups
+#        - url: https://docs.google.com/presentation/d/1ylRMdihGg7Fr9cjm1rjggU7Tcc4Zb8MsH0gH2R09RZk/present?usp=sharing
+#          title: Code Collaboration
+#        - url: https://docs.google.com/presentation/d/17WIDy5rA0VA-6RQpo7wGAeAP-Uz_kxPr/present
+#          title: Reproducible Containers
+- caption: Projects
+  chapters:
+    - file: projects/index
+#    - file: projects/list_of_projects
+- caption: Reference
+  chapters:
+    - file: preliminary/learning
+    - url: https://ocean-satellite-tools.github.io/hyper-fish-book/
+      title: Hyperspectral products for fisheries
+    - url: https://pace.oceansciences.org/applications.htm
+      title: PACE Applications
+    - url: https://pace.oceansciences.org/data_table.htm
+      title: Data availability
+    - file: reference/glossary
+    - file: reference/questions
+

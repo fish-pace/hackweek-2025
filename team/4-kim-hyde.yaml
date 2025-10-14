@@ -1,0 +1,20 @@
+- title: Kim Hyde
+  avatar: https://avatars.githubusercontent.com/u/5922605?v=4
+  role: Research Scientist
+  organizations:
+    - name: NOAA Fisheries
+  bio: Kim is a biological oceanographer in the Ecosystem Dynamics and Assessment Branch. Her expertise includes ocean color remote sensing and phytoplankton ecology. Her current research interests include understanding the environmental drivers of phytoplankton community composition and their influence on the ecosystem and food web. She is leading efforts to develop remote sensing products and oceanographic indicators for use in ecosystem and fisheries research, assessment and management. She is a member of the NOAA Ocean Color Coordinating Group and the oceanography lead for the State of the Ecosystem reports. 
+  expertise:
+    - ocean color
+    - remote sensing data
+    - PACE data
+  social:
+    - icon: github
+      link: https://github.com/khyde
+    - icon: orcid
+      link: https://orcid.org/0000-0002-1564-5499
+    - icon: linkedin
+      link: https://www.linkedin.com/in/kimberly-hyde-73631b27a/
+  user_groups:
+    - Organizer team
+    - Project Mentor

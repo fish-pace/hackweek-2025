@@ -1,0 +1,17 @@
+- title: Sunny Hospital
+  avatar: https://nmfs-opensci.github.io/EDMW-EarthData-Workshop-2024/images/Sunny.jpg
+  role: PolarWatch Coordinator
+  organizations:
+    - name: NOAA PolarWatch
+      url: https://www.fisheries.noaa.gov/contact/sun-bak-hospital
+  bio: Sunny is the PolarWatch Development lead. In this role, she works with data developers and users to ensure data accessibility and availability through the use of FAIR practices and tool development. She also helps lead CoastWatch's many training activities.
+  expertise:
+    - satellite data access
+    - Python and R
+  social:
+    - icon: github
+      link: https://github.com/shospital
+  user_groups:
+    - Organizer team
+    - Project Mentor
+ 
