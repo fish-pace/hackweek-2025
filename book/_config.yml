@@ -26,6 +26,8 @@ parse:
     d1: "{fas}`download;sd-text-primary`"
     v0: "<span style='color:#bbb'>{fab}`youtube`</span>"
     v1: "{fab}`youtube;sd-text-primary`"
+    c0: "<span style='color:#bbb'>{fab}`google`</span>"
+    c1: "{fab}`google;sd-text-primary`"
   myst_enable_extensions:
     # Defaults
     - dollarmath
