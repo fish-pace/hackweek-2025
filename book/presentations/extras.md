@@ -19,8 +19,8 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [cnn-v]: ""
 [cnn-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/CNN_2D.ipynb
 
-[cnn-n]: notebooks/argopy
-[cnn-l]: ""
-[cnn-d]: notebooks/argopy.ipynb
-[cnn-v]: ""
-[cnn-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/argopy.ipynb
+[ba-n]: notebooks/argopy
+[ba-l]: ""
+[ba-d]: notebooks/argopy.ipynb
+[ba-v]: ""
+[ba-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/argopy.ipynb
