@@ -21,19 +21,7 @@ parts:
   chapters:
     - file: presentations/lectures
     - file: presentations/tutorials
-#      sections:
-#        - file: presentations/hackweek/cryocloud_overview/CryoCloud_demo
-#          title: JupyterHub Overview
-#        - file: presentations/hackweek/earthdata_cloud_access
-#          title: Earthdata Access
-#        - file: presentations/hackweek/satdata_visualization
-#          title: Data Visualization
-#        - file: presentations/hackweek/satellite_insitu_matchups
-#          title: In-situ Matchups
-#        - url: https://docs.google.com/presentation/d/1ylRMdihGg7Fr9cjm1rjggU7Tcc4Zb8MsH0gH2R09RZk/present?usp=sharing
-#          title: Code Collaboration
-#        - url: https://docs.google.com/presentation/d/17WIDy5rA0VA-6RQpo7wGAeAP-Uz_kxPr/present
-#          title: Reproducible Containers
+    - file: presentations/extras
 - caption: Projects
   chapters:
     - file: projects/index
