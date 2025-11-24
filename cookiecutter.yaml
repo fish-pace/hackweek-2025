@@ -3,12 +3,12 @@ name: Fish-PACE Hackweek
 favicon: assets/images/favicon-16x16.png
 apply:
   url: https://forms.gle/4DEZMv2CxyyR6Cxz9
-  title: Applications are Closed
+  title: Applications re-opened until Dec 19
 banner:
   description: ''
-  start_date: 17 November 2025
-  end_date: 21 November 2025
-  year: 2025
+  start_date: 26 January 2026
+  end_date: 30 January 2026
+  year: 2026
   location: Virtual
   links:
   - url: intro.html
