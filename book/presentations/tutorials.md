@@ -17,7 +17,7 @@ JupyterHub with all the necessary Python software packages installed.
 | Water classification | [{{ l0 }}][wc-l]   | [{{ l1 }}][wc-n] |  <a href="notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][wc-v] |  [{{ c1 }}][wc-c] |
 | Light attenuation (Kd)  | [{{ l0 }}][kd-l]   | [{{ l1 }}][kd-n] |  <a href="notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] | [{{ c1 }}][kd-c] |
 | Simple machine learning - 2D  | [{{ l0 }}][cnn-l]   | [{{ l1 }}][cnn-n] |  <a href="notebooks/CNN_2D.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][cnn-v] | [{{ c1 }}][cnn-c] |
-| Simple machine learning - BRT  | [{{ l0 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][brt-v] | [{{ c1 }}][brt-c] |
+| Simple machine learning - BRT  | [{{ l1 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][brt-v] | [{{ c1 }}][brt-c] |
 
 You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
 
@@ -73,7 +73,7 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [cnn-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/CNN_2D.ipynb
 
 [brt-n]: "notebooks/BRT_Argo_CHLA"
-[brt-l]: ""
+[brt-l]: https://fish-pace.github.io/chla-z-modeling/chla_depth_profiles.html#/title-slide
 [brt-d]: "notebooks/BRT_Argo_CHLA.ipynb"
 [brt-v]: ""
 [brt-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/BRT_Argo_CHLA.ipynb
