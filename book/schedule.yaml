@@ -132,13 +132,16 @@ tabs:
     description: Phytoplankton Community Composition from Ocean Color
     time: 11:00 -11:45
     leads:
-    - Priscila Lange
+    - Ali Chase
+    - Sasha Kramer
   - title: Break
     description: null
     time: 11:45 - 12:15
   - title: Coding Tutorial 1
     description: Phytoplankton Community Composition (MOANA)
     time: 12:15 - 13:00
+    leads:
+    - Ryan Vandermeulen
   - title: Break
     description: null
     time: 13:00 - 13:15
