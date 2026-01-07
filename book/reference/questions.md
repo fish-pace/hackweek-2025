@@ -6,6 +6,4 @@ All of the mentors listed on the Teams page can help answer any questions during
 
 If you have any questions between now and the event, feel free to reach out!
 
-Overall questions: Anna Windle (eli.holmes@noaa.gov)
-
-
+Overall questions: Eli Holmes (eli.holmes@noaa.gov)
