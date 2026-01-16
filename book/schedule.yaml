@@ -70,6 +70,8 @@ tabs:
   - title: East Tutorial
     description: Fish-PACE Hackweek Collaboration via Git and GitHub [slides](https://docs.google.com/presentation/d/1JuS8pNoq0__TyQMsTcXvvmSO8eaxJkAcxJQIlVpM2XA/present)
     time: 7:00 - 7:30
+    leads:
+    - Eli Holmes
   - title: East Project Work Time
     description: Each project will have a breakout room.
     time: 7:30 - 10:30
@@ -90,7 +92,7 @@ tabs:
     description: null
     time: 11:45 - 12:15
   - title: Coding Tutorial 1
-    description: Hyperspectral Visualization I
+    description: Remote Sensing Reflectance
     time: 12:15 - 13:00
     leads:
     - Ryan Vandermeulen
@@ -98,15 +100,17 @@ tabs:
     description: null
     time: 13:00 - 13:15
   - title: Coding Tutorial 2
-    description: Matchups of in-situ Data with Satellite Data
+    description: Data Matchups
     time: 13:15 - 14:00
     leads:
-    - Eli Holmes
+    - Ryan Vandermeulen
   - title: Break
     time: 14:00 - 14:30
   - title: West Tutorial
     description: Fish-PACE Hackweek Collaboration via Git and GitHub [slides](https://docs.google.com/presentation/d/1JuS8pNoq0__TyQMsTcXvvmSO8eaxJkAcxJQIlVpM2XA/present)
     time: 14:30 - 15:00
+    leads:
+    - Eli Holmes
   - title: West Project Work Time
     description: Each project will have a breakout room.
     time: 15:00 - 17:30
@@ -138,7 +142,7 @@ tabs:
     description: null
     time: 11:45 - 12:15
   - title: Coding Tutorial 1
-    description: Phytoplankton Community Composition (MOANA)
+    description: Accessing and Visualization of MOANA Data
     time: 12:15 - 13:00
     leads:
     - Ryan Vandermeulen
@@ -146,7 +150,7 @@ tabs:
     description: null
     time: 13:00 - 13:15
   - title: Coding Tutorial 2
-    description: Hyperspectral Visualization II
+    description: TBD
     time: 13:15 - 14:00
     leads:
     - Ryan Vandermeulen
@@ -187,7 +191,7 @@ tabs:
     description: null
     time: 11:45 - 12:00
   - title: Coding Tutorial 1
-    description: Exploring Patterns in Hyperspectral Data
+    description: Exploring Light Attenuation with Kd
     time: 12:00 - 12:45
     leads:
     - Ryan Vandermeulen
@@ -195,7 +199,7 @@ tabs:
     description: null
     time: 12:30 - 12:45
   - title: Coding Tutorial 2
-    description: Simple Machine Learning Tasks with Satellite Data
+    description: Predictions with PACE and Boosted Regression Trees
     time: 12:45 - 13:30
     leads:
     - Eli Holmes
