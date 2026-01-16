@@ -1,4 +1,4 @@
-timezone: UTC -7 (Pacific Daylight Time)
+timezone: UTC-8 (Pacific Standard Time)
 tabs:
 - title: Day 1
   date: Monday
@@ -92,7 +92,7 @@ tabs:
     description: null
     time: 11:45 - 12:15
   - title: Coding Tutorial 1
-    description: Remote Sensing Reflectance
+    description: Remote Sensing Reflectance (Rrs)
     time: 12:15 - 13:00
     leads:
     - Ryan Vandermeulen
@@ -142,7 +142,7 @@ tabs:
     description: null
     time: 11:45 - 12:15
   - title: Coding Tutorial 1
-    description: Accessing and Visualization of MOANA Data
+    description: Accessing and Visualizing MOANA Data
     time: 12:15 - 13:00
     leads:
     - Ryan Vandermeulen
@@ -150,7 +150,7 @@ tabs:
     description: null
     time: 13:00 - 13:15
   - title: Coding Tutorial 2
-    description: TBD
+    description: Optical water classification and clustering
     time: 13:15 - 14:00
     leads:
     - Ryan Vandermeulen
@@ -199,7 +199,7 @@ tabs:
     description: null
     time: 12:30 - 12:45
   - title: Coding Tutorial 2
-    description: Predictions with PACE and Boosted Regression Trees
+    description: PACE, Bio-Argo and Machine-learning
     time: 12:45 - 13:30
     leads:
     - Eli Holmes
