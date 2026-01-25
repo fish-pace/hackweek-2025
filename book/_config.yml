@@ -15,7 +15,7 @@ parse:
     github_org_url: "https://github.com/fish-pace"
     book_repo: "hackweek-2025"
     website_url: "https://fish-pace.github.io/hackweek-2025/"
-    jupyterhub_url: "https://workshop.nmfs-openscapes.2i2c.cloud"
+    jupyterhub_url: "https://nmfs-openscapes.2i2c.cloud"
     slack_workspace_url: "https://fish-pace.slack.com/"
     contact_email: "eeholmes@uw.edu"
     anon_reporting_url: ""
