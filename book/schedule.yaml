@@ -36,7 +36,7 @@ tabs:
     description: null
     time: 12:15 - 12:30
   - title: Coding Tutorial 1
-    description: Orientation for the Hackweek JupyterHub [slides](https://docs.google.com/presentation/d/13hEJXGTW0baH1TtP9GDzpu61HTk8LSipQL8fzF53CZ0/present) [hub](https://workshop.nmfs-openscapes.2i2c.cloud)
+    description: Orientation for the Hackweek JupyterHub [slides](https://docs.google.com/presentation/d/13hEJXGTW0baH1TtP9GDzpu61HTk8LSipQL8fzF53CZ0/present) [hub](https://nmfs-openscapes.2i2c.cloud)
     time: 12:30 - 13:00
     leads:
     - Eli Holmes

@@ -96,8 +96,6 @@ showing the Terminal way just described.
 
 #### Option 2: Manual Configuration
 
-**Note we are using the workshop JupyterHub and it uses a shared password. If someone guesses your username, they could gain access to your authentication token thus we highly recommend that you use gh-scoped-creds above.**
-
 Work through the instructions on the
 [GitHub personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic)
 page. The maximum permissions you likely need is the **repo** scope.
