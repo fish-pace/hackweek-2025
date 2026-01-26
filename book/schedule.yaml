@@ -23,12 +23,12 @@ tabs:
   - title: Break
     time: 10:30 - 11:00    
   - title: Science Lecture
-    description: PACE Mission Overview
+    description: PACE Mission Overview [lectures](https://fish-pace.github.io/hackweek-2025/presentations/lectures.html)
     leads:
     - Jeremy Werdell
     time: 11:00 - 11:30
   - title: Science Lecture
-    description: Hyperspectral Products for Fisheries Applications
+    description: Hyperspectral Products for Fisheries Applications [lectures](https://fish-pace.github.io/hackweek-2025/presentations/lectures.html)
     time: 11:30 - 12:15
     leads:
     - Ryan Vandermeulen
@@ -41,7 +41,7 @@ tabs:
     leads:
     - Eli Holmes
   - title: Coding Tutorial 2
-    description: PACE Data Access
+    description: Accessing PACE data via earthaccess [tutorials](https://fish-pace.github.io/hackweek-2025/presentations/tutorials.html)
     time: 13:00 - 14:00
     leads:
     - Eli Holmes
@@ -83,7 +83,7 @@ tabs:
   - title: Break
     time: 10:30 - 11:00    
   - title: Science Lecture
-    description: Harmful Algal Blooms and Hyperspectral Ocean Color Data
+    description: Harmful Algal Blooms and Hyperspectral Ocean Color Data [lectures](https://fish-pace.github.io/hackweek-2025/presentations/lectures.html)
     time: 11:00 -11:45
     leads:
     - Shelly Tomlinson
@@ -92,7 +92,7 @@ tabs:
     description: null
     time: 11:45 - 12:15
   - title: Coding Tutorial 1
-    description: Remote Sensing Reflectance (Rrs)
+    description: Remote Sensing Reflectance (Rrs) [tutorials](https://fish-pace.github.io/hackweek-2025/presentations/tutorials.html)
     time: 12:15 - 13:00
     leads:
     - Ryan Vandermeulen
@@ -100,7 +100,7 @@ tabs:
     description: null
     time: 13:00 - 13:15
   - title: Coding Tutorial 2
-    description: Data Matchups
+    description: Data Matchups [tutorials](https://fish-pace.github.io/hackweek-2025/presentations/tutorials.html)
     time: 13:15 - 14:00
     leads:
     - Ryan Vandermeulen
@@ -133,7 +133,7 @@ tabs:
   - title: Break
     time: 10:30 - 11:00 
   - title: Science Lecture
-    description: Phytoplankton Community Composition from Ocean Color
+    description: Phytoplankton Community Composition from Ocean Color [lectures](https://fish-pace.github.io/hackweek-2025/presentations/lectures.html)
     time: 11:00 -11:45
     leads:
     - Ali Chase
@@ -142,7 +142,7 @@ tabs:
     description: null
     time: 11:45 - 12:15
   - title: Coding Tutorial 1
-    description: Accessing and Visualizing MOANA Data
+    description: Accessing and Visualizing MOANA Data [tutorials](https://fish-pace.github.io/hackweek-2025/presentations/tutorials.html)
     time: 12:15 - 13:00
     leads:
     - Ryan Vandermeulen
@@ -150,7 +150,7 @@ tabs:
     description: null
     time: 13:00 - 13:15
   - title: Coding Tutorial 2
-    description: Optical water classification and clustering
+    description: Optical water classification and clustering [tutorials](https://fish-pace.github.io/hackweek-2025/presentations/tutorials.html)
     time: 13:15 - 14:00
     leads:
     - Ryan Vandermeulen
@@ -183,7 +183,7 @@ tabs:
   - title: Break
     time: 10:30 - 11:00    
   - title: Science Lecture
-    description: Optical Light Fields and Fish Behavior
+    description: Optical Light Fields and Fish Behavior [lectures](https://fish-pace.github.io/hackweek-2025/presentations/lectures.html)
     time: 11:00 - 11:45
     leads:
     - Christopher Haak
@@ -191,7 +191,7 @@ tabs:
     description: null
     time: 11:45 - 12:00
   - title: Coding Tutorial 1
-    description: Exploring Light Attenuation with Kd
+    description: Exploring Light Attenuation with Kd [tutorials](https://fish-pace.github.io/hackweek-2025/presentations/tutorials.html)
     time: 12:00 - 12:45
     leads:
     - Ryan Vandermeulen
@@ -199,7 +199,7 @@ tabs:
     description: null
     time: 12:30 - 12:45
   - title: Coding Tutorial 2
-    description: PACE, Bio-Argo and Machine-learning
+    description: PACE, Bio-Argo and Machine-learning [tutorials](https://fish-pace.github.io/hackweek-2025/presentations/tutorials.html)
     time: 12:45 - 13:30
     leads:
     - Eli Holmes
