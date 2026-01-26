@@ -23,7 +23,7 @@ The slides and recordings will be linked from this page as they become available
 [hyper-view]: https://docs.google.com/presentation/d/1_58Q7n96RsMFZGf2xE7UCH4D35JV71ppg4uu3aUQrsA/present
 [hyper-dl]: https://drive.google.com/uc?export=download&id=1_Fdme7AYQapgd37o-JzyDx3oCReDd5r2
 [hyper-vid]: ""
-[pace-view]: ""
+[pace-view]: https://drive.google.com/file/d/19AQO6YmEjZfltLe5QgoQz-ujDL1kb_0F/view
 [pace-dl]: https://drive.google.com/uc?export=download&id=1o8FCuY99KZBK2JyQubcSW3-feG7jWRgU
 [pace-vid]: ""
 [habs-view]: ""
