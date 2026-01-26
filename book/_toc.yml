@@ -10,13 +10,15 @@ parts:
       url: https://fish-pace.github.io/hackweek-2025/index.html?jump_to=schedule
     - title: Team
       url: https://fish-pace.github.io/hackweek-2025/index.html?jump_to=team
+    - title: JupyterHub
+      url:  https://nmfs-openscapes.2i2c.cloud
     - file: CoC
 - caption: Preparation
   chapters:
     - file: preliminary/index
     - file: preliminary/checklist
     - file: preliminary/git
-    - file:  reference/intro_to_python
+    - file: reference/intro_to_python
 - caption: Presentations
   chapters:
     - file: presentations/lectures
