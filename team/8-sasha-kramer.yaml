@@ -1,0 +1,21 @@
+- title: Sasha Kramer
+  avatar: https://www.bu.edu/earth/files/2025/07/thumbnail_Kramer_Sasha-600x600.jpg
+  role: Assistant Professor
+  organizations:
+    - name: Boston University
+  bio: Sasha's research characterizes surface ocean phytoplankton communities using a combination of in-water samples and remote sensing data on local to regional to global scales. From these surface ocean measurements, she explores the implications of changes in phytoplankton community composition (PCC) for broader biogeochemical cycles (e.g., the biological carbon pump and ocean carbon export) and in response to extreme events like coastal wildfires.
+  expertise:
+    - phytoplankton ecology
+    - biogeochemical cycles
+    - remote sensing
+  social:
+    - icon: linkedin
+      link: https://www.linkedin.com/in/sasha-kramer-2523148a/
+    - icon: orcid
+      link: https://orcid.org/0000-0002-9944-6779
+    - icon: github
+      link: https://github.com/sashajane19
+    - icon: chrome
+      link: https://www.sashakramer.me/
+  user_groups:
+    - Science Lecturer

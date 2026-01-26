@@ -1,12 +1,12 @@
 # Lectures
 
-The slides and recordings will be linked from this page as they become available.
+The slides and recordings will be linked from this page as they become available. Download slides from the [shared drive](https://drive.google.com/drive/folders/1nqhyqtgOFSr_dIR-nd8L8wndSTSbiYzV?usp=sharing).
 
 | Title | Slides | Recording |
 | :---- | :----: | :-------: |
 | Welcome to the Hackweek      | [{{ l1 }}][welcome-view]  | [{{ v0 }}][welcome-vid] |
-| The PACE Mission             | [{{ l0 }}][pace-view] [{{ d1 }}][pace-dl]   | [{{ v0 }}][pace-vid] |
-| Hyperspectral Products for Fisheries Applications  |  [{{ l1 }}][hyper-view] [{{ d1 }}][hyper-dl]    | [{{ v0 }}][hyper-vid] |
+| The PACE Mission             | [{{ l1 }}][pace-view]   | [{{ v0 }}][pace-vid] |
+| Hyperspectral Products for Fisheries Applications  |  [{{ l1 }}][hyper-view]  | [{{ v0 }}][hyper-vid] |
 | Harmful Algal Blooms and Hyperspectral Ocean Color Data     | [{{ l0 }}][habs-view]   | [{{ v0 }}][habs-vid] |
 | Phytoplankton Community Composition from Ocean Color  | [{{ l0 }}][phyto-view]  | [{{ v0 }}][phyto-vid] |
 | Optical Light Fields and Fish Behavior | [{{ l0 }}][light-view]   | [{{ v0 }}][light-vid] |
