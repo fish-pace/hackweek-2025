@@ -19,7 +19,7 @@ parse:
     slack_workspace_url: "https://fish-pace.slack.com/"
     contact_email: "eeholmes@uw.edu"
     anon_reporting_url: ""
-    project_spreadsheet_url: "https://github.com/fish-pace/hackweek-2025/blob/eeholmes-patch-1/book/projects/list_of_projects.md"
+    project_spreadsheet_url: "https://fish-pace.github.io/hackweek-2025/projects/list_of_projects.md"
     l0: "<span style='color:#bbb'>{fas}`eye`</span>"
     l1: "{fas}`eye;sd-text-primary`"
     d0: "<span style='color:#bbb'>{fas}`download`</span>"
