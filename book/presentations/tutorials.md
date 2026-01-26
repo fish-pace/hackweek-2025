@@ -18,13 +18,9 @@ JupyterHub with all the necessary Python software packages installed.
 | Exploring light attenuation with Kd  | [{{ l0 }}][kd-l]   | [{{ l1 }}][kd-n] |  <a href="notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] | [{{ c1 }}][kd-c] |
 | PACE, Bio-Argo and machine-learning  | [{{ l1 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][brt-v] | [{{ c1 }}][brt-c] |
 
-## Addition Tuturials
+## Additional Tuturials
 
-| Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording | Colab |
-| :---- | :----: | :------: | :-------: |  :-------: | :-------:|
-| Simple machine learning - CNNs  | [{{ l0 }}][cnn-l]   | [{{ l1 }}][cnn-n] |  <a href="notebooks/CNN_2D.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][cnn-v] | [{{ c1 }}][cnn-c] |
-
-You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
+See "Supplemental tutorials" in left navbar.
 
 [jh-n]: ""
 [jh-l]: https://docs.google.com/presentation/d/13hEJXGTW0baH1TtP9GDzpu61HTk8LSipQL8fzF53CZ0/present
