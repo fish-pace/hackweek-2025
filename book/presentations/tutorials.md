@@ -9,22 +9,18 @@ JupyterHub with all the necessary Python software packages installed.
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording | Colab |
 | :---- | :----: | :------: | :-------: |  :-------: | :-------:|
 | Overview of the JupyterHub                  | [{{ l1 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  | |
-| Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v0 }}][git-v]  |  |
 | Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v0 }}][ed-v] |  [{{ c1 }}][ed-c] |
-| Remote sensing reflectance (Rrs)  | [{{ l0 }}][rrs-l]   | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][rrs-v] | [{{ c1 }}][rrs-c] |
-| Data matchups | [{{ l0 }}][mu-l]   | [{{ l1 }}][mu-n] |  <a href="notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][mu-v] | [{{ c1 }}][mu-c] |
-| Accessing and visualizing MOANA data  | [{{ l0 }}][moana-l]   | [{{ l1 }}][moana-n] |  <a href="notebooks/vizualization_moana.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][moana-v] |  [{{ c1 }}][moana-c] |
-| Optical water classification and clustering | [{{ l0 }}][wc-l]   | [{{ l1 }}][wc-n] |  <a href="notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][wc-v] |  [{{ c1 }}][wc-c] |
-| Exploring light attenuation with Kd  | [{{ l0 }}][kd-l]   | [{{ l1 }}][kd-n] |  <a href="notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] | [{{ c1 }}][kd-c] |
+| Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v0 }}][git-v]  |  |
+| Remote sensing reflectance (Rrs)  |    | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][rrs-v] | [{{ c1 }}][rrs-c] |
+| Data matchups |    | [{{ l1 }}][mu-n] |  <a href="notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][mu-v] | [{{ c1 }}][mu-c] |
+| Accessing and visualizing MOANA data  |    | [{{ l1 }}][moana-n] |  <a href="notebooks/vizualization_moana.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][moana-v] |  [{{ c1 }}][moana-c] |
+| Optical water classification and clustering |    | [{{ l1 }}][wc-n] |  <a href="notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][wc-v] |  [{{ c1 }}][wc-c] |
+| Exploring light attenuation with Kd  |    | [{{ l1 }}][kd-n] |  <a href="notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] | [{{ c1 }}][kd-c] |
 | PACE, Bio-Argo and machine-learning  | [{{ l1 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][brt-v] | [{{ c1 }}][brt-c] |
 
-## Addition Tuturials
+## Additional Tuturials
 
-| Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording | Colab |
-| :---- | :----: | :------: | :-------: |  :-------: | :-------:|
-| Simple machine learning - CNNs  | [{{ l0 }}][cnn-l]   | [{{ l1 }}][cnn-n] |  <a href="notebooks/CNN_2D.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][cnn-v] | [{{ c1 }}][cnn-c] |
-
-You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
+See "Supplemental tutorials" in left navbar.
 
 [jh-n]: ""
 [jh-l]: https://docs.google.com/presentation/d/13hEJXGTW0baH1TtP9GDzpu61HTk8LSipQL8fzF53CZ0/present
@@ -73,7 +69,7 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [kd-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/kd_vizualization.ipynb
 
 [brt-n]: notebooks/BRT_Argo_CHLA
-[brt-l]: ""
+[brt-l]: 
 [brt-d]: notebooks/BRT_Argo_CHLA.ipynb
 [brt-v]: ""
 [brt-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/BRT_Argo_CHLA.ipynb
@@ -85,8 +81,8 @@ You can find additional Jupyter Notebook tutorials using PACE data on the [NASA 
 [cnn-v]: ""
 [cnn-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/CNN_2D.ipynb
 
-[brt-n]: "notebooks/BRT_Argo_CHLA"
-[brt-l]: https://fish-pace.github.io/chla-z-modeling/chla_depth_profiles.html#/title-slide
-[brt-d]: "notebooks/BRT_Argo_CHLA.ipynb"
+[brt-n]: notebooks/BRT_Argo_CHLA
+[brt-l]: https://fish-pace.github.io/chla-z/text_and_talks/chla_depth_profiles.html#/title-slide
+[brt-d]: notebooks/BRT_Argo_CHLA.ipynb
 [brt-v]: ""
 [brt-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/BRT_Argo_CHLA.ipynb
