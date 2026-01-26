@@ -11,11 +11,11 @@ JupyterHub with all the necessary Python software packages installed.
 | Overview of the JupyterHub                  | [{{ l1 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  | |
 | Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v0 }}][ed-v] |  [{{ c1 }}][ed-c] |
 | Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v0 }}][git-v]  |  |
-| Remote sensing reflectance (Rrs)  | [{{ l0 }}][rrs-l]   | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][rrs-v] | [{{ c1 }}][rrs-c] |
-| Data matchups | [{{ l0 }}][mu-l]   | [{{ l1 }}][mu-n] |  <a href="notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][mu-v] | [{{ c1 }}][mu-c] |
-| Accessing and visualizing MOANA data  | [{{ l0 }}][moana-l]   | [{{ l1 }}][moana-n] |  <a href="notebooks/vizualization_moana.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][moana-v] |  [{{ c1 }}][moana-c] |
-| Optical water classification and clustering | [{{ l0 }}][wc-l]   | [{{ l1 }}][wc-n] |  <a href="notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][wc-v] |  [{{ c1 }}][wc-c] |
-| Exploring light attenuation with Kd  | [{{ l0 }}][kd-l]   | [{{ l1 }}][kd-n] |  <a href="notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] | [{{ c1 }}][kd-c] |
+| Remote sensing reflectance (Rrs)  |    | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][rrs-v] | [{{ c1 }}][rrs-c] |
+| Data matchups |    | [{{ l1 }}][mu-n] |  <a href="notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][mu-v] | [{{ c1 }}][mu-c] |
+| Accessing and visualizing MOANA data  |    | [{{ l1 }}][moana-n] |  <a href="notebooks/vizualization_moana.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][moana-v] |  [{{ c1 }}][moana-c] |
+| Optical water classification and clustering |    | [{{ l1 }}][wc-n] |  <a href="notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][wc-v] |  [{{ c1 }}][wc-c] |
+| Exploring light attenuation with Kd  |    | [{{ l1 }}][kd-n] |  <a href="notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] | [{{ c1 }}][kd-c] |
 | PACE, Bio-Argo and machine-learning  | [{{ l1 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][brt-v] | [{{ c1 }}][brt-c] |
 
 ## Additional Tuturials
@@ -69,7 +69,7 @@ See "Supplemental tutorials" in left navbar.
 [kd-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/kd_vizualization.ipynb
 
 [brt-n]: notebooks/BRT_Argo_CHLA
-[brt-l]: ""
+[brt-l]: 
 [brt-d]: notebooks/BRT_Argo_CHLA.ipynb
 [brt-v]: ""
 [brt-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/BRT_Argo_CHLA.ipynb
@@ -81,8 +81,8 @@ See "Supplemental tutorials" in left navbar.
 [cnn-v]: ""
 [cnn-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/CNN_2D.ipynb
 
-[brt-n]: "notebooks/BRT_Argo_CHLA"
-[brt-l]: https://fish-pace.github.io/chla-z-modeling/chla_depth_profiles.html#/title-slide
-[brt-d]: "notebooks/BRT_Argo_CHLA.ipynb"
+[brt-n]: notebooks/BRT_Argo_CHLA
+[brt-l]: https://fish-pace.github.io/chla-z/text_and_talks/chla_depth_profiles.html#/title-slide
+[brt-d]: notebooks/BRT_Argo_CHLA.ipynb
 [brt-v]: ""
 [brt-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/BRT_Argo_CHLA.ipynb
