@@ -1,10 +1,10 @@
 # Tutorials
 
 Live recordings of the tutorial sessions will be linked here. Some tutorials include
-slides, and most have an accompanying Jupyter Notebooks that can be run in Colab (free, just requires Google account) or our
+slides, and most have an accompanying Jupyter Notebooks that can be run in Colab (free) or our
 JupyterHub with all the necessary Python software packages installed. 
 
-**How to run the tutorials?** You can either download and upload the tutorials (click download icon) or view the tutorial (click eye icon) and you will see options to open the tutorial in the JupyterHub or Colab. You can also go to the [tutorial GitHub repo](https://github.com/fish-pace/2025-tutorials) and clone that into the JupyterHub or your local machine.
+**How to run the tutorials?** In the tutorial, you will see a button to open in the JupyterHub.  You can also go to the [tutorial GitHub repo](https://github.com/fish-pace/2025-tutorials) and clone that into the JupyterHub or your local machine. Or you can open in Colab using the link in table. Slides can be downloaded from our [Google Drive](https://drive.google.com/drive/folders/1nqhyqtgOFSr_dIR-nd8L8wndSTSbiYzV?usp=sharing).
 
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording | Colab |
 | :---- | :----: | :------: | :-------: |  :-------: | :-------:|
