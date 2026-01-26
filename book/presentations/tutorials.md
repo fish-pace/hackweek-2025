@@ -9,8 +9,8 @@ JupyterHub with all the necessary Python software packages installed.
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording | Colab |
 | :---- | :----: | :------: | :-------: |  :-------: | :-------:|
 | Overview of the JupyterHub                  | [{{ l1 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  | |
-| Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v0 }}][git-v]  |  |
 | Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v0 }}][ed-v] |  [{{ c1 }}][ed-c] |
+| Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v0 }}][git-v]  |  |
 | Remote sensing reflectance (Rrs)  | [{{ l0 }}][rrs-l]   | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][rrs-v] | [{{ c1 }}][rrs-c] |
 | Data matchups | [{{ l0 }}][mu-l]   | [{{ l1 }}][mu-n] |  <a href="notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][mu-v] | [{{ c1 }}][mu-c] |
 | Accessing and visualizing MOANA data  | [{{ l0 }}][moana-l]   | [{{ l1 }}][moana-n] |  <a href="notebooks/vizualization_moana.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][moana-v] |  [{{ c1 }}][moana-c] |
