@@ -8,8 +8,8 @@ JupyterHub with all the necessary Python software packages installed.
 
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording | Colab |
 | :---- | :----: | :------: | :-------: |  :-------: | :-------:|
-| Overview of the JupyterHub                  | [{{ l1 }}][jh-l]      |    |     |  [{{ v0 }}][jh-v]  | |
-| Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v0 }}][ed-v] |  [{{ c1 }}][ed-c] |
+| Overview of the JupyterHub                  | [{{ l1 }}][jh-l]      |    |     |  [{{ v1 }}][jh-v]  | |
+| Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v1 }}][ed-v] |  [{{ c1 }}][ed-c] |
 | Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v0 }}][git-v]  |  |
 | Remote sensing reflectance (Rrs)  |    | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][rrs-v] | [{{ c1 }}][rrs-c] |
 | Data matchups |    | [{{ l1 }}][mu-n] |  <a href="notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][mu-v] | [{{ c1 }}][mu-c] |
@@ -25,7 +25,7 @@ See "Supplemental tutorials" in left navbar.
 [jh-n]: ""
 [jh-l]: https://docs.google.com/presentation/d/13hEJXGTW0baH1TtP9GDzpu61HTk8LSipQL8fzF53CZ0/present
 [jh-d]: ""
-[jh-v]: ""
+[jh-v]: https://youtu.be/-5q8ogDpH-A
 
 [git-n]: https://fish-pace.github.io/hackweek-2025/preliminary/git.html
 [git-l]: https://docs.google.com/presentation/d/1JuS8pNoq0__TyQMsTcXvvmSO8eaxJkAcxJQIlVpM2XA/present
@@ -35,7 +35,7 @@ See "Supplemental tutorials" in left navbar.
 [ed-n]: notebooks/pace_earthdata_access
 [ed-l]: https://docs.google.com/presentation/d/1PKJJ6139McB6WyPb1-z8YnlCjDa6k9jgcdSH3NpEkHc/present
 [ed-d]: notebooks/pace_earthdata_access.ipynb
-[ed-v]: ""
+[ed-v]: https://youtu.be/dlLSfh1eXLY
 [ed-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/pace_earthdata_access.ipynb
 
 [rrs-n]: notebooks/vizualization_rrs
