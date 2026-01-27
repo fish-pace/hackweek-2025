@@ -5,7 +5,7 @@ The slides and recordings will be linked from this page as they become available
 | Title | Slides | Recording |
 | :---- | :----: | :-------: |
 | Welcome to the Hackweek      | [{{ l1 }}][welcome-view]  | [{{ v0 }}][welcome-vid] |
-| The PACE Mission             | [{{ l1 }}][pace-view]   | [{{ v0 }}][pace-vid] |
+| The PACE Mission             | [{{ l1 }}][pace-view]   | [{{ v1 }}][pace-vid] |
 | Hyperspectral Products for Fisheries Applications  |  [{{ l1 }}][hyper-view]  | [{{ v0 }}][hyper-vid] |
 | Harmful Algal Blooms and Hyperspectral Ocean Color Data     | [{{ l0 }}][habs-view]   | [{{ v0 }}][habs-vid] |
 | Phytoplankton Community Composition from Ocean Color  | [{{ l0 }}][phyto-view]  | [{{ v0 }}][phyto-vid] |
@@ -25,7 +25,7 @@ The slides and recordings will be linked from this page as they become available
 [hyper-vid]: ""
 [pace-view]: https://drive.google.com/file/d/19AQO6YmEjZfltLe5QgoQz-ujDL1kb_0F/view
 [pace-dl]: https://drive.google.com/uc?export=download&id=1o8FCuY99KZBK2JyQubcSW3-feG7jWRgU
-[pace-vid]: ""
+[pace-vid]:https://youtu.be/MnvZcQ4PiKc
 [habs-view]: ""
 [habs-dl]: ""
 [habs-vid]: ""
