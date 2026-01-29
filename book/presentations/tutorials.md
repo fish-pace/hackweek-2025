@@ -9,14 +9,14 @@ JupyterHub with all the necessary Python software packages installed.
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording | Colab |
 | :---- | :----: | :------: | :-------: |  :-------: | :-------:|
 | Overview of the JupyterHub                  | [{{ l1 }}][jh-l]      |    |     |  [{{ v1 }}][jh-v]  | |
-| Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="nb:pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v1 }}][ed-v] |  [{{ c1 }}][ed-c] |
+| Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="../../_sources/presentations/notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v1 }}][ed-v] |  [{{ c1 }}][ed-c] |
 | Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v1 }}][git-v]  |  |
-| Remote sensing reflectance (Rrs)  |    | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][rrs-v] | [{{ c1 }}][rrs-c] |
-| Data matchups |    | [{{ l1 }}][mu-n] |  <a href="notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][mu-v] | [{{ c1 }}][mu-c] |
-| Accessing and visualizing MOANA data  |    | [{{ l1 }}][moana-n] |  <a href="notebooks/vizualization_moana.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][moana-v] |  [{{ c1 }}][moana-c] |
-| Optical water classification and clustering |    | [{{ l1 }}][wc-n] |  <a href="notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][wc-v] |  [{{ c1 }}][wc-c] |
-| Exploring light attenuation with Kd  |    | [{{ l1 }}][kd-n] |  <a href="notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] | [{{ c1 }}][kd-c] |
-| PACE, Bio-Argo and machine-learning  | [{{ l1 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][brt-v] | [{{ c1 }}][brt-c] |
+| Remote sensing reflectance (Rrs)  |    | [{{ l1 }}][rrs-n] |  <a href="../../_sources/presentations/notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][rrs-v] | [{{ c1 }}][rrs-c] |
+| Data matchups |    | [{{ l1 }}][mu-n] |  <a href="../../_sources/presentations/notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][mu-v] | [{{ c1 }}][mu-c] |
+| Accessing and visualizing MOANA data  |    | [{{ l1 }}][moana-n] |  <a href="../../_sources/presentations/notebooks/vizualization_moana.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][moana-v] |  [{{ c1 }}][moana-c] |
+| Optical water classification and clustering |    | [{{ l1 }}][wc-n] |  <a href="../../_sources/presentations/notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][wc-v] |  [{{ c1 }}][wc-c] |
+| Exploring light attenuation with Kd  |    | [{{ l1 }}][kd-n] |  <a href="../../_sources/presentations/notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] | [{{ c1 }}][kd-c] |
+| PACE, Bio-Argo and machine-learning  | [{{ l1 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="../../_sources/presentations/notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][brt-v] | [{{ c1 }}][brt-c] |
 
 ## Additional Tuturials
 
