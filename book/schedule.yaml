@@ -217,17 +217,15 @@ tabs:
   contents:
   - title: East & West Project Work Time
     description: Each project will have a breakout room.
-    time: 7:00 - 10:30
-  - title: Break
-    time: 10:30 - 11:00 
+    time: 7:00 - 11:00
   - title: Project Presentations
-    description: East teams will present their projects to the entire hackweek.
-    time: 10:30 - 12:00
+    description: East & West together
+    time: 11:00 - 12:30
   - title: Break
     description: null
-    time: 12:00 - 13:00
+    time: 12:30 - 13:00
   - title: Project Presentations
-    description: West teams will present their projects to the entire hackweek.
+    description: East & West together
     time: 13:00 - 14:30
   - title: HackWeek Wrap-Up
     description: null
