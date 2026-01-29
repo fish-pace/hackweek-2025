@@ -8,7 +8,7 @@ The slides and recordings will be linked from this page as they become available
 | The PACE Mission             | [{{ l1 }}][pace-view]   | [{{ v1 }}][pace-vid] |
 | Hyperspectral Products for Fisheries Applications  |  [{{ l1 }}][hyper-view]  | [{{ v0 }}][hyper-vid] |
 | Harmful Algal Blooms and Hyperspectral Ocean Color Data     | [{{ l1 }}][habs-view]   | [{{ v1 }}][habs-vid] |
-| Phytoplankton Community Composition from Ocean Color  | [{{ l0 }}][phyto-view]  | [{{ v0 }}][phyto-vid] |
+| Phytoplankton Community Composition from Ocean Color  | [{{ l1 }}][phyto-view]  | [{{ v1 }}][phyto-vid] |
 | Optical Light Fields and Fish Behavior | [{{ l0 }}][light-view]   | [{{ v0 }}][light-vid] |
 | The Future of High-resolution Ocean Color | [{{ l0 }}][future-view]  | [{{ v0 }}][future-vid] |
 
@@ -29,9 +29,9 @@ The slides and recordings will be linked from this page as they become available
 [habs-view]: https://drive.google.com/file/d/1i5ioVui4wP3qC6qHFp_MVCCMg9l3AEi-/view?usp=sharing
 [habs-dl]: ""
 [habs-vid]: https://youtu.be/FAw9YW8TMno
-[phyto-view]: ""
+[phyto-view]: https://drive.google.com/file/d/1LnWvJxzqM2CBwa_z-fmufkHRr8AbnnZn/view?usp=sharing
 [phyto-dl]: ""
-[phyto-vid]: ""
+[phyto-vid]: https://youtu.be/AiRPInRGgfM
 [light-view]: ""
 [light-dl]: ""
 [light-vid]: ""
