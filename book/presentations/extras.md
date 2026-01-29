@@ -7,10 +7,10 @@ JupyterHub with all the necessary Python software packages installed.
 
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording | Colab |
 | :---- | :----: | :------: | :-------: |  :-------: | :-------:|
-| Bio-Argo Data  |    | [{{ l1 }}][ba-n] |  <a href="../../_sources/presentations/notebooks/argopy.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][ba-v] | [{{ c1 }}][ba-c] |
-| Bio-Argo Matchups to PACE  |    | [{{ l1 }}][bam-n] |  <a href="../../_sources/presentations/notebooks/argopy-matchups.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][ba-v] | [{{ c1 }}][bam-c] |
-| OOI Mooring Data  |    | [{{ l1 }}][ooi-n] |  <a href="../../_sources/presentations/notebooks/ooi.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][ooi-v] | [{{ c1 }}][ooi-c] |
-| Simple machine learning - CNN  | [{{ l0 }}][cnn-l]   | [{{ l1 }}][cnn-n] |  <a href="../../_sources/presentations/notebooks/CNN_2D.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][cnn-v] | [{{ c1 }}][cnn-c] |
+| Bio-Argo Data  |    | [{{ l1 }}][ba-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/argopy.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][ba-v] | [{{ c1 }}][ba-c] |
+| Bio-Argo Matchups to PACE  |    | [{{ l1 }}][bam-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/argopy-matchups.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][ba-v] | [{{ c1 }}][bam-c] |
+| OOI Mooring Data  |    | [{{ l1 }}][ooi-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/ooi.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][ooi-v] | [{{ c1 }}][ooi-c] |
+| Simple machine learning - CNN  | [{{ l0 }}][cnn-l]   | [{{ l1 }}][cnn-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/notebooks/CNN_2D.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][cnn-v] | [{{ c1 }}][cnn-c] |
 
 You can find additional Jupyter Notebook tutorials using PACE data on the [NASA Ocean Biology Processing Group website](https://oceancolor.gsfc.nasa.gov/resources/docs/tutorials/), [PACE HackWeek 2024](https://pacehackweek.github.io/pace-2024/) and [PACE HackWeek 2025](https://pacehackweek.github.io/pace-2025/)
 
