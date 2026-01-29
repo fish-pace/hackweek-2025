@@ -1,9 +1,9 @@
 repo_directory: html
 name: Fish-PACE Hackweek
 favicon: assets/images/favicon-16x16.png
-apply:
-  url: https://forms.gle/4DEZMv2CxyyR6Cxz9
-  title: Applications Closed
+#apply:
+#  url: https://forms.gle/4DEZMv2CxyyR6Cxz9
+#  title: Applications Closed
 banner:
   description: ''
   start_date: 26 January 2026
