@@ -75,7 +75,7 @@ See "Supplemental tutorials" in left navbar.
 [cnn-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/CNN_2D.ipynb
 
 [brt-n]: notebooks/BRT_Argo_CHLA
-[brt-l]: https://fish-pace.github.io/chla-z/text_and_talks/chla_depth_profiles.html#/title-slide
+[brt-l]: https://fish-pace.github.io/chla-z/text_and_talks/chla_depth_talk_2.html#/title-slide
 [brt-d]: notebooks/BRT_Argo_CHLA.ipynb
 [brt-v]: ""
 [brt-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/BRT_Argo_CHLA.ipynb
