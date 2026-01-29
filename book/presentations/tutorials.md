@@ -9,7 +9,7 @@ JupyterHub with all the necessary Python software packages installed.
 | Title | Slides | Notebook {{ l1 }} | Notebook {{ d1 }} | Recording | Colab |
 | :---- | :----: | :------: | :-------: |  :-------: | :-------:|
 | Overview of the JupyterHub                  | [{{ l1 }}][jh-l]      |    |     |  [{{ v1 }}][jh-v]  | |
-| Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="notebooks/pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v1 }}][ed-v] |  [{{ c1 }}][ed-c] |
+| Accessing PACE data via earthaccess | [{{ l1 }}][ed-l] | [{{ l1 }}][ed-n] | <a href="nb:pace_earthdata_access.ipynb" download>{{ d1 }}</a> | [{{ v1 }}][ed-v] |  [{{ c1 }}][ed-c] |
 | Collaborating with Git and GitHub   | [{{ l1 }}][git-l]   |  [{{ l1 }}][git-n]  |     |  [{{ v1 }}][git-v]  |  |
 | Remote sensing reflectance (Rrs)  |    | [{{ l1 }}][rrs-n] |  <a href="notebooks/vizualization_rrs.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][rrs-v] | [{{ c1 }}][rrs-c] |
 | Data matchups |    | [{{ l1 }}][mu-n] |  <a href="notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][mu-v] | [{{ c1 }}][mu-c] |
