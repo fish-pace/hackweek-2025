@@ -27,7 +27,7 @@ parts:
 - caption: Projects
   chapters:
     - file: projects/index
-#    - file: projects/list_of_projects
+    - file: projects/list_of_projects
 - caption: Reference
   chapters:
     - file: preliminary/learning
