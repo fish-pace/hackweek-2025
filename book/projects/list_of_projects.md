@@ -1,8 +1,11 @@
-# List of Projects
+# List of Projects from Fish-PACE 2026
 
-On day 1 of the hackweek, they will self-form into groups of 3-7 and
-then get to work. On Day 5, each group will present on their project. 
+Presentation schedule Friday Jan 30, 2026
 
+<img width="523" height="409" alt="image" src="https://github.com/user-attachments/assets/aeed6b08-7ce4-4114-b13a-7a35c19d128c" />
+
+<!--
 | Team Name | Project Description | GitHub Repo | Team Members | 
 |:-----|:------|:-----| :-----|
 |  |  |  |  |
+-->
