@@ -16,7 +16,7 @@ JupyterHub with all the necessary Python software packages installed.
 | Accessing and visualizing MOANA data  |    | [{{ l1 }}][moana-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/vizualization_moana.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][moana-v] |  [{{ c1 }}][moana-c] |
 | Optical water classification and clustering |    | [{{ l1 }}][wc-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][wc-v] |  [{{ c1 }}][wc-c] |
 | Exploring light attenuation with Kd  |    | [{{ l1 }}][kd-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][kd-v] | [{{ c1 }}][kd-c] |
-| PACE, Bio-Argo and machine-learning  | [{{ l1 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][brt-v] | [{{ c1 }}][brt-c] |
+| PACE, Bio-Argo and machine-learning  | [{{ l1 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][brt-v] | [{{ c1 }}][brt-c] |
 
 ## Additional Tuturials
 
@@ -77,5 +77,5 @@ See "Supplemental tutorials" in left navbar.
 [brt-n]: notebooks/BRT_Argo_CHLA
 [brt-l]: https://fish-pace.github.io/chla-z/text_and_talks/chla_depth_talk_2.html#/title-slide
 [brt-d]: notebooks/BRT_Argo_CHLA.ipynb
-[brt-v]: ""
+[brt-v]: https://youtu.be/G_B8hRPIlbY
 [brt-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/BRT_Argo_CHLA.ipynb
