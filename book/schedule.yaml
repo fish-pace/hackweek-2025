@@ -219,13 +219,13 @@ tabs:
     description: Each project will have a breakout room.
     time: 7:00 - 11:00
   - title: Project Presentations
-    description: East & West together [schedule](https://fish-pace.github.io/hackweek-2025/projects/projects.html)
+    description: East & West together [schedule](https://fish-pace.github.io/hackweek-2025/projects/list_of_projects.html)
     time: 11:00 - 12:30
   - title: Break
     description: null
     time: 12:30 - 13:00
   - title: Project Presentations
-    description: East & West together [schedule](https://fish-pace.github.io/hackweek-2025/projects/projects.html)
+    description: East & West together [schedule](https://fish-pace.github.io/hackweek-2025/projects/list_of_projects.html)
     time: 13:00 - 14:00
   - title: HackWeek Wrap-Up
     description: null
