@@ -226,10 +226,10 @@ tabs:
     time: 12:30 - 13:00
   - title: Project Presentations
     description: East & West together
-    time: 13:00 - 14:30
+    time: 13:00 - 14:00
   - title: HackWeek Wrap-Up
     description: null
-    time: 14:30 - 15:00
+    time: 14:00 - 14:15
     leads:
     - Ryan Vandermeulen
     - Eli Holmes
