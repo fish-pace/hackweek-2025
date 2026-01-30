@@ -2,7 +2,7 @@
 
 | Name | Title | Repo | Slides | Video |
 |------|-------|------|--------|-------|
-| water-quality | A comparison of seasonal water quality parameters in the Northern Gulf of California using PACE hyperspectral data | [{fab}`github`](https://github.com/fish-pace/2026-proj-waterquality) | [{fa}`file-pdf`](#) | [{fab}`youtube`](https://youtu.be/4GLc3rjJOGE) |
+| water-quality | A comparison of seasonal water quality parameters in the Northern Gulf of California using PACE hyperspectral data | [{fab}`github`](https://github.com/fish-pace/2026-proj-waterquality) | [{fa}`file-pdf`](https://drive.google.com/file/d/1-UJhUUtmWF6Tb4_N4HVJCez3sXZtXacJ/view?usp=sharing) | [{fab}`youtube`](https://youtu.be/4GLc3rjJOGE) |
 | fishdrum | A comparison of red drum habitat associations with ocean color using PACE data | [{fab}`github`](https://github.com/fish-pace/2026-proj-fishing-reddrum) | [{fa}`file-pdf`](#) | [{fab}`youtube`](#) |
 | blue-monday | A comparison of hyperspectral and multispectral approaches for characterizing mangrove ecosystems using PACE OCI data, with the Niger Delta as a case study | [{fab}`github`](https://github.com/fish-pace/2026-proj-blue-monday) | [{fa}`file-pdf`](#) | [{fab}`youtube`](#) |
 | hypoxia-zones | A comparison of ocean color and biogeochemical drivers of bottom-water hypoxia in the Gulf of Mexico/America using PACE data | [{fab}`github`](https://github.com/fish-pace/2026-proj-hypoxia-zones) | [{fa}`file-pdf`](#) | [{fab}`youtube`](#) |
