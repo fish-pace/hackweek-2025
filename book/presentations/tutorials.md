@@ -15,7 +15,7 @@ JupyterHub with all the necessary Python software packages installed.
 | Data matchups |    | [{{ l1 }}][mu-n] |  <a href="../../_sources/presentations/notebooks/matchups.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][mu-v] | [{{ c1 }}][mu-c] |
 | Accessing and visualizing MOANA data  |    | [{{ l1 }}][moana-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/vizualization_moana.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][moana-v] |  [{{ c1 }}][moana-c] |
 | Optical water classification and clustering |    | [{{ l1 }}][wc-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/water_classification.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][wc-v] |  [{{ c1 }}][wc-c] |
-| Exploring light attenuation with Kd  |    | [{{ l1 }}][kd-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][kd-v] | [{{ c1 }}][kd-c] |
+| Exploring light attenuation with Kd  |    | [{{ l1 }}][kd-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/kd_vizualization.ipynb" download>{{ d1 }}</a> |  [{{ v1 }}][kd-v] | [{{ c1 }}][kd-c] |
 | PACE, Bio-Argo and machine-learning  | [{{ l1 }}][brt-l]   | [{{ l1 }}][brt-n] |  <a href="/hackweek-2025/_sources/presentations/notebooks/notebooks/BRT_Argo_CHLA.ipynb" download>{{ d1 }}</a> |  [{{ v0 }}][brt-v] | [{{ c1 }}][brt-c] |
 
 ## Additional Tuturials
@@ -65,7 +65,7 @@ See "Supplemental tutorials" in left navbar.
 [kd-n]: notebooks/kd_vizualization
 [kd-l]: ""
 [kd-d]: notebooks/kd_vizualization.ipynb
-[kd-v]: ""
+[kd-v]: https://youtu.be/nsdx1O1Q_ow
 [kd-c]: https://colab.research.google.com/github/fish-pace/2025-tutorials/blob/main/kd_vizualization.ipynb
 
 [cnn-n]: notebooks/CNN_2D
