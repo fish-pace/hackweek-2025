@@ -51,7 +51,7 @@ sponsors:
     logo_url: assets/images/nanoos_trans.png
   - name: 2i2c
     website: https://2i2c.org/
-    logo_url: assets/images/2i2c.png
+    logo_url: assets/images/2i2c_wide.svg
 footer:
   social:
   - icon: github
