@@ -2,7 +2,7 @@
 
 Presentation schedule Friday Jan 30, 2026
 
-<img width="523" height="409" alt="image" src="https://github.com/user-attachments/assets/aeed6b08-7ce4-4114-b13a-7a35c19d128c" />
+<img width="651" height="478" alt="image" src="https://github.com/user-attachments/assets/34b7674f-4a8a-420c-add2-36d115822d2f" />
 
 <!--
 | Team Name | Project Description | GitHub Repo | Team Members | 
