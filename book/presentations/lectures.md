@@ -9,8 +9,8 @@ The slides and recordings will be linked from this page as they become available
 | Hyperspectral Products for Fisheries Applications  |  [{{ l1 }}][hyper-view]  | [{{ v0 }}][hyper-vid] |
 | Harmful Algal Blooms and Hyperspectral Ocean Color Data     | [{{ l1 }}][habs-view]   | [{{ v1 }}][habs-vid] |
 | Phytoplankton Community Composition from Ocean Color  | [{{ l1 }}][phyto-view]  | [{{ v1 }}][phyto-vid] |
-| Optical Light Fields and Fish Behavior | [{{ l0 }}][light-view]   | [{{ v1 }}][light-vid] |
-| Hackweek Wrapup | [{{ l0 }}][wrapup-view]  | [{{ v0 }}][wrapup-vid] |
+| Optical Light Fields and Fish Behavior | [{{ l1 }}][light-view]   | [{{ v1 }}][light-vid] |
+| Hackweek Wrapup | [{{ l1 }}][wrapup-view]  | [{{ v1 }}][wrapup-vid] |
 
 <!-- 
 | The Future of High-resolution Ocean Color | [{{ l0 }}][future-view]  | [{{ v0 }}][future-vid] |
@@ -36,9 +36,9 @@ The slides and recordings will be linked from this page as they become available
 [light-view]: https://drive.google.com/file/d/1nqhyqtgOFSr_dIR-nd8L8wndSTSbiYzV/view
 [light-dl]: ""
 [light-vid]: https://youtu.be/rsnLtDM4AdM
-[wrapup-view]: ""
+[wrapup-view]: https://docs.google.com/presentation/d/1k9K5aL9Bs-uKWtQCTVgacTH3hMAa6Asl/present?slide=id.p1
 [wrapup-dl]: ""
-[wrapup-vid]: ""
+[wrapup-vid]: https://youtu.be/lLN83LdV7nM
 [future-view]: ""
 [future-dl]: ""
 [future-vid]: ""
